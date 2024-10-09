@@ -198,4 +198,4 @@ We welcome contributions from the open-source community! To contribute to the pr
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:onyeocha.keside@gmail.com)
+- **Email**: [onyeocha.keside@gmail.com](mailto:onyeocha.keside@gmail.com)
