@@ -57,6 +57,9 @@ Machine_Learning_Prediction_Of_Students_Exam_Score/
 │
 ├── test.ipynb                # Jupyter notebook with testing and evaluation
 ```
+
+### 2. System for Data Collection
+```bash
 /student_performance_app
 │
 ├── /app
@@ -82,7 +85,10 @@ Machine_Learning_Prediction_Of_Students_Exam_Score/
 │
 ├── requirements.txt          # List of required packages
 ├── .gitignore                # Ignore unnecessary files like /env
+```
 
+### 3. AI Examiner
+```bash
 AI_Examiner/
 │
 ├── /templates                # HTML templates for the frontend
@@ -93,6 +99,7 @@ AI_Examiner/
 │
 ├── requirements.txt          # Required Python packages
 ├── .gitignore                # Ignore unnecessary files like /env
+```
 ## Installation
 
 ### Prerequisites
