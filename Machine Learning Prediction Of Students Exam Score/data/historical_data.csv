@@ -1,0 +1,601 @@
+Class Level,Midterm Score,Exam Score,Improvements Over Time,JAMB Mock Score,Weak Subject,Student ID
+JSS1,22.11,35.62,Declined,0,Basic Science,STU001
+JSS2,35.66,0.24,No Change,0,Basic Science,STU002
+JSS3,25.95,48.61,No Change,0,Basic Tech,STU003
+SS1,6.2,4.39,Declined,0,English,STU004
+SS2,15.84,58.1,Declined,0,Biology,STU005
+SS3,35.26,52.19,No Change,211,Mathematics,STU006
+JSS1,19.06,12.11,Declined,0,Basic Science,STU007
+JSS2,1.98,5.35,Improved,0,Basic Science,STU008
+JSS3,6.8,53.56,No Change,0,Mathematics,STU009
+SS1,18.61,36.27,Improved,0,Biology,STU010
+SS2,39.03,0.5,Declined,0,English,STU011
+SS3,22.56,43.46,Declined,261,Mathematics,STU012
+JSS1,14.21,11.03,Declined,0,Basic Tech,STU013
+JSS2,5.49,44.98,Improved,0,Basic Science,STU014
+JSS3,8.64,8.72,Improved,0,Mathematics,STU015
+SS1,7.1,15.97,Declined,0,Biology,STU016
+SS2,21.52,45.73,No Change,0,Mathematics,STU017
+SS3,36.45,20.35,No Change,165,Chemistry,STU018
+JSS1,38.4,1.26,Improved,0,Mathematics,STU019
+JSS2,28.6,59.3,No Change,0,Basic Science,STU020
+JSS3,29.47,3.5,No Change,0,Mathematics,STU021
+SS1,29.28,22.0,Improved,0,Mathematics,STU022
+SS2,15.17,25.55,No Change,0,Biology,STU023
+SS3,23.0,25.96,Declined,309,Mathematics,STU024
+JSS1,36.4,52.8,No Change,0,Basic Tech,STU025
+JSS2,15.22,24.62,No Change,0,Basic Tech,STU026
+JSS3,33.21,3.1,Improved,0,Mathematics,STU027
+SS1,4.66,52.16,No Change,0,Biology,STU028
+SS2,26.54,38.76,Improved,0,English,STU029
+SS3,8.3,47.03,Declined,281,Chemistry,STU030
+JSS1,35.4,41.12,Improved,0,Basic Science,STU031
+JSS2,35.07,40.73,Improved,0,Basic Tech,STU032
+JSS3,18.03,33.56,Declined,0,Civic Education,STU033
+SS1,11.89,21.2,Improved,0,Mathematics,STU034
+SS2,28.54,40.12,No Change,0,English,STU035
+SS3,39.29,11.04,Improved,219,Mathematics,STU036
+JSS1,23.62,19.21,Improved,0,English,STU037
+JSS2,22.92,43.11,Improved,0,Basic Science,STU038
+JSS3,37.64,44.71,Improved,0,English,STU039
+SS1,25.91,9.28,No Change,0,Mathematics,STU040
+SS2,16.7,40.12,No Change,0,Mathematics,STU041
+SS3,23.16,9.89,No Change,120,Chemistry,STU042
+JSS1,24.93,22.38,Improved,0,Basic Tech,STU043
+JSS2,0.97,17.18,Declined,0,Basic Science,STU044
+JSS3,8.01,15.9,Declined,0,Civic Education,STU045
+SS1,23.72,0.94,Improved,0,Biology,STU046
+SS2,31.98,52.06,Improved,0,Biology,STU047
+SS3,25.68,4.38,Improved,189,Physics,STU048
+JSS1,32.82,19.13,Declined,0,English,STU049
+JSS2,3.79,53.75,Improved,0,Civic Education,STU050
+JSS3,15.81,29.03,Declined,0,Basic Tech,STU051
+SS1,16.19,23.06,Improved,0,Biology,STU052
+SS2,33.98,46.34,No Change,0,Chemistry,STU053
+SS3,34.46,28.51,No Change,277,English,STU054
+JSS1,5.28,11.11,No Change,0,English,STU055
+JSS2,13.92,15.66,Declined,0,Mathematics,STU056
+JSS3,34.56,21.22,Improved,0,English,STU057
+SS1,18.15,7.13,Declined,0,Physics,STU058
+SS2,23.73,39.15,No Change,0,Mathematics,STU059
+SS3,28.56,47.5,Declined,271,Mathematics,STU060
+JSS1,11.16,35.57,Improved,0,Civic Education,STU061
+JSS2,0.23,0.06,Improved,0,Civic Education,STU062
+JSS3,3.12,4.4,Improved,0,Basic Science,STU063
+SS1,38.73,40.22,No Change,0,Biology,STU064
+SS2,27.55,47.98,Improved,0,Biology,STU065
+SS3,6.88,14.33,Declined,111,Biology,STU066
+JSS1,12.96,6.5,Declined,0,Mathematics,STU067
+JSS2,32.3,9.28,No Change,0,Civic Education,STU068
+JSS3,33.03,38.45,Declined,0,Basic Tech,STU069
+SS1,27.17,38.93,Improved,0,Mathematics,STU070
+SS2,2.21,19.87,Declined,0,English,STU071
+SS3,23.58,33.39,No Change,125,Physics,STU072
+JSS1,27.75,39.48,Improved,0,Basic Science,STU073
+JSS2,37.59,12.96,No Change,0,Basic Science,STU074
+JSS3,21.42,50.96,Declined,0,Basic Tech,STU075
+SS1,14.45,9.23,Improved,0,Biology,STU076
+SS2,3.66,19.92,No Change,0,Chemistry,STU077
+SS3,28.7,59.08,No Change,329,Physics,STU078
+JSS1,0.64,37.14,Declined,0,Basic Science,STU079
+JSS2,5.48,40.56,Declined,0,Civic Education,STU080
+JSS3,37.63,57.27,Improved,0,Basic Science,STU081
+SS1,26.92,27.58,Declined,0,Chemistry,STU082
+SS2,35.42,1.27,Declined,0,Mathematics,STU083
+SS3,6.42,58.51,No Change,214,Biology,STU084
+JSS1,32.86,20.82,Improved,0,Civic Education,STU085
+JSS2,25.28,46.07,No Change,0,Civic Education,STU086
+JSS3,18.8,45.94,Improved,0,Civic Education,STU087
+SS1,0.12,48.09,Improved,0,Chemistry,STU088
+SS2,6.8,11.37,No Change,0,Biology,STU089
+SS3,37.81,6.41,No Change,228,Mathematics,STU090
+JSS1,2.91,23.78,No Change,0,Basic Tech,STU091
+JSS2,4.84,7.61,No Change,0,Basic Tech,STU092
+JSS3,25.8,33.61,No Change,0,Civic Education,STU093
+SS1,37.7,22.03,Declined,0,Mathematics,STU094
+SS2,20.33,6.24,Improved,0,Chemistry,STU095
+SS3,37.16,50.45,Improved,152,Chemistry,STU096
+JSS1,7.28,5.86,No Change,0,English,STU097
+JSS2,25.13,0.22,Declined,0,Mathematics,STU098
+JSS3,21.04,42.17,Declined,0,English,STU099
+SS1,26.27,17.34,No Change,0,Biology,STU100
+SS2,0.11,28.47,Improved,0,Mathematics,STU101
+SS3,5.0,40.89,Declined,231,English,STU102
+JSS1,17.05,40.68,Improved,0,Civic Education,STU103
+JSS2,2.61,42.39,Improved,0,Civic Education,STU104
+JSS3,17.15,15.68,No Change,0,Basic Science,STU105
+SS1,21.39,35.57,Declined,0,Mathematics,STU106
+SS2,10.3,4.64,Declined,0,Mathematics,STU107
+SS3,8.2,34.15,Improved,283,Chemistry,STU108
+JSS1,0.76,56.54,Declined,0,Basic Science,STU109
+JSS2,8.19,8.04,No Change,0,Basic Science,STU110
+JSS3,1.65,1.88,Improved,0,English,STU111
+SS1,2.79,5.58,No Change,0,Physics,STU112
+SS2,20.94,35.96,No Change,0,Chemistry,STU113
+SS3,3.66,14.42,Declined,133,English,STU114
+JSS1,28.41,9.48,Declined,0,English,STU115
+JSS2,23.92,52.94,Declined,0,Basic Science,STU116
+JSS3,34.24,21.44,Declined,0,English,STU117
+SS1,37.26,10.98,Improved,0,Chemistry,STU118
+SS2,17.75,8.67,Improved,0,Mathematics,STU119
+SS3,27.7,14.8,Declined,105,Chemistry,STU120
+JSS1,35.34,35.54,Declined,0,Basic Tech,STU121
+JSS2,5.48,2.64,Improved,0,Basic Science,STU122
+JSS3,28.51,17.3,Improved,0,Basic Science,STU123
+SS1,16.1,31.24,No Change,0,Physics,STU124
+SS2,30.54,5.04,Declined,0,Biology,STU125
+SS3,3.13,37.56,Improved,272,Physics,STU126
+JSS1,33.16,7.29,Declined,0,Basic Tech,STU127
+JSS2,39.03,43.26,Improved,0,Mathematics,STU128
+JSS3,16.11,18.04,No Change,0,Civic Education,STU129
+SS1,12.58,1.34,Improved,0,Biology,STU130
+SS2,20.59,31.57,Declined,0,Biology,STU131
+SS3,0.73,23.09,No Change,234,Physics,STU132
+JSS1,26.37,53.86,Declined,0,English,STU133
+JSS2,37.12,38.3,No Change,0,Basic Tech,STU134
+JSS3,30.84,4.43,Improved,0,Basic Science,STU135
+SS1,8.45,50.06,No Change,0,Biology,STU136
+SS2,33.67,52.64,Declined,0,Chemistry,STU137
+SS3,33.58,33.75,Improved,226,Chemistry,STU138
+JSS1,6.34,51.0,Improved,0,Mathematics,STU139
+JSS2,6.54,13.0,No Change,0,Basic Tech,STU140
+JSS3,20.01,44.11,Declined,0,Civic Education,STU141
+SS1,14.78,44.62,Improved,0,Biology,STU142
+SS2,1.38,6.02,Improved,0,Biology,STU143
+SS3,24.69,54.54,Declined,319,Biology,STU144
+JSS1,14.56,24.21,Improved,0,Mathematics,STU145
+JSS2,26.77,21.47,Declined,0,Basic Science,STU146
+JSS3,18.41,56.73,Improved,0,English,STU147
+SS1,8.73,37.62,Declined,0,Biology,STU148
+SS2,14.97,38.6,Improved,0,English,STU149
+SS3,0.17,45.18,Declined,284,Chemistry,STU150
+JSS1,12.46,10.83,Declined,0,Basic Tech,STU151
+JSS2,11.06,33.57,Declined,0,Basic Science,STU152
+JSS3,9.2,39.93,Improved,0,Basic Science,STU153
+SS1,31.9,29.33,Improved,0,Physics,STU154
+SS2,2.32,45.38,Improved,0,Biology,STU155
+SS3,39.81,37.69,Improved,124,Mathematics,STU156
+JSS1,7.68,58.06,Improved,0,Basic Science,STU157
+JSS2,7.77,7.66,Improved,0,Civic Education,STU158
+JSS3,30.94,14.92,Declined,0,English,STU159
+SS1,23.42,34.69,Declined,0,English,STU160
+SS2,20.35,47.17,Declined,0,Physics,STU161
+SS3,23.28,4.51,No Change,293,Biology,STU162
+JSS1,34.47,47.68,Improved,0,Basic Science,STU163
+JSS2,6.42,29.95,Improved,0,Mathematics,STU164
+JSS3,34.34,48.33,Improved,0,Mathematics,STU165
+SS1,3.96,36.64,Improved,0,Chemistry,STU166
+SS2,39.66,32.66,No Change,0,Chemistry,STU167
+SS3,15.82,4.27,Improved,284,Mathematics,STU168
+JSS1,21.84,46.91,No Change,0,Basic Tech,STU169
+JSS2,12.15,40.59,Declined,0,English,STU170
+JSS3,29.48,49.52,Declined,0,Civic Education,STU171
+SS1,34.88,34.33,Improved,0,Chemistry,STU172
+SS2,34.69,21.31,No Change,0,Physics,STU173
+SS3,2.5,26.03,Declined,104,English,STU174
+JSS1,22.43,31.74,Improved,0,Mathematics,STU175
+JSS2,12.18,26.43,No Change,0,Civic Education,STU176
+JSS3,25.27,5.24,No Change,0,Mathematics,STU177
+SS1,5.51,19.88,No Change,0,Chemistry,STU178
+SS2,0.87,59.71,Declined,0,Physics,STU179
+SS3,19.75,8.26,Declined,215,Physics,STU180
+JSS1,20.78,47.43,Declined,0,Civic Education,STU181
+JSS2,26.55,39.69,No Change,0,Basic Tech,STU182
+JSS3,1.83,13.22,Declined,0,Basic Tech,STU183
+SS1,18.52,42.65,Declined,0,Chemistry,STU184
+SS2,23.75,25.62,Improved,0,Biology,STU185
+SS3,16.1,37.58,Declined,262,Physics,STU186
+JSS1,22.67,19.57,No Change,0,English,STU187
+JSS2,33.68,55.55,Improved,0,English,STU188
+JSS3,3.06,30.41,Declined,0,Mathematics,STU189
+SS1,13.23,9.07,Declined,0,Biology,STU190
+SS2,9.12,58.68,Declined,0,Biology,STU191
+SS3,24.76,42.21,No Change,293,Biology,STU192
+JSS1,15.94,13.54,Declined,0,Basic Tech,STU193
+JSS2,25.91,34.54,Declined,0,Basic Science,STU194
+JSS3,8.69,44.26,Improved,0,Mathematics,STU195
+SS1,14.81,57.52,Declined,0,Mathematics,STU196
+SS2,6.74,18.92,No Change,0,Chemistry,STU197
+SS3,18.14,21.54,Improved,316,Chemistry,STU198
+JSS1,21.5,47.31,No Change,0,Civic Education,STU199
+JSS2,1.67,48.93,Improved,0,Mathematics,STU200
+JSS3,37.79,32.92,Improved,0,Basic Tech,STU201
+SS1,10.07,29.7,Declined,0,Chemistry,STU202
+SS2,8.82,58.22,No Change,0,Biology,STU203
+SS3,0.63,51.94,Declined,153,Chemistry,STU204
+JSS1,22.81,12.52,Improved,0,English,STU205
+JSS2,31.45,19.69,Declined,0,Mathematics,STU206
+JSS3,34.92,39.81,No Change,0,Basic Science,STU207
+SS1,17.68,38.07,Improved,0,Chemistry,STU208
+SS2,31.35,45.35,Declined,0,Mathematics,STU209
+SS3,12.4,11.66,Improved,309,English,STU210
+JSS1,11.51,57.57,Declined,0,Mathematics,STU211
+JSS2,33.76,52.48,Declined,0,English,STU212
+JSS3,15.44,5.11,Declined,0,English,STU213
+SS1,13.05,4.49,Declined,0,Biology,STU214
+SS2,20.94,27.94,Declined,0,Chemistry,STU215
+SS3,9.04,41.24,Improved,209,Mathematics,STU216
+JSS1,26.13,25.94,Declined,0,Civic Education,STU217
+JSS2,15.99,33.51,No Change,0,Basic Science,STU218
+JSS3,23.77,53.11,Declined,0,English,STU219
+SS1,38.9,33.7,Improved,0,Biology,STU220
+SS2,13.49,51.02,No Change,0,Physics,STU221
+SS3,31.78,22.21,No Change,170,Chemistry,STU222
+JSS1,14.79,20.95,Declined,0,English,STU223
+JSS2,12.2,16.29,Declined,0,Basic Tech,STU224
+JSS3,32.08,52.45,No Change,0,Basic Science,STU225
+SS1,24.14,32.21,Improved,0,English,STU226
+SS2,8.46,29.13,Declined,0,Biology,STU227
+SS3,31.96,59.73,Declined,270,Chemistry,STU228
+JSS1,35.32,11.52,Declined,0,Basic Science,STU229
+JSS2,37.15,32.09,Declined,0,Basic Tech,STU230
+JSS3,30.34,26.17,No Change,0,English,STU231
+SS1,9.9,55.11,Improved,0,Physics,STU232
+SS2,18.86,19.56,Improved,0,Chemistry,STU233
+SS3,14.63,46.9,Improved,350,English,STU234
+JSS1,6.76,58.35,No Change,0,Basic Science,STU235
+JSS2,34.19,33.56,Improved,0,Basic Science,STU236
+JSS3,12.75,29.7,No Change,0,Basic Science,STU237
+SS1,6.35,32.34,Improved,0,Biology,STU238
+SS2,39.11,27.5,Declined,0,English,STU239
+SS3,28.67,38.13,No Change,128,Mathematics,STU240
+JSS1,7.22,48.67,Declined,0,Basic Science,STU241
+JSS2,4.43,58.43,Declined,0,English,STU242
+JSS3,26.16,7.67,No Change,0,Basic Science,STU243
+SS1,22.32,13.98,No Change,0,Mathematics,STU244
+SS2,23.44,58.57,Declined,0,Mathematics,STU245
+SS3,27.65,27.94,Improved,252,Chemistry,STU246
+JSS1,6.26,24.72,Declined,0,English,STU247
+JSS2,21.21,13.71,Improved,0,Civic Education,STU248
+JSS3,14.9,27.74,Declined,0,Basic Science,STU249
+SS1,29.8,48.29,Declined,0,Physics,STU250
+SS2,36.96,14.5,Declined,0,English,STU251
+SS3,23.82,40.45,Declined,322,Physics,STU252
+JSS1,15.41,56.36,Improved,0,Basic Tech,STU253
+JSS2,13.45,33.47,Declined,0,Mathematics,STU254
+JSS3,22.15,4.28,Improved,0,Civic Education,STU255
+SS1,19.92,41.09,Declined,0,Physics,STU256
+SS2,10.2,13.1,No Change,0,Chemistry,STU257
+SS3,36.96,25.29,Improved,277,Chemistry,STU258
+JSS1,24.85,8.76,No Change,0,Basic Science,STU259
+JSS2,35.73,18.82,Improved,0,English,STU260
+JSS3,37.39,33.59,Improved,0,Basic Tech,STU261
+SS1,34.03,14.65,Improved,0,Physics,STU262
+SS2,31.69,56.41,Improved,0,Chemistry,STU263
+SS3,23.23,31.43,Declined,299,Biology,STU264
+JSS1,31.99,20.42,No Change,0,Basic Science,STU265
+JSS2,34.93,20.02,Improved,0,Civic Education,STU266
+JSS3,4.18,22.44,Declined,0,Basic Tech,STU267
+SS1,37.14,25.26,Declined,0,Mathematics,STU268
+SS2,31.43,11.48,No Change,0,Chemistry,STU269
+SS3,11.74,40.29,Improved,240,English,STU270
+JSS1,20.65,6.31,No Change,0,Basic Science,STU271
+JSS2,26.03,18.19,Declined,0,Basic Science,STU272
+JSS3,14.06,1.04,No Change,0,Civic Education,STU273
+SS1,37.64,15.68,Declined,0,English,STU274
+SS2,14.54,26.05,No Change,0,Chemistry,STU275
+SS3,19.41,37.31,No Change,268,Biology,STU276
+JSS1,20.12,51.78,Declined,0,Mathematics,STU277
+JSS2,28.48,51.76,No Change,0,English,STU278
+JSS3,5.36,1.96,Declined,0,Basic Science,STU279
+SS1,8.96,30.51,No Change,0,Mathematics,STU280
+SS2,35.49,29.5,Declined,0,Physics,STU281
+SS3,4.07,8.05,Declined,264,English,STU282
+JSS1,30.35,4.35,No Change,0,English,STU283
+JSS2,16.19,23.16,Improved,0,Mathematics,STU284
+JSS3,36.65,38.32,No Change,0,Basic Science,STU285
+SS1,28.51,50.48,Improved,0,Chemistry,STU286
+SS2,5.34,34.5,Improved,0,English,STU287
+SS3,31.76,22.84,Improved,157,Mathematics,STU288
+JSS1,15.89,14.47,Improved,0,Mathematics,STU289
+JSS2,39.03,14.17,Improved,0,Mathematics,STU290
+JSS3,38.04,49.58,Improved,0,Civic Education,STU291
+SS1,21.03,32.51,Declined,0,Mathematics,STU292
+SS2,15.02,32.53,No Change,0,Mathematics,STU293
+SS3,30.82,7.96,No Change,140,Chemistry,STU294
+JSS1,12.72,38.03,Improved,0,Civic Education,STU295
+JSS2,31.51,22.17,No Change,0,Basic Science,STU296
+JSS3,10.64,47.84,Improved,0,Basic Tech,STU297
+SS1,7.86,15.91,No Change,0,Chemistry,STU298
+SS2,0.88,10.85,No Change,0,Chemistry,STU299
+SS3,34.33,49.14,Improved,181,Chemistry,STU300
+JSS1,0.96,24.5,Improved,0,English,STU301
+JSS2,35.91,40.9,Improved,0,English,STU302
+JSS3,25.57,53.13,Improved,0,Civic Education,STU303
+SS1,2.6,4.26,Improved,0,Physics,STU304
+SS2,10.51,46.87,Improved,0,Chemistry,STU305
+SS3,15.55,8.47,Improved,228,Biology,STU306
+JSS1,11.31,44.37,Declined,0,English,STU307
+JSS2,5.2,56.19,Declined,0,Civic Education,STU308
+JSS3,9.93,14.08,No Change,0,English,STU309
+SS1,23.51,43.95,No Change,0,Mathematics,STU310
+SS2,20.01,32.63,Improved,0,Chemistry,STU311
+SS3,30.65,27.43,Improved,190,Mathematics,STU312
+JSS1,26.59,31.15,No Change,0,Mathematics,STU313
+JSS2,33.96,52.88,Improved,0,Mathematics,STU314
+JSS3,24.78,19.36,Declined,0,Basic Tech,STU315
+SS1,18.35,17.98,Improved,0,Biology,STU316
+SS2,10.84,6.91,No Change,0,English,STU317
+SS3,26.35,35.78,No Change,167,English,STU318
+JSS1,12.46,27.27,No Change,0,Civic Education,STU319
+JSS2,22.43,7.78,No Change,0,Mathematics,STU320
+JSS3,30.14,36.85,No Change,0,English,STU321
+SS1,14.06,45.59,Improved,0,Mathematics,STU322
+SS2,12.51,3.8,Declined,0,Biology,STU323
+SS3,21.01,50.91,No Change,112,Physics,STU324
+JSS1,7.57,57.87,No Change,0,Basic Tech,STU325
+JSS2,4.41,55.6,Improved,0,English,STU326
+JSS3,8.11,30.95,Declined,0,Mathematics,STU327
+SS1,18.43,22.39,Declined,0,English,STU328
+SS2,19.52,50.34,Declined,0,Mathematics,STU329
+SS3,39.0,40.24,No Change,221,Biology,STU330
+JSS1,9.24,14.25,Improved,0,Basic Science,STU331
+JSS2,27.24,7.0,Improved,0,English,STU332
+JSS3,18.89,22.23,No Change,0,Basic Tech,STU333
+SS1,27.19,33.2,No Change,0,Chemistry,STU334
+SS2,0.92,20.61,Improved,0,Biology,STU335
+SS3,37.32,59.01,Declined,297,Biology,STU336
+JSS1,3.86,6.96,Improved,0,Basic Tech,STU337
+JSS2,29.14,47.6,No Change,0,Basic Science,STU338
+JSS3,25.55,22.51,No Change,0,Basic Science,STU339
+SS1,31.9,14.55,Improved,0,Mathematics,STU340
+SS2,35.98,51.16,Declined,0,English,STU341
+SS3,14.36,9.77,No Change,213,English,STU342
+JSS1,5.4,0.81,No Change,0,Basic Tech,STU343
+JSS2,9.0,32.12,Improved,0,Mathematics,STU344
+JSS3,28.58,26.19,No Change,0,Basic Tech,STU345
+SS1,39.93,43.41,Improved,0,Mathematics,STU346
+SS2,25.5,44.39,Improved,0,Chemistry,STU347
+SS3,35.91,5.9,No Change,217,Mathematics,STU348
+JSS1,12.29,7.78,Improved,0,Basic Science,STU349
+JSS2,33.87,49.94,No Change,0,Basic Science,STU350
+JSS3,2.47,6.6,No Change,0,English,STU351
+SS1,10.57,47.24,Declined,0,Physics,STU352
+SS2,19.11,4.7,Improved,0,English,STU353
+SS3,25.09,45.04,Improved,121,Chemistry,STU354
+JSS1,34.03,43.78,Declined,0,English,STU355
+JSS2,29.53,27.06,Declined,0,Basic Science,STU356
+JSS3,16.14,13.68,Improved,0,Basic Tech,STU357
+SS1,24.12,40.23,No Change,0,English,STU358
+SS2,37.94,55.33,Improved,0,Physics,STU359
+SS3,3.71,31.42,Declined,100,Chemistry,STU360
+JSS1,23.21,8.08,No Change,0,Basic Science,STU361
+JSS2,18.15,13.03,Declined,0,Civic Education,STU362
+JSS3,12.27,25.79,Declined,0,Basic Science,STU363
+SS1,2.78,12.52,Declined,0,Chemistry,STU364
+SS2,11.73,39.29,Declined,0,English,STU365
+SS3,12.52,50.11,No Change,275,English,STU366
+JSS1,15.38,6.39,No Change,0,Basic Science,STU367
+JSS2,30.14,9.24,Declined,0,Basic Tech,STU368
+JSS3,20.46,26.04,Improved,0,Civic Education,STU369
+SS1,25.64,39.15,No Change,0,Physics,STU370
+SS2,33.88,24.86,Declined,0,Chemistry,STU371
+SS3,36.91,15.09,No Change,114,Mathematics,STU372
+JSS1,22.67,29.63,Declined,0,Civic Education,STU373
+JSS2,37.42,58.26,No Change,0,Mathematics,STU374
+JSS3,30.84,43.93,Improved,0,English,STU375
+SS1,16.86,22.34,Improved,0,Mathematics,STU376
+SS2,26.84,50.21,No Change,0,Biology,STU377
+SS3,10.07,12.12,Improved,181,Mathematics,STU378
+JSS1,19.97,22.32,Declined,0,English,STU379
+JSS2,39.64,44.12,Improved,0,Mathematics,STU380
+JSS3,9.54,22.85,No Change,0,Basic Tech,STU381
+SS1,28.29,32.68,Declined,0,English,STU382
+SS2,12.13,23.22,Improved,0,Physics,STU383
+SS3,29.04,44.84,Improved,294,English,STU384
+JSS1,25.75,53.78,Declined,0,Basic Tech,STU385
+JSS2,24.37,53.02,No Change,0,Basic Science,STU386
+JSS3,14.7,48.1,No Change,0,English,STU387
+SS1,36.86,58.87,Improved,0,English,STU388
+SS2,15.57,9.98,Improved,0,Mathematics,STU389
+SS3,23.86,54.76,No Change,210,Mathematics,STU390
+JSS1,19.82,56.11,Declined,0,Civic Education,STU391
+JSS2,28.76,38.38,Declined,0,Mathematics,STU392
+JSS3,5.54,34.59,No Change,0,Basic Tech,STU393
+SS1,12.44,39.81,No Change,0,English,STU394
+SS2,0.93,19.77,Improved,0,Physics,STU395
+SS3,0.58,8.33,Improved,220,Physics,STU396
+JSS1,25.25,4.25,No Change,0,Mathematics,STU397
+JSS2,15.38,21.09,Improved,0,Basic Science,STU398
+JSS3,2.83,7.47,No Change,0,Civic Education,STU399
+SS1,10.32,17.47,Improved,0,Chemistry,STU400
+SS2,33.78,40.66,Improved,0,Physics,STU401
+SS3,36.59,55.51,No Change,242,Biology,STU402
+JSS1,33.02,14.19,Improved,0,Basic Science,STU403
+JSS2,30.34,22.66,No Change,0,English,STU404
+JSS3,3.64,42.62,Declined,0,Civic Education,STU405
+SS1,9.66,46.17,Declined,0,English,STU406
+SS2,32.17,40.51,Improved,0,Mathematics,STU407
+SS3,28.5,43.57,Improved,312,Physics,STU408
+JSS1,6.99,18.27,Declined,0,Basic Tech,STU409
+JSS2,27.84,31.85,Improved,0,Basic Science,STU410
+JSS3,38.08,51.56,Declined,0,English,STU411
+SS1,3.45,54.36,Improved,0,Chemistry,STU412
+SS2,27.34,6.56,Improved,0,Chemistry,STU413
+SS3,11.94,42.58,Declined,247,Biology,STU414
+JSS1,34.36,48.5,Declined,0,English,STU415
+JSS2,25.26,9.5,Declined,0,Basic Science,STU416
+JSS3,39.38,31.03,Declined,0,Civic Education,STU417
+SS1,2.86,25.99,Declined,0,Biology,STU418
+SS2,4.35,37.87,Declined,0,Physics,STU419
+SS3,36.94,58.05,Improved,297,Chemistry,STU420
+JSS1,26.37,33.35,Improved,0,English,STU421
+JSS2,33.09,43.35,Declined,0,Civic Education,STU422
+JSS3,34.75,45.55,Declined,0,Mathematics,STU423
+SS1,39.16,48.24,Declined,0,Mathematics,STU424
+SS2,6.96,41.45,Declined,0,Biology,STU425
+SS3,13.98,5.17,Improved,247,Chemistry,STU426
+JSS1,15.98,39.54,No Change,0,Basic Tech,STU427
+JSS2,10.63,59.62,Declined,0,Basic Tech,STU428
+JSS3,38.72,33.33,No Change,0,English,STU429
+SS1,16.7,25.95,Improved,0,English,STU430
+SS2,16.94,31.89,Improved,0,Physics,STU431
+SS3,19.18,45.12,Improved,121,Chemistry,STU432
+JSS1,28.59,1.04,Declined,0,Basic Science,STU433
+JSS2,14.41,44.91,No Change,0,Mathematics,STU434
+JSS3,31.22,26.35,Improved,0,Civic Education,STU435
+SS1,15.89,32.45,Improved,0,Biology,STU436
+SS2,23.6,28.92,Declined,0,Physics,STU437
+SS3,7.89,2.6,Declined,143,English,STU438
+JSS1,10.23,32.89,Improved,0,English,STU439
+JSS2,5.52,23.79,Declined,0,Basic Tech,STU440
+JSS3,19.78,27.03,Improved,0,Civic Education,STU441
+SS1,34.83,14.77,No Change,0,Biology,STU442
+SS2,13.29,33.66,Declined,0,Physics,STU443
+SS3,18.92,47.53,No Change,121,Chemistry,STU444
+JSS1,23.31,0.29,Declined,0,Basic Tech,STU445
+JSS2,10.4,25.36,No Change,0,Mathematics,STU446
+JSS3,28.44,40.3,No Change,0,Basic Science,STU447
+SS1,26.39,38.16,No Change,0,English,STU448
+SS2,17.61,7.37,No Change,0,Chemistry,STU449
+SS3,23.96,30.89,Declined,154,Physics,STU450
+JSS1,25.9,55.51,No Change,0,English,STU451
+JSS2,32.78,9.97,Improved,0,English,STU452
+JSS3,15.02,14.52,Improved,0,English,STU453
+SS1,7.94,24.67,Improved,0,Biology,STU454
+SS2,34.2,11.75,No Change,0,Mathematics,STU455
+SS3,7.03,21.17,No Change,199,English,STU456
+JSS1,2.03,49.3,Declined,0,Basic Science,STU457
+JSS2,37.27,57.83,Improved,0,English,STU458
+JSS3,4.28,32.81,No Change,0,English,STU459
+SS1,31.26,46.5,No Change,0,Mathematics,STU460
+SS2,4.81,29.25,Improved,0,Physics,STU461
+SS3,5.9,51.63,No Change,127,Biology,STU462
+JSS1,24.34,56.85,Declined,0,English,STU463
+JSS2,34.77,40.3,Declined,0,Civic Education,STU464
+JSS3,28.96,50.88,Improved,0,Basic Tech,STU465
+SS1,38.64,33.11,No Change,0,Physics,STU466
+SS2,12.55,10.4,Improved,0,Physics,STU467
+SS3,28.86,31.17,Improved,263,Physics,STU468
+JSS1,5.88,18.49,Declined,0,Basic Science,STU469
+JSS2,20.14,52.05,No Change,0,Basic Tech,STU470
+JSS3,33.29,3.45,No Change,0,Mathematics,STU471
+SS1,34.32,46.32,Declined,0,Physics,STU472
+SS2,31.28,3.78,No Change,0,Mathematics,STU473
+SS3,22.45,7.84,Declined,333,Mathematics,STU474
+JSS1,19.04,19.16,Declined,0,Basic Tech,STU475
+JSS2,28.08,33.69,Declined,0,Civic Education,STU476
+JSS3,32.88,32.41,Improved,0,English,STU477
+SS1,19.38,59.84,Improved,0,English,STU478
+SS2,20.71,34.45,No Change,0,Physics,STU479
+SS3,32.35,17.37,Improved,301,Biology,STU480
+JSS1,1.44,45.38,No Change,0,Mathematics,STU481
+JSS2,32.82,23.66,Declined,0,English,STU482
+JSS3,12.52,0.84,Declined,0,Mathematics,STU483
+SS1,5.66,28.45,Improved,0,Biology,STU484
+SS2,35.15,14.11,Declined,0,English,STU485
+SS3,16.27,45.1,Improved,333,Biology,STU486
+JSS1,28.05,58.97,Improved,0,Civic Education,STU487
+JSS2,19.2,10.0,Improved,0,Basic Science,STU488
+JSS3,4.93,5.13,No Change,0,Basic Tech,STU489
+SS1,22.96,29.08,No Change,0,Mathematics,STU490
+SS2,36.83,10.51,No Change,0,Physics,STU491
+SS3,33.24,5.8,No Change,343,Mathematics,STU492
+JSS1,5.5,9.24,Improved,0,Civic Education,STU493
+JSS2,8.38,51.48,No Change,0,Civic Education,STU494
+JSS3,39.25,32.59,Declined,0,English,STU495
+SS1,25.16,29.57,Declined,0,English,STU496
+SS2,39.06,50.2,Improved,0,Physics,STU497
+SS3,30.47,21.63,Declined,154,Mathematics,STU498
+JSS1,17.63,58.8,No Change,0,English,STU499
+JSS2,39.09,8.2,Improved,0,Mathematics,STU500
+JSS3,33.26,17.08,Declined,0,Mathematics,STU501
+SS1,30.77,31.63,No Change,0,Biology,STU502
+SS2,21.21,8.53,Improved,0,Mathematics,STU503
+SS3,28.58,33.64,Improved,159,English,STU504
+JSS1,36.28,54.04,Improved,0,Civic Education,STU505
+JSS2,10.58,33.63,No Change,0,Civic Education,STU506
+JSS3,14.84,32.17,Improved,0,English,STU507
+SS1,33.78,26.15,No Change,0,Physics,STU508
+SS2,3.02,55.43,Improved,0,Chemistry,STU509
+SS3,16.12,36.08,No Change,261,Mathematics,STU510
+JSS1,17.25,6.98,Declined,0,Basic Tech,STU511
+JSS2,39.32,38.94,No Change,0,Basic Tech,STU512
+JSS3,24.0,24.34,Improved,0,Civic Education,STU513
+SS1,36.01,5.32,No Change,0,Mathematics,STU514
+SS2,29.05,35.17,No Change,0,English,STU515
+SS3,14.36,51.45,Declined,184,Mathematics,STU516
+JSS1,5.54,32.98,Declined,0,Civic Education,STU517
+JSS2,25.65,41.4,No Change,0,Basic Science,STU518
+JSS3,34.01,56.02,Declined,0,English,STU519
+SS1,21.32,53.3,Improved,0,Biology,STU520
+SS2,7.9,26.57,Improved,0,Mathematics,STU521
+SS3,25.72,39.13,Declined,303,Mathematics,STU522
+JSS1,34.95,18.47,No Change,0,Mathematics,STU523
+JSS2,9.86,27.46,Improved,0,Basic Science,STU524
+JSS3,22.59,11.99,Declined,0,Basic Science,STU525
+SS1,18.69,55.03,No Change,0,English,STU526
+SS2,8.09,17.98,No Change,0,Physics,STU527
+SS3,31.31,28.72,Improved,229,Mathematics,STU528
+JSS1,12.39,17.89,No Change,0,Civic Education,STU529
+JSS2,0.86,1.5,No Change,0,Basic Science,STU530
+JSS3,17.01,54.42,Declined,0,Basic Tech,STU531
+SS1,14.63,17.37,Improved,0,Physics,STU532
+SS2,25.39,56.44,Improved,0,Chemistry,STU533
+SS3,17.67,29.43,Declined,198,Biology,STU534
+JSS1,29.48,47.44,Declined,0,Basic Science,STU535
+JSS2,1.78,10.8,No Change,0,Civic Education,STU536
+JSS3,33.67,38.38,Improved,0,Basic Tech,STU537
+SS1,33.57,58.74,No Change,0,Chemistry,STU538
+SS2,33.12,29.94,Declined,0,English,STU539
+SS3,16.04,6.64,Improved,196,Mathematics,STU540
+JSS1,36.32,1.22,No Change,0,Basic Science,STU541
+JSS2,8.86,32.9,Declined,0,Basic Tech,STU542
+JSS3,22.5,45.54,No Change,0,Mathematics,STU543
+SS1,26.27,16.81,Declined,0,Mathematics,STU544
+SS2,35.15,42.08,No Change,0,Biology,STU545
+SS3,5.06,1.92,Improved,228,Biology,STU546
+JSS1,34.55,50.67,Declined,0,Mathematics,STU547
+JSS2,7.84,47.46,Improved,0,Civic Education,STU548
+JSS3,28.48,0.19,Declined,0,Civic Education,STU549
+SS1,7.78,54.52,Declined,0,Biology,STU550
+SS2,6.19,37.16,Declined,0,Chemistry,STU551
+SS3,14.25,29.08,Improved,110,Mathematics,STU552
+JSS1,26.7,20.94,Declined,0,Basic Science,STU553
+JSS2,35.65,40.56,Declined,0,Civic Education,STU554
+JSS3,31.06,20.86,Declined,0,Basic Science,STU555
+SS1,20.62,43.36,No Change,0,English,STU556
+SS2,23.51,19.49,Improved,0,Physics,STU557
+SS3,13.29,29.47,Improved,336,Mathematics,STU558
+JSS1,2.14,14.16,Declined,0,Basic Science,STU559
+JSS2,39.22,45.4,Improved,0,Basic Science,STU560
+JSS3,22.51,46.69,Improved,0,Basic Science,STU561
+SS1,15.23,19.39,Declined,0,English,STU562
+SS2,15.81,44.43,Improved,0,Biology,STU563
+SS3,4.11,51.49,Improved,281,Chemistry,STU564
+JSS1,34.87,51.31,No Change,0,Civic Education,STU565
+JSS2,5.6,6.28,Improved,0,Mathematics,STU566
+JSS3,2.71,26.15,Improved,0,Basic Tech,STU567
+SS1,39.93,34.38,No Change,0,English,STU568
+SS2,7.18,50.87,Declined,0,English,STU569
+SS3,32.66,13.64,Improved,270,Biology,STU570
+JSS1,34.64,55.38,Declined,0,Civic Education,STU571
+JSS2,19.97,15.19,Improved,0,Civic Education,STU572
+JSS3,26.53,26.9,No Change,0,Civic Education,STU573
+SS1,37.51,31.26,Declined,0,Biology,STU574
+SS2,6.47,17.26,Declined,0,Mathematics,STU575
+SS3,10.72,11.04,No Change,316,English,STU576
+JSS1,7.88,46.6,Improved,0,Basic Tech,STU577
+JSS2,18.88,53.35,Declined,0,English,STU578
+JSS3,26.7,35.13,Declined,0,Basic Tech,STU579
+SS1,23.51,4.55,Declined,0,Physics,STU580
+SS2,10.87,55.2,No Change,0,Biology,STU581
+SS3,21.22,24.51,No Change,253,Biology,STU582
+JSS1,29.37,55.6,No Change,0,Mathematics,STU583
+JSS2,3.57,5.24,Declined,0,Basic Science,STU584
+JSS3,20.79,54.1,Improved,0,Mathematics,STU585
+SS1,2.5,12.5,No Change,0,Mathematics,STU586
+SS2,2.48,6.33,No Change,0,Mathematics,STU587
+SS3,24.94,9.7,Improved,257,Chemistry,STU588
+JSS1,14.95,39.71,No Change,0,Civic Education,STU589
+JSS2,5.95,54.05,Improved,0,Basic Science,STU590
+JSS3,28.17,42.01,Improved,0,Basic Tech,STU591
+SS1,7.06,50.33,Declined,0,Biology,STU592
+SS2,23.34,45.86,Improved,0,Chemistry,STU593
+SS3,26.57,4.39,No Change,199,Chemistry,STU594
+JSS1,3.48,33.8,Declined,0,Civic Education,STU595
+JSS2,27.04,1.38,Improved,0,Civic Education,STU596
+JSS3,35.21,9.32,No Change,0,Mathematics,STU597
+SS1,20.97,38.53,Improved,0,Biology,STU598
+SS2,22.55,15.87,No Change,0,Biology,STU599
+SS3,11.89,47.68,No Change,172,English,STU600

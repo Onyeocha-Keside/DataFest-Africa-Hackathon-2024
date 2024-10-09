@@ -1,0 +1,601 @@
+Parental Occupation,Parental Education Level,Household Income,Parental Digital Literacy,Teacher Meetings (per year),Homework Help (per week),Student ID
+Lawyer,Doctoral,Low,Yes,8,4,STU001
+Farmer,Bachelor,High,No,11,5,STU002
+Trader,Masters,High,Yes,6,5,STU003
+Banker,Masters,High,No,12,0,STU004
+Lawyer,Doctoral,Low,No,0,3,STU005
+Engineers,Bachelor,Medium,No,3,6,STU006
+Accountant,Masters,Low,No,11,6,STU007
+Farmer,Doctoral,Low,Yes,0,5,STU008
+Pharmacist,Doctoral,Medium,Yes,3,4,STU009
+Lawyer,Bachelor,Medium,No,9,3,STU010
+Accountant,Masters,Low,Yes,3,4,STU011
+Lawyer,Doctoral,Medium,No,8,3,STU012
+Pharmacist,Masters,Medium,Yes,9,5,STU013
+Doctor,Bachelor,High,Yes,5,5,STU014
+Pharmacist,Doctoral,Medium,No,4,2,STU015
+Lawyer,Doctoral,Medium,No,7,6,STU016
+Pharmacist,Masters,Medium,No,5,2,STU017
+Pharmacist,Doctoral,High,No,4,5,STU018
+Doctor,Masters,High,No,4,2,STU019
+Civil Servant,Masters,Medium,Yes,4,4,STU020
+Accountant,Masters,High,Yes,3,4,STU021
+Trader,Doctoral,High,Yes,11,1,STU022
+Trader,Masters,High,Yes,8,0,STU023
+Trader,Doctoral,High,No,2,2,STU024
+Teacher,Bachelor,Low,Yes,12,3,STU025
+Banker,Bachelor,Low,Yes,9,1,STU026
+Pharmacist,Masters,Medium,Yes,6,0,STU027
+Accountant,Masters,Medium,Yes,1,2,STU028
+Accountant,Masters,Medium,No,0,0,STU029
+Engineers,Bachelor,Medium,Yes,11,0,STU030
+Trader,Masters,High,Yes,10,6,STU031
+Civil Servant,Masters,Medium,No,3,3,STU032
+Civil Servant,Bachelor,Low,Yes,10,0,STU033
+Teacher,Bachelor,Low,No,12,2,STU034
+Doctor,Masters,High,No,12,6,STU035
+Accountant,Masters,Low,Yes,12,5,STU036
+Lawyer,Doctoral,Low,No,4,3,STU037
+Engineers,Doctoral,Medium,Yes,1,2,STU038
+Pharmacist,Bachelor,Medium,No,5,6,STU039
+Teacher,Doctoral,Low,Yes,6,3,STU040
+Teacher,Bachelor,High,Yes,11,4,STU041
+Accountant,Doctoral,Medium,Yes,12,4,STU042
+Banker,Bachelor,High,Yes,7,1,STU043
+Trader,Masters,Medium,Yes,2,0,STU044
+Teacher,Bachelor,High,No,0,0,STU045
+Accountant,Masters,Medium,Yes,8,2,STU046
+Lawyer,Masters,Low,No,2,2,STU047
+Pharmacist,Masters,High,No,6,0,STU048
+Trader,Doctoral,High,No,12,0,STU049
+Pharmacist,Bachelor,Medium,No,3,4,STU050
+Trader,Masters,Medium,Yes,12,1,STU051
+Trader,Doctoral,Medium,Yes,3,6,STU052
+Farmer,Masters,Low,Yes,7,3,STU053
+Engineers,Masters,Low,No,5,6,STU054
+Farmer,Doctoral,High,No,1,1,STU055
+Banker,Masters,Low,Yes,3,0,STU056
+Doctor,Masters,Low,No,6,3,STU057
+Farmer,Bachelor,Low,No,9,5,STU058
+Doctor,Masters,Low,No,8,4,STU059
+Lawyer,Masters,High,No,5,2,STU060
+Teacher,Doctoral,Medium,Yes,5,0,STU061
+Farmer,Doctoral,High,Yes,10,2,STU062
+Farmer,Doctoral,High,Yes,9,5,STU063
+Engineers,Bachelor,Medium,No,0,4,STU064
+Accountant,Bachelor,Low,Yes,2,4,STU065
+Trader,Bachelor,Low,No,3,1,STU066
+Engineers,Bachelor,High,No,9,2,STU067
+Pharmacist,Doctoral,Medium,No,8,3,STU068
+Engineers,Bachelor,High,Yes,8,1,STU069
+Farmer,Bachelor,High,Yes,4,5,STU070
+Accountant,Masters,High,Yes,1,4,STU071
+Teacher,Bachelor,Low,No,4,2,STU072
+Lawyer,Bachelor,Low,No,2,4,STU073
+Engineers,Bachelor,High,Yes,11,5,STU074
+Doctor,Masters,Low,No,11,0,STU075
+Banker,Bachelor,Medium,No,6,1,STU076
+Engineers,Masters,Low,No,8,1,STU077
+Engineers,Doctoral,High,Yes,6,5,STU078
+Teacher,Masters,Low,No,6,4,STU079
+Civil Servant,Masters,Medium,Yes,9,1,STU080
+Engineers,Masters,Medium,Yes,7,5,STU081
+Engineers,Doctoral,Low,No,8,4,STU082
+Pharmacist,Masters,Medium,Yes,6,6,STU083
+Civil Servant,Doctoral,Medium,Yes,10,4,STU084
+Engineers,Doctoral,Medium,Yes,7,5,STU085
+Doctor,Masters,Low,Yes,8,2,STU086
+Doctor,Masters,Low,No,3,6,STU087
+Farmer,Masters,Low,No,1,2,STU088
+Farmer,Bachelor,Low,No,3,0,STU089
+Civil Servant,Masters,Low,Yes,6,3,STU090
+Lawyer,Masters,High,No,12,2,STU091
+Trader,Masters,Low,Yes,12,5,STU092
+Banker,Bachelor,Medium,No,2,5,STU093
+Lawyer,Doctoral,High,Yes,4,4,STU094
+Lawyer,Masters,High,Yes,8,0,STU095
+Trader,Bachelor,Low,No,7,6,STU096
+Civil Servant,Doctoral,Low,Yes,11,1,STU097
+Banker,Masters,Low,No,5,2,STU098
+Teacher,Bachelor,Low,Yes,12,4,STU099
+Trader,Masters,Low,Yes,0,4,STU100
+Farmer,Doctoral,Low,No,12,6,STU101
+Engineers,Doctoral,High,Yes,4,1,STU102
+Doctor,Bachelor,Low,Yes,8,4,STU103
+Trader,Bachelor,Low,No,4,2,STU104
+Trader,Bachelor,High,Yes,7,6,STU105
+Teacher,Bachelor,Low,Yes,8,3,STU106
+Pharmacist,Masters,Medium,No,4,2,STU107
+Banker,Doctoral,High,Yes,4,6,STU108
+Teacher,Doctoral,Low,Yes,2,3,STU109
+Banker,Masters,Medium,Yes,6,4,STU110
+Farmer,Bachelor,High,No,3,4,STU111
+Accountant,Bachelor,Medium,No,12,2,STU112
+Teacher,Bachelor,Low,Yes,0,2,STU113
+Engineers,Masters,High,Yes,2,6,STU114
+Civil Servant,Doctoral,Medium,No,8,3,STU115
+Civil Servant,Masters,Low,Yes,8,6,STU116
+Farmer,Bachelor,Medium,No,5,2,STU117
+Trader,Masters,Low,Yes,5,1,STU118
+Farmer,Doctoral,High,Yes,10,5,STU119
+Pharmacist,Bachelor,High,No,6,2,STU120
+Doctor,Doctoral,High,No,4,2,STU121
+Teacher,Bachelor,High,Yes,4,2,STU122
+Engineers,Bachelor,Medium,No,10,0,STU123
+Teacher,Doctoral,High,No,12,5,STU124
+Engineers,Doctoral,High,No,7,0,STU125
+Teacher,Masters,Medium,No,7,1,STU126
+Civil Servant,Masters,Low,No,9,4,STU127
+Teacher,Masters,Medium,Yes,9,6,STU128
+Teacher,Doctoral,Medium,Yes,12,0,STU129
+Pharmacist,Doctoral,High,No,4,2,STU130
+Engineers,Masters,High,Yes,12,1,STU131
+Trader,Doctoral,High,Yes,4,0,STU132
+Teacher,Bachelor,Low,Yes,3,2,STU133
+Trader,Doctoral,High,Yes,2,5,STU134
+Civil Servant,Doctoral,High,Yes,8,0,STU135
+Lawyer,Bachelor,Medium,Yes,3,4,STU136
+Farmer,Doctoral,Low,No,5,6,STU137
+Civil Servant,Masters,High,No,1,1,STU138
+Farmer,Bachelor,Medium,Yes,6,4,STU139
+Farmer,Doctoral,Low,Yes,10,1,STU140
+Pharmacist,Masters,Low,No,4,6,STU141
+Lawyer,Masters,High,No,1,3,STU142
+Pharmacist,Masters,High,No,7,5,STU143
+Banker,Doctoral,Medium,No,2,5,STU144
+Trader,Bachelor,Medium,Yes,12,4,STU145
+Farmer,Doctoral,Low,No,1,1,STU146
+Pharmacist,Bachelor,High,Yes,6,2,STU147
+Banker,Bachelor,Medium,Yes,8,4,STU148
+Teacher,Bachelor,Medium,Yes,4,6,STU149
+Pharmacist,Masters,High,Yes,4,1,STU150
+Trader,Masters,Low,Yes,5,5,STU151
+Farmer,Masters,Low,Yes,2,3,STU152
+Banker,Masters,Medium,No,2,5,STU153
+Doctor,Bachelor,Low,No,1,6,STU154
+Accountant,Masters,High,Yes,4,6,STU155
+Teacher,Masters,High,Yes,2,1,STU156
+Trader,Masters,High,Yes,5,0,STU157
+Pharmacist,Masters,Medium,No,6,4,STU158
+Lawyer,Masters,Medium,No,8,2,STU159
+Trader,Masters,High,No,1,2,STU160
+Lawyer,Masters,High,Yes,4,6,STU161
+Accountant,Masters,Low,Yes,8,1,STU162
+Doctor,Bachelor,Medium,Yes,7,6,STU163
+Lawyer,Bachelor,Medium,No,7,1,STU164
+Banker,Masters,High,No,10,2,STU165
+Civil Servant,Bachelor,Low,No,0,2,STU166
+Lawyer,Masters,Medium,Yes,3,4,STU167
+Trader,Masters,High,No,2,5,STU168
+Banker,Masters,Medium,Yes,4,6,STU169
+Civil Servant,Masters,High,No,12,2,STU170
+Accountant,Masters,Low,Yes,6,5,STU171
+Farmer,Bachelor,Low,No,0,3,STU172
+Teacher,Doctoral,Low,Yes,1,2,STU173
+Teacher,Doctoral,High,No,0,4,STU174
+Doctor,Masters,High,No,9,2,STU175
+Accountant,Doctoral,Medium,No,5,5,STU176
+Civil Servant,Doctoral,Medium,Yes,10,6,STU177
+Accountant,Bachelor,Medium,No,4,5,STU178
+Farmer,Doctoral,High,Yes,9,5,STU179
+Farmer,Doctoral,High,Yes,8,2,STU180
+Banker,Masters,Medium,No,4,5,STU181
+Farmer,Bachelor,Low,Yes,5,4,STU182
+Doctor,Doctoral,Medium,Yes,0,4,STU183
+Teacher,Doctoral,High,No,1,5,STU184
+Lawyer,Masters,Medium,Yes,0,3,STU185
+Accountant,Doctoral,High,Yes,1,5,STU186
+Engineers,Doctoral,Medium,No,10,6,STU187
+Banker,Masters,High,No,5,3,STU188
+Farmer,Doctoral,High,Yes,9,0,STU189
+Doctor,Masters,High,Yes,2,3,STU190
+Pharmacist,Masters,High,Yes,0,4,STU191
+Banker,Masters,High,No,9,1,STU192
+Trader,Masters,Low,Yes,6,1,STU193
+Banker,Doctoral,Medium,No,4,5,STU194
+Accountant,Bachelor,Low,No,11,6,STU195
+Farmer,Bachelor,Medium,Yes,12,1,STU196
+Engineers,Doctoral,Low,Yes,4,5,STU197
+Doctor,Bachelor,Low,No,11,2,STU198
+Accountant,Masters,Medium,No,6,1,STU199
+Teacher,Doctoral,High,No,7,1,STU200
+Engineers,Doctoral,High,No,4,4,STU201
+Civil Servant,Bachelor,High,Yes,2,4,STU202
+Lawyer,Doctoral,High,Yes,12,4,STU203
+Farmer,Bachelor,Low,No,9,4,STU204
+Pharmacist,Doctoral,Low,Yes,5,2,STU205
+Lawyer,Masters,Low,Yes,9,0,STU206
+Civil Servant,Doctoral,Medium,No,9,2,STU207
+Pharmacist,Doctoral,Medium,No,10,0,STU208
+Civil Servant,Bachelor,Low,No,10,0,STU209
+Teacher,Masters,High,No,12,5,STU210
+Doctor,Masters,High,Yes,8,5,STU211
+Farmer,Doctoral,Low,No,8,1,STU212
+Accountant,Masters,Medium,No,8,2,STU213
+Civil Servant,Doctoral,High,Yes,2,3,STU214
+Teacher,Bachelor,High,No,1,4,STU215
+Lawyer,Bachelor,Low,Yes,2,0,STU216
+Lawyer,Masters,Low,Yes,9,2,STU217
+Lawyer,Masters,High,Yes,10,5,STU218
+Pharmacist,Doctoral,Low,Yes,11,3,STU219
+Teacher,Masters,Low,No,12,0,STU220
+Farmer,Bachelor,High,Yes,5,4,STU221
+Trader,Masters,Medium,No,8,1,STU222
+Pharmacist,Bachelor,Medium,Yes,6,6,STU223
+Doctor,Doctoral,Medium,Yes,12,5,STU224
+Accountant,Masters,Medium,No,7,3,STU225
+Teacher,Doctoral,High,No,12,3,STU226
+Doctor,Bachelor,High,No,11,2,STU227
+Lawyer,Bachelor,High,Yes,6,6,STU228
+Lawyer,Doctoral,Low,Yes,2,4,STU229
+Accountant,Masters,Low,No,12,5,STU230
+Teacher,Doctoral,High,No,7,6,STU231
+Accountant,Doctoral,High,No,6,0,STU232
+Banker,Bachelor,High,Yes,2,6,STU233
+Teacher,Bachelor,Low,No,6,0,STU234
+Teacher,Doctoral,Low,No,10,0,STU235
+Banker,Doctoral,High,Yes,3,0,STU236
+Lawyer,Doctoral,Medium,No,12,5,STU237
+Pharmacist,Masters,High,No,12,3,STU238
+Doctor,Bachelor,Low,Yes,2,2,STU239
+Banker,Doctoral,High,No,5,5,STU240
+Engineers,Masters,High,No,4,6,STU241
+Lawyer,Masters,High,Yes,2,5,STU242
+Lawyer,Bachelor,High,No,6,1,STU243
+Teacher,Doctoral,High,Yes,9,4,STU244
+Engineers,Masters,Low,No,8,3,STU245
+Farmer,Bachelor,High,Yes,9,5,STU246
+Banker,Bachelor,Medium,No,1,5,STU247
+Trader,Masters,Low,No,3,4,STU248
+Doctor,Doctoral,Low,No,2,0,STU249
+Banker,Doctoral,Low,Yes,3,2,STU250
+Doctor,Doctoral,Medium,Yes,6,3,STU251
+Farmer,Doctoral,High,No,1,6,STU252
+Banker,Masters,High,No,0,6,STU253
+Teacher,Bachelor,High,No,2,1,STU254
+Civil Servant,Bachelor,Low,No,5,3,STU255
+Banker,Masters,Low,No,11,3,STU256
+Trader,Doctoral,High,Yes,5,4,STU257
+Pharmacist,Bachelor,High,Yes,6,2,STU258
+Trader,Doctoral,High,No,7,4,STU259
+Doctor,Doctoral,Medium,No,11,4,STU260
+Doctor,Masters,High,Yes,9,2,STU261
+Teacher,Masters,Medium,Yes,8,1,STU262
+Trader,Doctoral,High,No,11,0,STU263
+Engineers,Bachelor,Medium,No,3,5,STU264
+Farmer,Masters,High,No,8,3,STU265
+Accountant,Masters,High,No,3,0,STU266
+Teacher,Doctoral,High,Yes,9,5,STU267
+Civil Servant,Masters,Medium,No,7,6,STU268
+Lawyer,Bachelor,Low,No,8,3,STU269
+Accountant,Doctoral,High,Yes,10,6,STU270
+Engineers,Bachelor,High,No,3,4,STU271
+Lawyer,Masters,Medium,No,8,0,STU272
+Banker,Masters,High,No,5,1,STU273
+Doctor,Doctoral,Low,No,8,2,STU274
+Accountant,Masters,Medium,Yes,2,5,STU275
+Accountant,Bachelor,High,Yes,6,2,STU276
+Lawyer,Masters,Low,Yes,10,4,STU277
+Doctor,Masters,High,Yes,11,0,STU278
+Civil Servant,Bachelor,Medium,Yes,8,3,STU279
+Teacher,Bachelor,Low,Yes,5,6,STU280
+Doctor,Doctoral,Medium,No,5,0,STU281
+Accountant,Bachelor,Low,Yes,11,0,STU282
+Trader,Bachelor,Medium,No,2,2,STU283
+Trader,Masters,Medium,Yes,8,5,STU284
+Civil Servant,Masters,Low,No,12,2,STU285
+Trader,Bachelor,High,Yes,3,4,STU286
+Banker,Doctoral,High,Yes,9,6,STU287
+Engineers,Masters,Medium,No,6,0,STU288
+Pharmacist,Doctoral,Medium,No,9,3,STU289
+Accountant,Bachelor,High,Yes,12,4,STU290
+Pharmacist,Bachelor,High,No,0,3,STU291
+Lawyer,Masters,Medium,Yes,1,1,STU292
+Teacher,Doctoral,Low,No,10,6,STU293
+Trader,Bachelor,Medium,No,7,0,STU294
+Civil Servant,Masters,Low,Yes,0,1,STU295
+Civil Servant,Bachelor,Medium,Yes,12,6,STU296
+Accountant,Doctoral,High,Yes,0,5,STU297
+Farmer,Doctoral,Medium,No,6,2,STU298
+Engineers,Masters,High,No,0,2,STU299
+Banker,Masters,High,Yes,10,5,STU300
+Pharmacist,Bachelor,Low,No,5,5,STU301
+Doctor,Doctoral,Low,No,2,6,STU302
+Civil Servant,Bachelor,Low,Yes,6,0,STU303
+Trader,Masters,Medium,No,12,1,STU304
+Pharmacist,Masters,High,Yes,12,3,STU305
+Civil Servant,Bachelor,Medium,No,9,2,STU306
+Lawyer,Doctoral,Medium,Yes,8,0,STU307
+Civil Servant,Doctoral,High,No,11,0,STU308
+Trader,Bachelor,Low,Yes,2,2,STU309
+Trader,Bachelor,High,No,9,1,STU310
+Teacher,Masters,High,No,9,0,STU311
+Accountant,Masters,Medium,Yes,1,4,STU312
+Banker,Bachelor,High,No,8,1,STU313
+Lawyer,Bachelor,Medium,Yes,6,1,STU314
+Banker,Masters,Low,No,4,2,STU315
+Lawyer,Doctoral,Low,Yes,4,6,STU316
+Accountant,Masters,Medium,Yes,7,2,STU317
+Engineers,Doctoral,Low,No,7,4,STU318
+Pharmacist,Bachelor,Medium,No,8,2,STU319
+Teacher,Doctoral,Low,No,10,1,STU320
+Engineers,Doctoral,Medium,Yes,7,3,STU321
+Doctor,Doctoral,Low,Yes,8,2,STU322
+Teacher,Doctoral,High,No,7,5,STU323
+Banker,Masters,Medium,No,9,0,STU324
+Teacher,Bachelor,Low,No,4,4,STU325
+Lawyer,Masters,High,Yes,12,4,STU326
+Accountant,Doctoral,Low,No,3,1,STU327
+Farmer,Masters,Low,No,11,2,STU328
+Accountant,Masters,High,No,0,2,STU329
+Engineers,Bachelor,High,Yes,7,5,STU330
+Civil Servant,Doctoral,Low,Yes,1,2,STU331
+Lawyer,Doctoral,High,Yes,2,4,STU332
+Civil Servant,Bachelor,High,Yes,10,6,STU333
+Engineers,Masters,High,Yes,11,0,STU334
+Pharmacist,Bachelor,High,Yes,0,5,STU335
+Accountant,Masters,Low,Yes,0,1,STU336
+Farmer,Masters,Medium,Yes,2,5,STU337
+Trader,Bachelor,Low,No,4,2,STU338
+Engineers,Bachelor,High,No,9,4,STU339
+Farmer,Doctoral,Medium,Yes,4,1,STU340
+Banker,Bachelor,Low,Yes,8,2,STU341
+Teacher,Masters,Medium,No,9,1,STU342
+Banker,Doctoral,Medium,Yes,2,2,STU343
+Banker,Doctoral,Medium,Yes,12,1,STU344
+Trader,Doctoral,Low,No,4,0,STU345
+Pharmacist,Bachelor,Medium,No,2,4,STU346
+Lawyer,Bachelor,High,Yes,12,5,STU347
+Lawyer,Masters,Medium,No,6,5,STU348
+Teacher,Masters,High,Yes,1,3,STU349
+Trader,Masters,High,No,4,2,STU350
+Engineers,Bachelor,Medium,Yes,3,2,STU351
+Accountant,Doctoral,Low,Yes,0,5,STU352
+Teacher,Masters,Low,Yes,7,0,STU353
+Farmer,Bachelor,Low,No,0,2,STU354
+Civil Servant,Masters,Low,Yes,0,1,STU355
+Lawyer,Bachelor,High,Yes,0,4,STU356
+Doctor,Masters,Low,Yes,5,0,STU357
+Engineers,Doctoral,Medium,Yes,3,6,STU358
+Lawyer,Masters,High,Yes,11,3,STU359
+Engineers,Bachelor,Low,Yes,11,5,STU360
+Lawyer,Bachelor,Low,Yes,0,3,STU361
+Pharmacist,Masters,Low,Yes,2,4,STU362
+Trader,Masters,High,Yes,7,4,STU363
+Lawyer,Masters,Low,Yes,7,5,STU364
+Pharmacist,Doctoral,High,No,6,6,STU365
+Engineers,Masters,Low,Yes,5,4,STU366
+Banker,Masters,Medium,Yes,1,0,STU367
+Civil Servant,Bachelor,Medium,No,12,1,STU368
+Teacher,Bachelor,High,Yes,11,4,STU369
+Pharmacist,Bachelor,Low,No,3,5,STU370
+Lawyer,Bachelor,Medium,No,4,2,STU371
+Lawyer,Doctoral,Medium,Yes,2,1,STU372
+Civil Servant,Bachelor,Low,No,4,6,STU373
+Farmer,Masters,Medium,Yes,0,3,STU374
+Pharmacist,Doctoral,Medium,No,11,6,STU375
+Teacher,Doctoral,Low,No,12,4,STU376
+Banker,Doctoral,Low,No,0,0,STU377
+Banker,Bachelor,Medium,No,3,6,STU378
+Banker,Doctoral,High,Yes,11,5,STU379
+Farmer,Doctoral,Medium,Yes,0,4,STU380
+Farmer,Doctoral,High,No,0,4,STU381
+Lawyer,Masters,Low,No,0,0,STU382
+Pharmacist,Bachelor,Low,No,3,0,STU383
+Lawyer,Masters,High,No,12,6,STU384
+Engineers,Masters,Medium,Yes,1,5,STU385
+Trader,Doctoral,High,Yes,6,0,STU386
+Engineers,Masters,High,Yes,6,6,STU387
+Doctor,Bachelor,Medium,Yes,5,0,STU388
+Farmer,Bachelor,Low,No,2,2,STU389
+Lawyer,Masters,High,Yes,4,2,STU390
+Accountant,Doctoral,Low,Yes,4,3,STU391
+Engineers,Doctoral,Low,No,11,4,STU392
+Engineers,Doctoral,High,Yes,8,2,STU393
+Banker,Doctoral,High,No,8,1,STU394
+Lawyer,Masters,High,No,11,3,STU395
+Engineers,Bachelor,Low,Yes,11,2,STU396
+Engineers,Doctoral,Low,Yes,0,2,STU397
+Civil Servant,Masters,Medium,No,5,0,STU398
+Teacher,Doctoral,High,Yes,4,0,STU399
+Banker,Bachelor,High,Yes,6,4,STU400
+Banker,Doctoral,High,Yes,6,1,STU401
+Lawyer,Masters,Medium,Yes,1,5,STU402
+Teacher,Bachelor,Low,Yes,10,6,STU403
+Pharmacist,Doctoral,Low,Yes,9,4,STU404
+Civil Servant,Bachelor,High,Yes,4,2,STU405
+Engineers,Masters,High,Yes,9,0,STU406
+Accountant,Masters,High,Yes,4,3,STU407
+Banker,Masters,High,Yes,1,1,STU408
+Civil Servant,Masters,High,No,6,1,STU409
+Trader,Masters,High,No,8,1,STU410
+Accountant,Doctoral,High,No,2,6,STU411
+Teacher,Doctoral,High,Yes,5,3,STU412
+Teacher,Bachelor,High,No,7,0,STU413
+Farmer,Bachelor,Medium,Yes,5,6,STU414
+Pharmacist,Bachelor,Low,No,3,6,STU415
+Banker,Doctoral,Low,No,7,6,STU416
+Farmer,Masters,Medium,No,12,6,STU417
+Farmer,Doctoral,Low,No,8,2,STU418
+Trader,Masters,High,Yes,5,1,STU419
+Teacher,Doctoral,Medium,No,7,0,STU420
+Doctor,Bachelor,Medium,No,5,1,STU421
+Accountant,Doctoral,Low,No,5,6,STU422
+Civil Servant,Masters,High,Yes,0,0,STU423
+Civil Servant,Doctoral,High,No,7,4,STU424
+Accountant,Doctoral,Low,Yes,4,3,STU425
+Farmer,Bachelor,Medium,Yes,2,0,STU426
+Teacher,Doctoral,Medium,No,2,3,STU427
+Engineers,Masters,High,No,7,0,STU428
+Banker,Doctoral,High,No,1,2,STU429
+Farmer,Masters,High,Yes,9,6,STU430
+Civil Servant,Doctoral,High,Yes,12,2,STU431
+Lawyer,Bachelor,Low,No,12,3,STU432
+Engineers,Bachelor,Low,Yes,3,3,STU433
+Teacher,Bachelor,Low,Yes,9,4,STU434
+Lawyer,Masters,High,Yes,11,5,STU435
+Civil Servant,Masters,Low,No,9,6,STU436
+Pharmacist,Bachelor,Low,Yes,5,4,STU437
+Civil Servant,Masters,Low,No,5,5,STU438
+Banker,Bachelor,Medium,Yes,9,3,STU439
+Engineers,Bachelor,Low,Yes,5,5,STU440
+Accountant,Masters,Medium,Yes,8,2,STU441
+Trader,Doctoral,Low,Yes,7,3,STU442
+Teacher,Bachelor,Medium,Yes,0,6,STU443
+Teacher,Masters,High,No,3,2,STU444
+Farmer,Masters,High,Yes,12,3,STU445
+Doctor,Masters,Medium,Yes,1,5,STU446
+Civil Servant,Bachelor,High,No,2,2,STU447
+Banker,Doctoral,Medium,No,7,2,STU448
+Banker,Masters,High,No,0,4,STU449
+Engineers,Masters,Medium,No,5,2,STU450
+Pharmacist,Bachelor,High,Yes,9,4,STU451
+Engineers,Bachelor,Medium,No,5,0,STU452
+Banker,Doctoral,Medium,Yes,11,2,STU453
+Farmer,Masters,Medium,No,10,2,STU454
+Banker,Bachelor,Low,No,8,5,STU455
+Pharmacist,Doctoral,Medium,Yes,1,3,STU456
+Teacher,Bachelor,High,No,12,3,STU457
+Trader,Masters,High,Yes,2,1,STU458
+Teacher,Bachelor,Medium,No,11,2,STU459
+Civil Servant,Bachelor,Medium,No,5,6,STU460
+Lawyer,Doctoral,High,Yes,4,2,STU461
+Lawyer,Bachelor,Low,Yes,1,2,STU462
+Lawyer,Doctoral,Medium,No,10,3,STU463
+Teacher,Doctoral,High,Yes,10,4,STU464
+Pharmacist,Bachelor,Low,Yes,10,4,STU465
+Doctor,Masters,Low,Yes,3,4,STU466
+Civil Servant,Masters,Low,No,6,0,STU467
+Engineers,Masters,High,No,4,4,STU468
+Farmer,Bachelor,High,Yes,12,1,STU469
+Doctor,Bachelor,High,Yes,5,0,STU470
+Farmer,Bachelor,Medium,Yes,3,4,STU471
+Farmer,Bachelor,Medium,Yes,12,2,STU472
+Doctor,Doctoral,Medium,No,12,0,STU473
+Trader,Doctoral,Medium,No,5,6,STU474
+Accountant,Masters,Medium,No,11,6,STU475
+Engineers,Masters,Medium,No,10,3,STU476
+Lawyer,Masters,High,Yes,1,4,STU477
+Engineers,Bachelor,High,No,9,3,STU478
+Banker,Doctoral,Medium,Yes,10,5,STU479
+Banker,Doctoral,Medium,No,3,4,STU480
+Engineers,Doctoral,Medium,Yes,1,6,STU481
+Doctor,Masters,Medium,Yes,2,2,STU482
+Trader,Masters,Medium,Yes,3,3,STU483
+Doctor,Masters,Low,Yes,1,1,STU484
+Civil Servant,Doctoral,Low,Yes,12,6,STU485
+Pharmacist,Bachelor,Low,No,12,3,STU486
+Banker,Bachelor,Low,No,5,6,STU487
+Banker,Doctoral,Medium,No,5,1,STU488
+Lawyer,Doctoral,High,No,4,5,STU489
+Doctor,Bachelor,High,No,3,4,STU490
+Trader,Doctoral,Low,Yes,8,0,STU491
+Farmer,Bachelor,High,No,5,0,STU492
+Civil Servant,Doctoral,Medium,No,12,3,STU493
+Accountant,Bachelor,Low,Yes,8,5,STU494
+Trader,Masters,High,Yes,12,2,STU495
+Farmer,Doctoral,High,No,5,1,STU496
+Doctor,Bachelor,High,No,7,4,STU497
+Teacher,Bachelor,Medium,No,10,2,STU498
+Teacher,Masters,Low,Yes,6,3,STU499
+Lawyer,Bachelor,Low,Yes,4,5,STU500
+Doctor,Doctoral,Low,Yes,8,5,STU501
+Engineers,Masters,High,No,9,0,STU502
+Teacher,Doctoral,Medium,No,8,2,STU503
+Accountant,Doctoral,High,Yes,4,0,STU504
+Farmer,Bachelor,High,No,9,2,STU505
+Farmer,Doctoral,Low,No,5,1,STU506
+Trader,Doctoral,Low,Yes,8,3,STU507
+Banker,Doctoral,Low,No,12,3,STU508
+Banker,Bachelor,Medium,No,2,2,STU509
+Pharmacist,Doctoral,High,Yes,9,5,STU510
+Engineers,Bachelor,High,Yes,10,5,STU511
+Trader,Doctoral,Medium,No,4,5,STU512
+Pharmacist,Doctoral,Low,No,12,4,STU513
+Teacher,Bachelor,Medium,Yes,10,1,STU514
+Civil Servant,Doctoral,Medium,Yes,5,0,STU515
+Accountant,Bachelor,Medium,Yes,1,6,STU516
+Banker,Doctoral,Medium,No,2,5,STU517
+Civil Servant,Bachelor,Low,Yes,0,6,STU518
+Doctor,Bachelor,Low,No,3,5,STU519
+Teacher,Doctoral,Medium,Yes,2,6,STU520
+Farmer,Masters,High,No,7,5,STU521
+Civil Servant,Doctoral,Low,No,2,3,STU522
+Farmer,Doctoral,High,Yes,10,0,STU523
+Farmer,Bachelor,Low,No,5,1,STU524
+Doctor,Doctoral,High,Yes,2,3,STU525
+Doctor,Masters,Low,No,10,5,STU526
+Lawyer,Bachelor,High,No,9,6,STU527
+Civil Servant,Doctoral,Medium,No,11,5,STU528
+Civil Servant,Bachelor,High,No,1,5,STU529
+Teacher,Masters,Low,Yes,4,0,STU530
+Trader,Bachelor,Medium,Yes,5,5,STU531
+Pharmacist,Doctoral,Medium,Yes,11,0,STU532
+Engineers,Doctoral,High,Yes,8,2,STU533
+Lawyer,Bachelor,Low,Yes,4,1,STU534
+Engineers,Doctoral,Medium,Yes,5,2,STU535
+Doctor,Bachelor,Low,No,0,2,STU536
+Doctor,Doctoral,Medium,No,5,3,STU537
+Trader,Bachelor,Medium,No,11,4,STU538
+Pharmacist,Masters,High,No,8,6,STU539
+Civil Servant,Masters,Medium,No,7,4,STU540
+Accountant,Doctoral,High,Yes,1,2,STU541
+Pharmacist,Doctoral,Low,Yes,10,5,STU542
+Doctor,Bachelor,Medium,No,5,3,STU543
+Doctor,Bachelor,Low,Yes,10,6,STU544
+Doctor,Doctoral,High,No,10,2,STU545
+Teacher,Masters,High,Yes,6,5,STU546
+Civil Servant,Doctoral,Low,No,10,6,STU547
+Doctor,Doctoral,Low,Yes,11,4,STU548
+Doctor,Doctoral,Medium,No,5,5,STU549
+Engineers,Masters,Medium,Yes,11,3,STU550
+Engineers,Doctoral,Low,No,9,3,STU551
+Teacher,Masters,High,Yes,1,0,STU552
+Trader,Bachelor,High,Yes,8,0,STU553
+Engineers,Doctoral,Low,Yes,11,5,STU554
+Doctor,Bachelor,Low,Yes,5,4,STU555
+Banker,Masters,Low,No,6,6,STU556
+Farmer,Masters,High,No,10,4,STU557
+Civil Servant,Doctoral,Medium,No,12,0,STU558
+Teacher,Bachelor,Low,No,1,5,STU559
+Engineers,Doctoral,Low,No,9,3,STU560
+Engineers,Bachelor,Low,No,11,3,STU561
+Civil Servant,Masters,High,No,11,6,STU562
+Banker,Doctoral,Low,Yes,10,3,STU563
+Teacher,Doctoral,Low,Yes,8,5,STU564
+Lawyer,Masters,Low,No,11,5,STU565
+Farmer,Bachelor,High,Yes,4,5,STU566
+Pharmacist,Doctoral,Medium,Yes,6,0,STU567
+Accountant,Bachelor,Medium,No,4,4,STU568
+Farmer,Doctoral,High,No,4,4,STU569
+Doctor,Bachelor,Medium,No,2,2,STU570
+Engineers,Doctoral,Medium,No,2,2,STU571
+Trader,Masters,Low,Yes,3,5,STU572
+Accountant,Bachelor,High,Yes,5,1,STU573
+Doctor,Masters,High,Yes,6,1,STU574
+Engineers,Doctoral,Low,No,2,2,STU575
+Teacher,Bachelor,High,Yes,0,3,STU576
+Banker,Doctoral,High,Yes,6,2,STU577
+Doctor,Masters,Medium,No,7,1,STU578
+Pharmacist,Bachelor,Low,No,11,0,STU579
+Lawyer,Masters,Medium,No,2,4,STU580
+Teacher,Doctoral,High,No,6,0,STU581
+Teacher,Masters,Medium,Yes,8,1,STU582
+Trader,Doctoral,Medium,Yes,0,4,STU583
+Pharmacist,Doctoral,High,Yes,8,0,STU584
+Trader,Bachelor,Low,No,5,0,STU585
+Civil Servant,Doctoral,Medium,No,6,3,STU586
+Farmer,Bachelor,High,Yes,11,6,STU587
+Civil Servant,Bachelor,Low,No,1,3,STU588
+Farmer,Masters,Medium,No,1,6,STU589
+Engineers,Masters,High,No,6,3,STU590
+Civil Servant,Doctoral,High,No,10,3,STU591
+Farmer,Doctoral,High,Yes,5,1,STU592
+Pharmacist,Masters,Medium,No,9,3,STU593
+Teacher,Bachelor,Low,No,10,3,STU594
+Trader,Masters,Low,Yes,3,6,STU595
+Doctor,Masters,Low,No,5,1,STU596
+Pharmacist,Bachelor,Low,Yes,5,4,STU597
+Accountant,Doctoral,Medium,Yes,4,4,STU598
+Lawyer,Bachelor,Low,Yes,11,2,STU599
+Farmer,Masters,Medium,Yes,12,5,STU600

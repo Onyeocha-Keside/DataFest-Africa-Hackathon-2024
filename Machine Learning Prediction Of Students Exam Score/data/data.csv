@@ -1,0 +1,601 @@
+Student ID,Age,Gender,Special Needs,Attendance (%),Punctuality (%),Study Hour/Week,Parental Occupation,Parental Education Level,Household Income,Parental Digital Literacy,Teacher Meetings (per year),Homework Help (per week),Library Hours,Computer Access,Teacher-Student Ratio,Access to learning Materials,Activity,Hours/Week,Leadership Role,Class Level,Midterm Score,Exam Score,Improvements Over Time,JAMB Mock Score,Weak Subject
+STU001,14,Female,No,89.21,93.86,4,Lawyer,Doctoral,Low,Yes,8,4,3,Occasionally,37,Both,JETS Club,3,Yes,JSS1,22.11,35.62,Declined,0,Basic Science
+STU002,11,Male,Yes,80.34,64.69,6,Farmer,Bachelor,High,No,11,5,1,Never,35,Books,Maths Club,3,Yes,JSS2,35.66,0.24,No Change,0,Basic Science
+STU003,17,Female,No,63.28,84.26,20,Trader,Masters,High,Yes,6,5,1,Never,37,Books,None,5,Yes,JSS3,25.95,48.61,No Change,0,Basic Tech
+STU004,13,Female,Yes,72.11,59.5,2,Banker,Masters,High,No,12,0,2,Often,28,Digital Platform,Debate & Press Club,2,Yes,SS1,6.2,4.39,Declined,0,English
+STU005,18,Female,No,81.37,91.5,20,Lawyer,Doctoral,Low,No,0,3,6,Often,38,Books,Maths Club,5,No,SS2,15.84,58.1,Declined,0,Biology
+STU006,15,Female,No,66.6,62.81,19,Engineers,Bachelor,Medium,No,3,6,4,Never,33,Books,Maths Club,4,No,SS3,35.26,52.19,No Change,211,Mathematics
+STU007,17,Male,No,85.9,97.89,19,Accountant,Masters,Low,No,11,6,10,Never,20,Digital Platform,Debate & Press Club,1,No,JSS1,19.06,12.11,Declined,0,Basic Science
+STU008,13,Female,Yes,82.02,57.7,11,Farmer,Doctoral,Low,Yes,0,5,7,Never,27,Digital Platform,Maths Club,2,No,JSS2,1.98,5.35,Improved,0,Basic Science
+STU009,14,Male,Yes,58.88,63.11,16,Pharmacist,Doctoral,Medium,Yes,3,4,0,Often,34,Books,JETS Club,6,No,JSS3,6.8,53.56,No Change,0,Mathematics
+STU010,14,Male,Yes,99.36,52.65,19,Lawyer,Bachelor,Medium,No,9,3,9,Occasionally,30,Both,ARTS Club,3,No,SS1,18.61,36.27,Improved,0,Biology
+STU011,14,Male,No,53.21,58.6,15,Accountant,Masters,Low,Yes,3,4,3,Occasionally,30,Books,JETS Club,4,Yes,SS2,39.03,0.5,Declined,0,English
+STU012,17,Female,Yes,56.38,85.75,10,Lawyer,Doctoral,Medium,No,8,3,3,Occasionally,31,Both,Sports,0,No,SS3,22.56,43.46,Declined,261,Mathematics
+STU013,10,Female,No,64.97,56.64,20,Pharmacist,Masters,Medium,Yes,9,5,9,Often,25,Digital Platform,Debate & Press Club,0,Yes,JSS1,14.21,11.03,Declined,0,Basic Tech
+STU014,15,Female,No,50.78,67.49,12,Doctor,Bachelor,High,Yes,5,5,10,Occasionally,39,Digital Platform,Maths Club,6,Yes,JSS2,5.49,44.98,Improved,0,Basic Science
+STU015,12,Female,No,75.4,97.72,9,Pharmacist,Doctoral,Medium,No,4,2,5,Occasionally,30,Both,None,4,No,JSS3,8.64,8.72,Improved,0,Mathematics
+STU016,10,Male,Yes,53.93,98.89,11,Lawyer,Doctoral,Medium,No,7,6,6,Occasionally,24,Both,Debate & Press Club,4,No,SS1,7.1,15.97,Declined,0,Biology
+STU017,17,Female,No,95.71,63.46,16,Pharmacist,Masters,Medium,No,5,2,6,Never,26,Digital Platform,ARTS Club,1,No,SS2,21.52,45.73,No Change,0,Mathematics
+STU018,15,Male,Yes,83.37,89.58,14,Pharmacist,Doctoral,High,No,4,5,7,Often,25,Both,ARTS Club,2,No,SS3,36.45,20.35,No Change,165,Chemistry
+STU019,13,Female,No,65.42,85.91,13,Doctor,Masters,High,No,4,2,10,Often,33,Digital Platform,ARTS Club,2,Yes,JSS1,38.4,1.26,Improved,0,Mathematics
+STU020,15,Male,No,80.17,85.49,18,Civil Servant,Masters,Medium,Yes,4,4,7,Occasionally,36,Books,Debate & Press Club,3,Yes,JSS2,28.6,59.3,No Change,0,Basic Science
+STU021,14,Male,Yes,77.51,95.94,4,Accountant,Masters,High,Yes,3,4,5,Never,24,Both,Debate & Press Club,4,No,JSS3,29.47,3.5,No Change,0,Mathematics
+STU022,16,Male,No,51.89,63.57,15,Trader,Doctoral,High,Yes,11,1,2,Occasionally,36,Both,None,2,Yes,SS1,29.28,22.0,Improved,0,Mathematics
+STU023,11,Male,No,61.91,80.85,11,Trader,Masters,High,Yes,8,0,9,Occasionally,31,Books,Debate & Press Club,1,Yes,SS2,15.17,25.55,No Change,0,Biology
+STU024,17,Male,No,62.3,59.42,17,Trader,Doctoral,High,No,2,2,7,Never,21,Books,None,0,No,SS3,23.0,25.96,Declined,309,Mathematics
+STU025,14,Male,No,62.15,64.21,10,Teacher,Bachelor,Low,Yes,12,3,7,Never,38,Books,Maths Club,2,Yes,JSS1,36.4,52.8,No Change,0,Basic Tech
+STU026,16,Male,Yes,86.88,51.51,4,Banker,Bachelor,Low,Yes,9,1,0,Often,28,Books,None,4,No,JSS2,15.22,24.62,No Change,0,Basic Tech
+STU027,15,Male,Yes,93.59,70.09,4,Pharmacist,Masters,Medium,Yes,6,0,9,Often,21,Books,Sports,6,No,JSS3,33.21,3.1,Improved,0,Mathematics
+STU028,16,Male,Yes,93.67,74.39,1,Accountant,Masters,Medium,Yes,1,2,1,Never,26,Both,None,3,Yes,SS1,4.66,52.16,No Change,0,Biology
+STU029,15,Male,No,75.98,66.49,2,Accountant,Masters,Medium,No,0,0,7,Occasionally,25,Both,None,5,Yes,SS2,26.54,38.76,Improved,0,English
+STU030,17,Female,No,70.57,84.14,15,Engineers,Bachelor,Medium,Yes,11,0,6,Occasionally,35,Both,None,3,Yes,SS3,8.3,47.03,Declined,281,Chemistry
+STU031,15,Male,No,63.24,72.38,6,Trader,Masters,High,Yes,10,6,6,Never,22,Books,JETS Club,5,Yes,JSS1,35.4,41.12,Improved,0,Basic Science
+STU032,14,Male,Yes,67.02,52.6,3,Civil Servant,Masters,Medium,No,3,3,8,Never,33,Digital Platform,Sports,5,Yes,JSS2,35.07,40.73,Improved,0,Basic Tech
+STU033,11,Female,Yes,74.88,97.79,7,Civil Servant,Bachelor,Low,Yes,10,0,7,Occasionally,32,Digital Platform,None,0,Yes,JSS3,18.03,33.56,Declined,0,Civic Education
+STU034,10,Male,Yes,62.0,59.45,8,Teacher,Bachelor,Low,No,12,2,4,Never,31,Digital Platform,JETS Club,6,No,SS1,11.89,21.2,Improved,0,Mathematics
+STU035,11,Male,Yes,73.41,60.23,13,Doctor,Masters,High,No,12,6,3,Often,25,Both,ARTS Club,6,Yes,SS2,28.54,40.12,No Change,0,English
+STU036,18,Male,Yes,61.25,63.44,0,Accountant,Masters,Low,Yes,12,5,0,Often,38,Books,Debate & Press Club,1,No,SS3,39.29,11.04,Improved,219,Mathematics
+STU037,10,Female,No,83.18,83.82,7,Lawyer,Doctoral,Low,No,4,3,9,Often,34,Books,JETS Club,3,No,JSS1,23.62,19.21,Improved,0,English
+STU038,10,Female,No,85.88,86.31,10,Engineers,Doctoral,Medium,Yes,1,2,6,Never,20,Digital Platform,Maths Club,5,No,JSS2,22.92,43.11,Improved,0,Basic Science
+STU039,16,Male,Yes,83.64,63.3,11,Pharmacist,Bachelor,Medium,No,5,6,7,Never,30,Both,Maths Club,3,No,JSS3,37.64,44.71,Improved,0,English
+STU040,16,Male,Yes,85.89,62.63,6,Teacher,Doctoral,Low,Yes,6,3,8,Occasionally,31,Both,None,2,Yes,SS1,25.91,9.28,No Change,0,Mathematics
+STU041,10,Female,Yes,86.8,64.2,12,Teacher,Bachelor,High,Yes,11,4,5,Often,32,Digital Platform,None,6,No,SS2,16.7,40.12,No Change,0,Mathematics
+STU042,16,Female,No,66.27,87.78,18,Accountant,Doctoral,Medium,Yes,12,4,2,Never,38,Digital Platform,Sports,3,Yes,SS3,23.16,9.89,No Change,120,Chemistry
+STU043,15,Male,No,82.98,69.16,13,Banker,Bachelor,High,Yes,7,1,6,Never,36,Both,JETS Club,3,No,JSS1,24.93,22.38,Improved,0,Basic Tech
+STU044,16,Female,No,85.9,50.19,6,Trader,Masters,Medium,Yes,2,0,0,Never,34,Digital Platform,None,5,No,JSS2,0.97,17.18,Declined,0,Basic Science
+STU045,11,Male,No,79.61,94.94,8,Teacher,Bachelor,High,No,0,0,10,Occasionally,33,Books,Debate & Press Club,3,Yes,JSS3,8.01,15.9,Declined,0,Civic Education
+STU046,14,Female,Yes,77.93,70.87,14,Accountant,Masters,Medium,Yes,8,2,0,Never,27,Digital Platform,ARTS Club,6,No,SS1,23.72,0.94,Improved,0,Biology
+STU047,16,Male,Yes,72.39,95.99,13,Lawyer,Masters,Low,No,2,2,10,Often,36,Both,Sports,4,Yes,SS2,31.98,52.06,Improved,0,Biology
+STU048,11,Female,Yes,55.17,88.08,10,Pharmacist,Masters,High,No,6,0,3,Never,24,Digital Platform,None,2,No,SS3,25.68,4.38,Improved,189,Physics
+STU049,13,Male,Yes,89.1,83.89,11,Trader,Doctoral,High,No,12,0,2,Occasionally,31,Both,None,6,Yes,JSS1,32.82,19.13,Declined,0,English
+STU050,16,Male,No,61.09,53.3,20,Pharmacist,Bachelor,Medium,No,3,4,5,Occasionally,26,Both,Sports,1,Yes,JSS2,3.79,53.75,Improved,0,Civic Education
+STU051,17,Female,No,60.47,61.5,17,Trader,Masters,Medium,Yes,12,1,4,Occasionally,32,Books,JETS Club,5,No,JSS3,15.81,29.03,Declined,0,Basic Tech
+STU052,13,Male,No,88.13,71.76,8,Trader,Doctoral,Medium,Yes,3,6,1,Never,39,Books,Sports,6,No,SS1,16.19,23.06,Improved,0,Biology
+STU053,18,Female,No,74.37,66.89,15,Farmer,Masters,Low,Yes,7,3,7,Often,21,Digital Platform,Maths Club,5,No,SS2,33.98,46.34,No Change,0,Chemistry
+STU054,13,Female,Yes,59.67,85.71,0,Engineers,Masters,Low,No,5,6,3,Never,32,Books,ARTS Club,3,Yes,SS3,34.46,28.51,No Change,277,English
+STU055,10,Male,No,97.22,98.17,2,Farmer,Doctoral,High,No,1,1,3,Never,33,Books,Maths Club,6,Yes,JSS1,5.28,11.11,No Change,0,English
+STU056,12,Male,No,68.5,95.0,1,Banker,Masters,Low,Yes,3,0,6,Often,24,Books,Sports,3,Yes,JSS2,13.92,15.66,Declined,0,Mathematics
+STU057,16,Female,No,65.46,54.24,11,Doctor,Masters,Low,No,6,3,0,Often,21,Digital Platform,None,2,No,JSS3,34.56,21.22,Improved,0,English
+STU058,14,Male,Yes,56.74,64.51,15,Farmer,Bachelor,Low,No,9,5,5,Often,21,Books,JETS Club,6,Yes,SS1,18.15,7.13,Declined,0,Physics
+STU059,17,Female,No,93.73,62.91,2,Doctor,Masters,Low,No,8,4,3,Occasionally,30,Both,JETS Club,4,No,SS2,23.73,39.15,No Change,0,Mathematics
+STU060,10,Male,No,98.62,52.57,18,Lawyer,Masters,High,No,5,2,1,Often,38,Digital Platform,None,4,No,SS3,28.56,47.5,Declined,271,Mathematics
+STU061,18,Male,No,80.56,69.61,9,Teacher,Doctoral,Medium,Yes,5,0,3,Occasionally,30,Digital Platform,Debate & Press Club,4,No,JSS1,11.16,35.57,Improved,0,Civic Education
+STU062,18,Male,Yes,73.26,66.33,1,Farmer,Doctoral,High,Yes,10,2,1,Occasionally,29,Books,Debate & Press Club,0,No,JSS2,0.23,0.06,Improved,0,Civic Education
+STU063,16,Female,No,95.45,72.61,1,Farmer,Doctoral,High,Yes,9,5,6,Never,24,Digital Platform,Sports,6,Yes,JSS3,3.12,4.4,Improved,0,Basic Science
+STU064,10,Male,No,94.41,60.06,15,Engineers,Bachelor,Medium,No,0,4,7,Occasionally,30,Books,Maths Club,3,Yes,SS1,38.73,40.22,No Change,0,Biology
+STU065,11,Male,No,60.89,57.92,3,Accountant,Bachelor,Low,Yes,2,4,4,Often,21,Books,ARTS Club,1,Yes,SS2,27.55,47.98,Improved,0,Biology
+STU066,11,Female,No,50.23,80.76,3,Trader,Bachelor,Low,No,3,1,3,Occasionally,39,Digital Platform,ARTS Club,4,Yes,SS3,6.88,14.33,Declined,111,Biology
+STU067,17,Female,No,71.77,56.24,2,Engineers,Bachelor,High,No,9,2,5,Often,30,Digital Platform,Debate & Press Club,5,No,JSS1,12.96,6.5,Declined,0,Mathematics
+STU068,11,Male,No,75.23,50.9,10,Pharmacist,Doctoral,Medium,No,8,3,9,Often,40,Both,None,0,No,JSS2,32.3,9.28,No Change,0,Civic Education
+STU069,15,Male,Yes,91.53,83.39,6,Engineers,Bachelor,High,Yes,8,1,5,Often,38,Digital Platform,None,5,No,JSS3,33.03,38.45,Declined,0,Basic Tech
+STU070,11,Male,No,63.98,87.71,3,Farmer,Bachelor,High,Yes,4,5,6,Never,30,Digital Platform,JETS Club,1,No,SS1,27.17,38.93,Improved,0,Mathematics
+STU071,15,Male,No,67.44,72.11,14,Accountant,Masters,High,Yes,1,4,5,Often,28,Books,Sports,6,No,SS2,2.21,19.87,Declined,0,English
+STU072,17,Male,Yes,93.53,55.7,8,Teacher,Bachelor,Low,No,4,2,2,Often,23,Books,Debate & Press Club,2,No,SS3,23.58,33.39,No Change,125,Physics
+STU073,12,Female,Yes,86.03,90.85,10,Lawyer,Bachelor,Low,No,2,4,7,Often,27,Digital Platform,ARTS Club,2,No,JSS1,27.75,39.48,Improved,0,Basic Science
+STU074,15,Female,No,51.44,91.78,14,Engineers,Bachelor,High,Yes,11,5,3,Often,26,Both,None,3,Yes,JSS2,37.59,12.96,No Change,0,Basic Science
+STU075,12,Female,Yes,65.98,98.55,9,Doctor,Masters,Low,No,11,0,10,Occasionally,25,Both,Debate & Press Club,4,No,JSS3,21.42,50.96,Declined,0,Basic Tech
+STU076,12,Male,No,75.69,92.67,15,Banker,Bachelor,Medium,No,6,1,8,Often,34,Both,JETS Club,6,No,SS1,14.45,9.23,Improved,0,Biology
+STU077,14,Male,No,70.3,94.52,1,Engineers,Masters,Low,No,8,1,6,Often,29,Both,Debate & Press Club,0,No,SS2,3.66,19.92,No Change,0,Chemistry
+STU078,12,Female,Yes,88.93,69.4,13,Engineers,Doctoral,High,Yes,6,5,6,Never,38,Books,ARTS Club,4,No,SS3,28.7,59.08,No Change,329,Physics
+STU079,16,Female,Yes,59.82,67.59,8,Teacher,Masters,Low,No,6,4,3,Never,29,Digital Platform,ARTS Club,5,No,JSS1,0.64,37.14,Declined,0,Basic Science
+STU080,16,Male,Yes,53.97,97.68,19,Civil Servant,Masters,Medium,Yes,9,1,3,Often,40,Both,Debate & Press Club,2,No,JSS2,5.48,40.56,Declined,0,Civic Education
+STU081,10,Female,No,56.72,67.9,3,Engineers,Masters,Medium,Yes,7,5,8,Never,25,Digital Platform,ARTS Club,1,Yes,JSS3,37.63,57.27,Improved,0,Basic Science
+STU082,11,Male,Yes,93.15,93.77,13,Engineers,Doctoral,Low,No,8,4,1,Occasionally,38,Digital Platform,Sports,6,Yes,SS1,26.92,27.58,Declined,0,Chemistry
+STU083,14,Female,Yes,75.05,92.26,1,Pharmacist,Masters,Medium,Yes,6,6,9,Never,30,Digital Platform,Sports,2,Yes,SS2,35.42,1.27,Declined,0,Mathematics
+STU084,12,Female,No,67.47,63.91,16,Civil Servant,Doctoral,Medium,Yes,10,4,0,Often,31,Books,Debate & Press Club,4,Yes,SS3,6.42,58.51,No Change,214,Biology
+STU085,18,Male,No,94.55,90.16,16,Engineers,Doctoral,Medium,Yes,7,5,8,Never,39,Books,None,6,No,JSS1,32.86,20.82,Improved,0,Civic Education
+STU086,14,Female,No,52.95,63.82,16,Doctor,Masters,Low,Yes,8,2,7,Never,23,Books,Maths Club,3,Yes,JSS2,25.28,46.07,No Change,0,Civic Education
+STU087,18,Male,No,96.18,76.53,0,Doctor,Masters,Low,No,3,6,6,Never,26,Books,ARTS Club,6,Yes,JSS3,18.8,45.94,Improved,0,Civic Education
+STU088,11,Male,Yes,61.31,62.7,15,Farmer,Masters,Low,No,1,2,8,Often,39,Books,ARTS Club,4,Yes,SS1,0.12,48.09,Improved,0,Chemistry
+STU089,14,Male,No,84.42,53.52,10,Farmer,Bachelor,Low,No,3,0,9,Never,37,Books,None,6,No,SS2,6.8,11.37,No Change,0,Biology
+STU090,16,Female,No,67.36,66.58,1,Civil Servant,Masters,Low,Yes,6,3,3,Never,20,Books,Sports,6,Yes,SS3,37.81,6.41,No Change,228,Mathematics
+STU091,11,Female,Yes,66.78,98.21,10,Lawyer,Masters,High,No,12,2,9,Often,33,Both,Maths Club,3,Yes,JSS1,2.91,23.78,No Change,0,Basic Tech
+STU092,15,Male,Yes,75.71,71.33,16,Trader,Masters,Low,Yes,12,5,0,Occasionally,32,Digital Platform,None,2,No,JSS2,4.84,7.61,No Change,0,Basic Tech
+STU093,16,Male,No,64.69,56.37,14,Banker,Bachelor,Medium,No,2,5,10,Occasionally,34,Digital Platform,Maths Club,2,No,JSS3,25.8,33.61,No Change,0,Civic Education
+STU094,14,Female,No,65.8,68.37,12,Lawyer,Doctoral,High,Yes,4,4,9,Never,24,Both,None,3,Yes,SS1,37.7,22.03,Declined,0,Mathematics
+STU095,17,Female,No,91.84,54.84,2,Lawyer,Masters,High,Yes,8,0,9,Never,38,Digital Platform,Sports,4,Yes,SS2,20.33,6.24,Improved,0,Chemistry
+STU096,14,Male,No,97.68,59.82,2,Trader,Bachelor,Low,No,7,6,8,Occasionally,26,Both,Maths Club,3,Yes,SS3,37.16,50.45,Improved,152,Chemistry
+STU097,15,Female,Yes,60.51,66.37,12,Civil Servant,Doctoral,Low,Yes,11,1,9,Occasionally,32,Books,JETS Club,4,No,JSS1,7.28,5.86,No Change,0,English
+STU098,15,Male,Yes,98.06,62.85,8,Banker,Masters,Low,No,5,2,0,Occasionally,25,Both,Debate & Press Club,1,No,JSS2,25.13,0.22,Declined,0,Mathematics
+STU099,10,Male,No,50.86,99.29,19,Teacher,Bachelor,Low,Yes,12,4,10,Never,20,Both,Sports,4,Yes,JSS3,21.04,42.17,Declined,0,English
+STU100,14,Female,No,85.17,93.45,13,Trader,Masters,Low,Yes,0,4,9,Occasionally,28,Books,Maths Club,2,Yes,SS1,26.27,17.34,No Change,0,Biology
+STU101,15,Male,Yes,88.79,88.67,0,Farmer,Doctoral,Low,No,12,6,5,Occasionally,35,Digital Platform,None,4,Yes,SS2,0.11,28.47,Improved,0,Mathematics
+STU102,18,Male,Yes,53.07,76.65,1,Engineers,Doctoral,High,Yes,4,1,2,Occasionally,24,Books,Maths Club,4,No,SS3,5.0,40.89,Declined,231,English
+STU103,15,Female,No,91.36,91.04,14,Doctor,Bachelor,Low,Yes,8,4,8,Never,25,Both,Debate & Press Club,0,No,JSS1,17.05,40.68,Improved,0,Civic Education
+STU104,12,Male,No,88.97,58.19,11,Trader,Bachelor,Low,No,4,2,7,Occasionally,24,Digital Platform,Debate & Press Club,1,No,JSS2,2.61,42.39,Improved,0,Civic Education
+STU105,16,Male,Yes,74.5,64.56,12,Trader,Bachelor,High,Yes,7,6,0,Never,26,Digital Platform,JETS Club,4,No,JSS3,17.15,15.68,No Change,0,Basic Science
+STU106,16,Female,Yes,55.67,92.83,16,Teacher,Bachelor,Low,Yes,8,3,3,Often,39,Books,Maths Club,2,No,SS1,21.39,35.57,Declined,0,Mathematics
+STU107,10,Female,Yes,74.5,56.92,2,Pharmacist,Masters,Medium,No,4,2,2,Often,30,Both,JETS Club,0,No,SS2,10.3,4.64,Declined,0,Mathematics
+STU108,12,Female,No,60.67,93.09,7,Banker,Doctoral,High,Yes,4,6,4,Never,27,Both,JETS Club,0,Yes,SS3,8.2,34.15,Improved,283,Chemistry
+STU109,12,Male,No,70.08,79.03,5,Teacher,Doctoral,Low,Yes,2,3,2,Occasionally,25,Books,ARTS Club,3,No,JSS1,0.76,56.54,Declined,0,Basic Science
+STU110,17,Female,No,64.82,85.99,12,Banker,Masters,Medium,Yes,6,4,3,Occasionally,30,Both,Sports,6,Yes,JSS2,8.19,8.04,No Change,0,Basic Science
+STU111,16,Female,No,89.62,89.72,20,Farmer,Bachelor,High,No,3,4,3,Often,28,Books,ARTS Club,0,Yes,JSS3,1.65,1.88,Improved,0,English
+STU112,16,Male,Yes,94.86,92.37,5,Accountant,Bachelor,Medium,No,12,2,0,Occasionally,20,Both,ARTS Club,4,No,SS1,2.79,5.58,No Change,0,Physics
+STU113,16,Female,Yes,60.28,67.71,3,Teacher,Bachelor,Low,Yes,0,2,10,Often,31,Books,Sports,4,No,SS2,20.94,35.96,No Change,0,Chemistry
+STU114,13,Female,Yes,97.74,89.9,9,Engineers,Masters,High,Yes,2,6,5,Occasionally,24,Books,ARTS Club,4,No,SS3,3.66,14.42,Declined,133,English
+STU115,13,Male,Yes,91.26,56.34,14,Civil Servant,Doctoral,Medium,No,8,3,1,Occasionally,39,Books,ARTS Club,6,Yes,JSS1,28.41,9.48,Declined,0,English
+STU116,11,Female,No,87.35,73.21,3,Civil Servant,Masters,Low,Yes,8,6,5,Occasionally,33,Digital Platform,Sports,4,No,JSS2,23.92,52.94,Declined,0,Basic Science
+STU117,15,Male,No,79.82,84.26,6,Farmer,Bachelor,Medium,No,5,2,5,Never,28,Books,ARTS Club,1,No,JSS3,34.24,21.44,Declined,0,English
+STU118,17,Female,No,95.5,74.1,14,Trader,Masters,Low,Yes,5,1,0,Occasionally,34,Digital Platform,Sports,6,No,SS1,37.26,10.98,Improved,0,Chemistry
+STU119,14,Female,Yes,51.47,55.3,1,Farmer,Doctoral,High,Yes,10,5,8,Occasionally,27,Digital Platform,None,3,No,SS2,17.75,8.67,Improved,0,Mathematics
+STU120,17,Female,No,88.32,69.15,12,Pharmacist,Bachelor,High,No,6,2,4,Occasionally,27,Digital Platform,ARTS Club,6,No,SS3,27.7,14.8,Declined,105,Chemistry
+STU121,11,Female,No,54.45,64.45,15,Doctor,Doctoral,High,No,4,2,7,Occasionally,28,Books,JETS Club,0,No,JSS1,35.34,35.54,Declined,0,Basic Tech
+STU122,18,Female,Yes,92.33,60.46,19,Teacher,Bachelor,High,Yes,4,2,5,Never,32,Both,Debate & Press Club,1,No,JSS2,5.48,2.64,Improved,0,Basic Science
+STU123,14,Male,No,52.82,67.12,11,Engineers,Bachelor,Medium,No,10,0,1,Never,26,Both,None,5,No,JSS3,28.51,17.3,Improved,0,Basic Science
+STU124,13,Male,Yes,91.06,51.49,1,Teacher,Doctoral,High,No,12,5,8,Often,32,Both,ARTS Club,0,Yes,SS1,16.1,31.24,No Change,0,Physics
+STU125,11,Female,Yes,64.71,61.65,15,Engineers,Doctoral,High,No,7,0,10,Often,39,Books,Sports,1,Yes,SS2,30.54,5.04,Declined,0,Biology
+STU126,18,Male,Yes,68.06,82.9,4,Teacher,Masters,Medium,No,7,1,6,Never,21,Both,JETS Club,2,Yes,SS3,3.13,37.56,Improved,272,Physics
+STU127,10,Male,No,53.13,63.63,14,Civil Servant,Masters,Low,No,9,4,5,Occasionally,40,Digital Platform,Sports,6,No,JSS1,33.16,7.29,Declined,0,Basic Tech
+STU128,16,Male,No,84.79,55.09,18,Teacher,Masters,Medium,Yes,9,6,3,Often,32,Books,ARTS Club,6,No,JSS2,39.03,43.26,Improved,0,Mathematics
+STU129,12,Male,Yes,86.65,67.0,0,Teacher,Doctoral,Medium,Yes,12,0,3,Often,33,Digital Platform,ARTS Club,1,Yes,JSS3,16.11,18.04,No Change,0,Civic Education
+STU130,14,Female,No,71.59,62.14,3,Pharmacist,Doctoral,High,No,4,2,6,Occasionally,21,Both,ARTS Club,5,Yes,SS1,12.58,1.34,Improved,0,Biology
+STU131,14,Male,No,77.49,64.23,13,Engineers,Masters,High,Yes,12,1,2,Never,21,Digital Platform,Debate & Press Club,1,No,SS2,20.59,31.57,Declined,0,Biology
+STU132,10,Female,Yes,94.66,61.5,18,Trader,Doctoral,High,Yes,4,0,1,Often,26,Books,Sports,4,Yes,SS3,0.73,23.09,No Change,234,Physics
+STU133,15,Female,No,81.9,78.36,0,Teacher,Bachelor,Low,Yes,3,2,8,Often,31,Both,ARTS Club,4,Yes,JSS1,26.37,53.86,Declined,0,English
+STU134,16,Male,Yes,86.74,90.21,13,Trader,Doctoral,High,Yes,2,5,6,Occasionally,31,Books,JETS Club,6,Yes,JSS2,37.12,38.3,No Change,0,Basic Tech
+STU135,10,Female,Yes,64.99,73.99,8,Civil Servant,Doctoral,High,Yes,8,0,8,Occasionally,25,Both,Sports,3,No,JSS3,30.84,4.43,Improved,0,Basic Science
+STU136,14,Female,No,59.54,85.62,19,Lawyer,Bachelor,Medium,Yes,3,4,3,Occasionally,39,Books,None,4,Yes,SS1,8.45,50.06,No Change,0,Biology
+STU137,10,Male,Yes,83.58,79.22,12,Farmer,Doctoral,Low,No,5,6,3,Often,34,Digital Platform,Sports,5,Yes,SS2,33.67,52.64,Declined,0,Chemistry
+STU138,10,Male,Yes,71.32,92.16,8,Civil Servant,Masters,High,No,1,1,7,Never,20,Books,None,0,Yes,SS3,33.58,33.75,Improved,226,Chemistry
+STU139,11,Female,No,89.67,65.98,20,Farmer,Bachelor,Medium,Yes,6,4,10,Never,26,Both,Debate & Press Club,3,No,JSS1,6.34,51.0,Improved,0,Mathematics
+STU140,10,Female,Yes,98.68,83.36,5,Farmer,Doctoral,Low,Yes,10,1,10,Occasionally,40,Books,Debate & Press Club,4,Yes,JSS2,6.54,13.0,No Change,0,Basic Tech
+STU141,16,Female,Yes,70.41,86.15,1,Pharmacist,Masters,Low,No,4,6,7,Often,37,Digital Platform,JETS Club,3,No,JSS3,20.01,44.11,Declined,0,Civic Education
+STU142,15,Male,No,55.09,80.46,9,Lawyer,Masters,High,No,1,3,6,Never,21,Both,ARTS Club,1,Yes,SS1,14.78,44.62,Improved,0,Biology
+STU143,14,Male,Yes,50.09,93.7,3,Pharmacist,Masters,High,No,7,5,10,Occasionally,20,Both,None,1,Yes,SS2,1.38,6.02,Improved,0,Biology
+STU144,12,Male,Yes,78.01,84.1,18,Banker,Doctoral,Medium,No,2,5,6,Often,40,Both,Maths Club,3,Yes,SS3,24.69,54.54,Declined,319,Biology
+STU145,12,Female,No,77.93,75.99,13,Trader,Bachelor,Medium,Yes,12,4,0,Never,21,Both,JETS Club,5,No,JSS1,14.56,24.21,Improved,0,Mathematics
+STU146,13,Female,No,58.13,99.02,17,Farmer,Doctoral,Low,No,1,1,4,Often,38,Digital Platform,Sports,3,Yes,JSS2,26.77,21.47,Declined,0,Basic Science
+STU147,18,Male,Yes,94.66,87.09,17,Pharmacist,Bachelor,High,Yes,6,2,3,Often,31,Digital Platform,Maths Club,6,Yes,JSS3,18.41,56.73,Improved,0,English
+STU148,12,Female,No,58.99,95.43,2,Banker,Bachelor,Medium,Yes,8,4,6,Often,34,Both,Sports,1,No,SS1,8.73,37.62,Declined,0,Biology
+STU149,12,Male,Yes,82.88,52.77,2,Teacher,Bachelor,Medium,Yes,4,6,7,Occasionally,32,Books,JETS Club,6,No,SS2,14.97,38.6,Improved,0,English
+STU150,16,Male,Yes,77.14,81.68,5,Pharmacist,Masters,High,Yes,4,1,7,Never,38,Both,ARTS Club,6,Yes,SS3,0.17,45.18,Declined,284,Chemistry
+STU151,14,Male,No,74.77,73.34,7,Trader,Masters,Low,Yes,5,5,5,Occasionally,37,Digital Platform,Maths Club,4,Yes,JSS1,12.46,10.83,Declined,0,Basic Tech
+STU152,13,Female,No,58.77,54.31,20,Farmer,Masters,Low,Yes,2,3,1,Often,37,Digital Platform,None,1,Yes,JSS2,11.06,33.57,Declined,0,Basic Science
+STU153,13,Male,Yes,67.14,77.53,15,Banker,Masters,Medium,No,2,5,0,Occasionally,20,Both,ARTS Club,5,No,JSS3,9.2,39.93,Improved,0,Basic Science
+STU154,14,Female,No,84.66,79.81,16,Doctor,Bachelor,Low,No,1,6,9,Occasionally,36,Books,Maths Club,0,No,SS1,31.9,29.33,Improved,0,Physics
+STU155,16,Female,No,57.34,98.11,14,Accountant,Masters,High,Yes,4,6,7,Often,35,Both,Debate & Press Club,2,No,SS2,2.32,45.38,Improved,0,Biology
+STU156,10,Male,Yes,89.92,73.75,16,Teacher,Masters,High,Yes,2,1,4,Occasionally,34,Both,None,0,No,SS3,39.81,37.69,Improved,124,Mathematics
+STU157,12,Female,Yes,83.7,96.67,9,Trader,Masters,High,Yes,5,0,0,Often,20,Digital Platform,Maths Club,6,Yes,JSS1,7.68,58.06,Improved,0,Basic Science
+STU158,13,Male,Yes,59.51,54.49,13,Pharmacist,Masters,Medium,No,6,4,0,Often,32,Books,Sports,1,No,JSS2,7.77,7.66,Improved,0,Civic Education
+STU159,15,Female,No,68.53,61.18,3,Lawyer,Masters,Medium,No,8,2,0,Often,31,Digital Platform,Sports,1,No,JSS3,30.94,14.92,Declined,0,English
+STU160,12,Male,Yes,55.67,89.43,4,Trader,Masters,High,No,1,2,2,Often,31,Books,Debate & Press Club,6,No,SS1,23.42,34.69,Declined,0,English
+STU161,13,Female,Yes,93.73,67.38,16,Lawyer,Masters,High,Yes,4,6,9,Often,27,Books,Sports,3,No,SS2,20.35,47.17,Declined,0,Physics
+STU162,18,Male,No,65.41,84.28,18,Accountant,Masters,Low,Yes,8,1,6,Never,32,Digital Platform,JETS Club,3,No,SS3,23.28,4.51,No Change,293,Biology
+STU163,11,Male,Yes,98.04,89.89,11,Doctor,Bachelor,Medium,Yes,7,6,0,Often,25,Digital Platform,Debate & Press Club,6,Yes,JSS1,34.47,47.68,Improved,0,Basic Science
+STU164,15,Female,No,82.1,98.49,6,Lawyer,Bachelor,Medium,No,7,1,9,Often,37,Both,Sports,2,Yes,JSS2,6.42,29.95,Improved,0,Mathematics
+STU165,11,Male,Yes,84.45,60.48,8,Banker,Masters,High,No,10,2,0,Occasionally,20,Digital Platform,ARTS Club,4,Yes,JSS3,34.34,48.33,Improved,0,Mathematics
+STU166,10,Female,No,64.63,97.73,13,Civil Servant,Bachelor,Low,No,0,2,4,Never,27,Digital Platform,JETS Club,0,Yes,SS1,3.96,36.64,Improved,0,Chemistry
+STU167,17,Female,No,71.29,74.43,6,Lawyer,Masters,Medium,Yes,3,4,9,Never,39,Both,JETS Club,4,No,SS2,39.66,32.66,No Change,0,Chemistry
+STU168,14,Male,Yes,90.15,50.94,18,Trader,Masters,High,No,2,5,0,Never,21,Both,Maths Club,5,Yes,SS3,15.82,4.27,Improved,284,Mathematics
+STU169,10,Female,Yes,73.27,99.09,15,Banker,Masters,Medium,Yes,4,6,3,Often,22,Both,None,6,No,JSS1,21.84,46.91,No Change,0,Basic Tech
+STU170,15,Male,Yes,53.46,93.96,7,Civil Servant,Masters,High,No,12,2,10,Occasionally,24,Books,ARTS Club,5,Yes,JSS2,12.15,40.59,Declined,0,English
+STU171,15,Male,Yes,86.19,55.57,16,Accountant,Masters,Low,Yes,6,5,9,Often,36,Digital Platform,Debate & Press Club,0,Yes,JSS3,29.48,49.52,Declined,0,Civic Education
+STU172,14,Male,No,50.64,53.4,9,Farmer,Bachelor,Low,No,0,3,8,Never,23,Books,Debate & Press Club,0,No,SS1,34.88,34.33,Improved,0,Chemistry
+STU173,16,Male,Yes,68.5,72.83,15,Teacher,Doctoral,Low,Yes,1,2,10,Never,22,Books,Debate & Press Club,5,No,SS2,34.69,21.31,No Change,0,Physics
+STU174,16,Female,Yes,57.81,69.97,4,Teacher,Doctoral,High,No,0,4,1,Never,34,Both,JETS Club,3,No,SS3,2.5,26.03,Declined,104,English
+STU175,13,Male,No,89.62,60.58,10,Doctor,Masters,High,No,9,2,1,Never,38,Books,ARTS Club,4,No,JSS1,22.43,31.74,Improved,0,Mathematics
+STU176,17,Male,No,96.6,75.31,4,Accountant,Doctoral,Medium,No,5,5,9,Occasionally,34,Digital Platform,Debate & Press Club,0,Yes,JSS2,12.18,26.43,No Change,0,Civic Education
+STU177,12,Male,Yes,94.21,97.9,6,Civil Servant,Doctoral,Medium,Yes,10,6,9,Occasionally,40,Books,Debate & Press Club,3,No,JSS3,25.27,5.24,No Change,0,Mathematics
+STU178,14,Female,Yes,73.99,94.12,13,Accountant,Bachelor,Medium,No,4,5,6,Occasionally,26,Books,ARTS Club,1,No,SS1,5.51,19.88,No Change,0,Chemistry
+STU179,12,Female,Yes,55.52,91.07,0,Farmer,Doctoral,High,Yes,9,5,5,Never,32,Digital Platform,JETS Club,0,Yes,SS2,0.87,59.71,Declined,0,Physics
+STU180,15,Female,Yes,89.23,88.5,14,Farmer,Doctoral,High,Yes,8,2,8,Often,39,Digital Platform,ARTS Club,0,Yes,SS3,19.75,8.26,Declined,215,Physics
+STU181,12,Female,Yes,87.15,92.27,0,Banker,Masters,Medium,No,4,5,3,Never,23,Books,None,5,Yes,JSS1,20.78,47.43,Declined,0,Civic Education
+STU182,14,Female,No,90.46,73.79,11,Farmer,Bachelor,Low,Yes,5,4,1,Never,21,Both,None,3,No,JSS2,26.55,39.69,No Change,0,Basic Tech
+STU183,14,Female,Yes,70.22,65.36,7,Doctor,Doctoral,Medium,Yes,0,4,2,Occasionally,36,Both,Debate & Press Club,0,Yes,JSS3,1.83,13.22,Declined,0,Basic Tech
+STU184,14,Female,Yes,69.07,89.2,14,Teacher,Doctoral,High,No,1,5,5,Occasionally,36,Both,Sports,1,Yes,SS1,18.52,42.65,Declined,0,Chemistry
+STU185,11,Male,Yes,71.37,62.62,3,Lawyer,Masters,Medium,Yes,0,3,0,Often,20,Books,JETS Club,6,No,SS2,23.75,25.62,Improved,0,Biology
+STU186,15,Female,No,90.74,92.18,0,Accountant,Doctoral,High,Yes,1,5,9,Never,26,Both,Maths Club,2,Yes,SS3,16.1,37.58,Declined,262,Physics
+STU187,15,Female,No,70.45,69.71,18,Engineers,Doctoral,Medium,No,10,6,5,Never,26,Books,Maths Club,5,Yes,JSS1,22.67,19.57,No Change,0,English
+STU188,11,Female,No,52.42,95.98,9,Banker,Masters,High,No,5,3,4,Often,20,Both,ARTS Club,2,Yes,JSS2,33.68,55.55,Improved,0,English
+STU189,11,Female,Yes,91.54,97.17,14,Farmer,Doctoral,High,Yes,9,0,1,Occasionally,20,Books,ARTS Club,4,Yes,JSS3,3.06,30.41,Declined,0,Mathematics
+STU190,14,Female,No,96.27,91.32,6,Doctor,Masters,High,Yes,2,3,3,Never,33,Both,Maths Club,3,No,SS1,13.23,9.07,Declined,0,Biology
+STU191,17,Female,Yes,53.97,95.13,2,Pharmacist,Masters,High,Yes,0,4,5,Occasionally,26,Digital Platform,JETS Club,6,Yes,SS2,9.12,58.68,Declined,0,Biology
+STU192,13,Female,No,90.69,77.19,6,Banker,Masters,High,No,9,1,0,Occasionally,22,Digital Platform,None,2,Yes,SS3,24.76,42.21,No Change,293,Biology
+STU193,14,Male,No,57.28,96.27,17,Trader,Masters,Low,Yes,6,1,8,Occasionally,35,Digital Platform,Maths Club,5,Yes,JSS1,15.94,13.54,Declined,0,Basic Tech
+STU194,15,Female,No,72.6,59.99,11,Banker,Doctoral,Medium,No,4,5,7,Occasionally,27,Digital Platform,Maths Club,0,Yes,JSS2,25.91,34.54,Declined,0,Basic Science
+STU195,12,Female,Yes,98.88,94.7,0,Accountant,Bachelor,Low,No,11,6,3,Occasionally,39,Both,ARTS Club,2,No,JSS3,8.69,44.26,Improved,0,Mathematics
+STU196,17,Female,Yes,95.95,58.02,1,Farmer,Bachelor,Medium,Yes,12,1,3,Often,36,Books,Debate & Press Club,6,No,SS1,14.81,57.52,Declined,0,Mathematics
+STU197,18,Female,No,86.15,70.34,15,Engineers,Doctoral,Low,Yes,4,5,4,Often,26,Digital Platform,Sports,4,No,SS2,6.74,18.92,No Change,0,Chemistry
+STU198,16,Female,No,50.75,74.17,0,Doctor,Bachelor,Low,No,11,2,9,Never,21,Both,Maths Club,0,No,SS3,18.14,21.54,Improved,316,Chemistry
+STU199,17,Male,Yes,79.27,86.23,3,Accountant,Masters,Medium,No,6,1,6,Never,33,Books,ARTS Club,2,Yes,JSS1,21.5,47.31,No Change,0,Civic Education
+STU200,12,Male,Yes,57.93,55.29,15,Teacher,Doctoral,High,No,7,1,6,Occasionally,36,Digital Platform,Debate & Press Club,4,Yes,JSS2,1.67,48.93,Improved,0,Mathematics
+STU201,11,Female,No,71.04,66.54,1,Engineers,Doctoral,High,No,4,4,4,Often,32,Books,ARTS Club,4,No,JSS3,37.79,32.92,Improved,0,Basic Tech
+STU202,14,Female,No,74.85,78.56,19,Civil Servant,Bachelor,High,Yes,2,4,4,Never,40,Books,Debate & Press Club,3,No,SS1,10.07,29.7,Declined,0,Chemistry
+STU203,12,Male,No,97.04,84.65,12,Lawyer,Doctoral,High,Yes,12,4,7,Occasionally,27,Books,Maths Club,0,Yes,SS2,8.82,58.22,No Change,0,Biology
+STU204,17,Male,Yes,94.15,73.75,2,Farmer,Bachelor,Low,No,9,4,10,Often,40,Both,JETS Club,3,No,SS3,0.63,51.94,Declined,153,Chemistry
+STU205,10,Male,Yes,71.48,57.28,17,Pharmacist,Doctoral,Low,Yes,5,2,0,Occasionally,27,Digital Platform,Maths Club,5,Yes,JSS1,22.81,12.52,Improved,0,English
+STU206,17,Male,Yes,62.44,94.3,7,Lawyer,Masters,Low,Yes,9,0,4,Often,39,Both,ARTS Club,1,Yes,JSS2,31.45,19.69,Declined,0,Mathematics
+STU207,16,Male,Yes,90.68,65.87,5,Civil Servant,Doctoral,Medium,No,9,2,4,Often,32,Books,ARTS Club,4,Yes,JSS3,34.92,39.81,No Change,0,Basic Science
+STU208,11,Female,No,88.85,75.55,16,Pharmacist,Doctoral,Medium,No,10,0,5,Often,38,Digital Platform,None,0,No,SS1,17.68,38.07,Improved,0,Chemistry
+STU209,16,Male,No,96.87,62.0,3,Civil Servant,Bachelor,Low,No,10,0,10,Occasionally,36,Books,JETS Club,6,No,SS2,31.35,45.35,Declined,0,Mathematics
+STU210,13,Male,No,52.73,65.94,5,Teacher,Masters,High,No,12,5,3,Often,31,Digital Platform,None,0,Yes,SS3,12.4,11.66,Improved,309,English
+STU211,16,Female,No,68.93,55.52,9,Doctor,Masters,High,Yes,8,5,0,Often,34,Books,Maths Club,5,No,JSS1,11.51,57.57,Declined,0,Mathematics
+STU212,15,Female,No,80.17,50.56,1,Farmer,Doctoral,Low,No,8,1,10,Never,31,Digital Platform,None,2,No,JSS2,33.76,52.48,Declined,0,English
+STU213,12,Female,Yes,79.48,80.61,13,Accountant,Masters,Medium,No,8,2,6,Occasionally,32,Digital Platform,Debate & Press Club,5,No,JSS3,15.44,5.11,Declined,0,English
+STU214,18,Female,No,62.31,79.12,3,Civil Servant,Doctoral,High,Yes,2,3,1,Occasionally,32,Digital Platform,ARTS Club,1,No,SS1,13.05,4.49,Declined,0,Biology
+STU215,16,Male,No,84.8,88.07,17,Teacher,Bachelor,High,No,1,4,0,Occasionally,25,Both,ARTS Club,0,Yes,SS2,20.94,27.94,Declined,0,Chemistry
+STU216,16,Male,Yes,89.63,95.38,11,Lawyer,Bachelor,Low,Yes,2,0,7,Never,37,Books,Maths Club,5,Yes,SS3,9.04,41.24,Improved,209,Mathematics
+STU217,10,Male,Yes,80.15,90.74,9,Lawyer,Masters,Low,Yes,9,2,4,Often,27,Books,Debate & Press Club,3,Yes,JSS1,26.13,25.94,Declined,0,Civic Education
+STU218,12,Female,No,63.15,51.83,5,Lawyer,Masters,High,Yes,10,5,0,Never,28,Books,Debate & Press Club,2,No,JSS2,15.99,33.51,No Change,0,Basic Science
+STU219,14,Male,Yes,71.05,56.51,3,Pharmacist,Doctoral,Low,Yes,11,3,6,Often,40,Books,JETS Club,2,No,JSS3,23.77,53.11,Declined,0,English
+STU220,11,Male,Yes,63.73,89.09,14,Teacher,Masters,Low,No,12,0,0,Occasionally,23,Digital Platform,Maths Club,4,Yes,SS1,38.9,33.7,Improved,0,Biology
+STU221,14,Male,Yes,68.55,55.56,19,Farmer,Bachelor,High,Yes,5,4,2,Never,39,Digital Platform,JETS Club,6,No,SS2,13.49,51.02,No Change,0,Physics
+STU222,12,Female,No,61.99,88.59,16,Trader,Masters,Medium,No,8,1,8,Occasionally,34,Books,JETS Club,1,Yes,SS3,31.78,22.21,No Change,170,Chemistry
+STU223,18,Female,Yes,62.19,74.02,20,Pharmacist,Bachelor,Medium,Yes,6,6,2,Occasionally,29,Both,Maths Club,0,No,JSS1,14.79,20.95,Declined,0,English
+STU224,13,Male,Yes,53.38,76.51,2,Doctor,Doctoral,Medium,Yes,12,5,10,Often,39,Both,JETS Club,6,Yes,JSS2,12.2,16.29,Declined,0,Basic Tech
+STU225,12,Male,Yes,88.36,80.72,8,Accountant,Masters,Medium,No,7,3,4,Never,28,Both,None,3,Yes,JSS3,32.08,52.45,No Change,0,Basic Science
+STU226,13,Male,No,54.89,55.82,15,Teacher,Doctoral,High,No,12,3,3,Occasionally,22,Digital Platform,Sports,2,Yes,SS1,24.14,32.21,Improved,0,English
+STU227,12,Female,No,68.0,71.18,4,Doctor,Bachelor,High,No,11,2,6,Occasionally,40,Both,ARTS Club,3,Yes,SS2,8.46,29.13,Declined,0,Biology
+STU228,11,Male,Yes,77.47,99.0,1,Lawyer,Bachelor,High,Yes,6,6,0,Never,35,Books,None,4,No,SS3,31.96,59.73,Declined,270,Chemistry
+STU229,11,Male,Yes,78.58,55.71,15,Lawyer,Doctoral,Low,Yes,2,4,0,Never,28,Both,ARTS Club,3,Yes,JSS1,35.32,11.52,Declined,0,Basic Science
+STU230,11,Male,No,61.44,54.8,18,Accountant,Masters,Low,No,12,5,2,Never,29,Both,JETS Club,3,Yes,JSS2,37.15,32.09,Declined,0,Basic Tech
+STU231,14,Female,Yes,75.02,91.24,9,Teacher,Doctoral,High,No,7,6,2,Never,33,Both,None,6,No,JSS3,30.34,26.17,No Change,0,English
+STU232,11,Female,No,79.13,59.5,9,Accountant,Doctoral,High,No,6,0,9,Occasionally,37,Digital Platform,Debate & Press Club,5,Yes,SS1,9.9,55.11,Improved,0,Physics
+STU233,17,Female,Yes,79.45,76.29,17,Banker,Bachelor,High,Yes,2,6,2,Never,29,Both,ARTS Club,0,No,SS2,18.86,19.56,Improved,0,Chemistry
+STU234,15,Female,No,89.64,84.11,10,Teacher,Bachelor,Low,No,6,0,2,Often,33,Both,None,5,Yes,SS3,14.63,46.9,Improved,350,English
+STU235,17,Female,Yes,67.39,88.89,2,Teacher,Doctoral,Low,No,10,0,1,Never,35,Both,Sports,1,Yes,JSS1,6.76,58.35,No Change,0,Basic Science
+STU236,16,Male,No,91.67,80.09,17,Banker,Doctoral,High,Yes,3,0,5,Never,37,Both,JETS Club,2,No,JSS2,34.19,33.56,Improved,0,Basic Science
+STU237,12,Male,Yes,52.11,93.43,17,Lawyer,Doctoral,Medium,No,12,5,9,Occasionally,20,Books,Debate & Press Club,0,No,JSS3,12.75,29.7,No Change,0,Basic Science
+STU238,16,Male,Yes,56.23,84.5,16,Pharmacist,Masters,High,No,12,3,3,Often,37,Both,ARTS Club,1,No,SS1,6.35,32.34,Improved,0,Biology
+STU239,18,Female,No,90.78,62.02,13,Doctor,Bachelor,Low,Yes,2,2,7,Occasionally,23,Digital Platform,JETS Club,6,Yes,SS2,39.11,27.5,Declined,0,English
+STU240,15,Male,No,93.13,83.04,7,Banker,Doctoral,High,No,5,5,4,Often,36,Digital Platform,Maths Club,6,No,SS3,28.67,38.13,No Change,128,Mathematics
+STU241,12,Male,No,96.02,75.14,9,Engineers,Masters,High,No,4,6,3,Occasionally,20,Books,Sports,5,No,JSS1,7.22,48.67,Declined,0,Basic Science
+STU242,11,Female,Yes,66.25,71.8,11,Lawyer,Masters,High,Yes,2,5,10,Never,26,Both,Debate & Press Club,3,No,JSS2,4.43,58.43,Declined,0,English
+STU243,11,Female,Yes,96.71,56.3,12,Lawyer,Bachelor,High,No,6,1,3,Often,33,Digital Platform,Maths Club,5,No,JSS3,26.16,7.67,No Change,0,Basic Science
+STU244,15,Female,No,74.69,64.55,5,Teacher,Doctoral,High,Yes,9,4,7,Often,37,Both,Debate & Press Club,5,Yes,SS1,22.32,13.98,No Change,0,Mathematics
+STU245,11,Female,Yes,58.6,57.04,4,Engineers,Masters,Low,No,8,3,9,Never,36,Digital Platform,Debate & Press Club,3,No,SS2,23.44,58.57,Declined,0,Mathematics
+STU246,16,Female,No,83.78,82.71,16,Farmer,Bachelor,High,Yes,9,5,5,Occasionally,30,Both,ARTS Club,4,No,SS3,27.65,27.94,Improved,252,Chemistry
+STU247,14,Male,No,67.73,88.57,15,Banker,Bachelor,Medium,No,1,5,5,Occasionally,28,Digital Platform,ARTS Club,3,No,JSS1,6.26,24.72,Declined,0,English
+STU248,16,Male,Yes,57.82,51.12,18,Trader,Masters,Low,No,3,4,10,Often,29,Both,JETS Club,6,Yes,JSS2,21.21,13.71,Improved,0,Civic Education
+STU249,10,Male,Yes,68.71,57.3,16,Doctor,Doctoral,Low,No,2,0,5,Often,37,Books,None,4,Yes,JSS3,14.9,27.74,Declined,0,Basic Science
+STU250,13,Female,Yes,97.4,55.61,10,Banker,Doctoral,Low,Yes,3,2,3,Occasionally,21,Digital Platform,Maths Club,6,No,SS1,29.8,48.29,Declined,0,Physics
+STU251,16,Male,No,59.53,79.61,5,Doctor,Doctoral,Medium,Yes,6,3,6,Occasionally,36,Digital Platform,Debate & Press Club,4,Yes,SS2,36.96,14.5,Declined,0,English
+STU252,14,Female,Yes,74.95,69.71,15,Farmer,Doctoral,High,No,1,6,10,Occasionally,27,Books,None,3,No,SS3,23.82,40.45,Declined,322,Physics
+STU253,13,Female,Yes,77.06,64.18,14,Banker,Masters,High,No,0,6,6,Often,29,Both,Debate & Press Club,6,Yes,JSS1,15.41,56.36,Improved,0,Basic Tech
+STU254,14,Female,No,83.17,86.25,16,Teacher,Bachelor,High,No,2,1,5,Occasionally,30,Both,Debate & Press Club,1,No,JSS2,13.45,33.47,Declined,0,Mathematics
+STU255,14,Male,No,66.32,84.95,5,Civil Servant,Bachelor,Low,No,5,3,7,Occasionally,31,Both,None,6,Yes,JSS3,22.15,4.28,Improved,0,Civic Education
+STU256,10,Male,No,89.18,64.85,11,Banker,Masters,Low,No,11,3,7,Never,40,Digital Platform,Sports,2,No,SS1,19.92,41.09,Declined,0,Physics
+STU257,16,Female,Yes,71.37,83.55,0,Trader,Doctoral,High,Yes,5,4,9,Often,24,Both,Sports,4,Yes,SS2,10.2,13.1,No Change,0,Chemistry
+STU258,13,Male,No,54.45,88.38,15,Pharmacist,Bachelor,High,Yes,6,2,6,Often,28,Digital Platform,Sports,1,Yes,SS3,36.96,25.29,Improved,277,Chemistry
+STU259,17,Female,Yes,64.84,75.8,13,Trader,Doctoral,High,No,7,4,3,Never,27,Digital Platform,Maths Club,5,Yes,JSS1,24.85,8.76,No Change,0,Basic Science
+STU260,15,Female,No,96.79,71.46,14,Doctor,Doctoral,Medium,No,11,4,9,Often,38,Both,None,0,Yes,JSS2,35.73,18.82,Improved,0,English
+STU261,18,Female,Yes,60.27,68.69,7,Doctor,Masters,High,Yes,9,2,8,Often,30,Books,Maths Club,6,No,JSS3,37.39,33.59,Improved,0,Basic Tech
+STU262,12,Male,No,65.2,95.73,2,Teacher,Masters,Medium,Yes,8,1,5,Never,40,Books,Debate & Press Club,6,Yes,SS1,34.03,14.65,Improved,0,Physics
+STU263,14,Female,No,77.76,89.03,8,Trader,Doctoral,High,No,11,0,5,Often,26,Digital Platform,None,4,Yes,SS2,31.69,56.41,Improved,0,Chemistry
+STU264,12,Male,Yes,92.64,59.87,19,Engineers,Bachelor,Medium,No,3,5,6,Never,37,Both,JETS Club,5,Yes,SS3,23.23,31.43,Declined,299,Biology
+STU265,10,Male,Yes,52.89,75.77,12,Farmer,Masters,High,No,8,3,2,Often,31,Both,Maths Club,1,Yes,JSS1,31.99,20.42,No Change,0,Basic Science
+STU266,18,Female,Yes,74.66,81.08,19,Accountant,Masters,High,No,3,0,5,Never,38,Both,JETS Club,2,Yes,JSS2,34.93,20.02,Improved,0,Civic Education
+STU267,18,Female,Yes,68.98,82.17,16,Teacher,Doctoral,High,Yes,9,5,9,Occasionally,35,Digital Platform,None,0,Yes,JSS3,4.18,22.44,Declined,0,Basic Tech
+STU268,11,Male,Yes,88.97,74.86,7,Civil Servant,Masters,Medium,No,7,6,6,Never,31,Both,Sports,3,Yes,SS1,37.14,25.26,Declined,0,Mathematics
+STU269,17,Male,Yes,93.19,96.34,15,Lawyer,Bachelor,Low,No,8,3,0,Never,27,Both,Debate & Press Club,6,No,SS2,31.43,11.48,No Change,0,Chemistry
+STU270,11,Female,Yes,83.66,52.94,5,Accountant,Doctoral,High,Yes,10,6,7,Occasionally,26,Digital Platform,Maths Club,5,Yes,SS3,11.74,40.29,Improved,240,English
+STU271,16,Female,No,77.65,59.27,18,Engineers,Bachelor,High,No,3,4,4,Often,28,Digital Platform,Maths Club,2,Yes,JSS1,20.65,6.31,No Change,0,Basic Science
+STU272,11,Male,No,67.54,53.44,19,Lawyer,Masters,Medium,No,8,0,2,Occasionally,39,Digital Platform,Debate & Press Club,4,No,JSS2,26.03,18.19,Declined,0,Basic Science
+STU273,10,Female,Yes,96.68,89.8,17,Banker,Masters,High,No,5,1,6,Never,22,Digital Platform,JETS Club,2,No,JSS3,14.06,1.04,No Change,0,Civic Education
+STU274,11,Female,No,74.57,69.55,1,Doctor,Doctoral,Low,No,8,2,5,Occasionally,27,Books,None,2,No,SS1,37.64,15.68,Declined,0,English
+STU275,12,Female,No,89.59,73.5,18,Accountant,Masters,Medium,Yes,2,5,3,Occasionally,30,Digital Platform,Sports,4,No,SS2,14.54,26.05,No Change,0,Chemistry
+STU276,17,Female,Yes,79.39,56.26,12,Accountant,Bachelor,High,Yes,6,2,9,Often,29,Books,Maths Club,2,Yes,SS3,19.41,37.31,No Change,268,Biology
+STU277,11,Male,Yes,56.04,82.59,4,Lawyer,Masters,Low,Yes,10,4,10,Occasionally,23,Books,ARTS Club,1,No,JSS1,20.12,51.78,Declined,0,Mathematics
+STU278,17,Male,No,100.0,79.53,20,Doctor,Masters,High,Yes,11,0,10,Occasionally,40,Books,ARTS Club,2,Yes,JSS2,28.48,51.76,No Change,0,English
+STU279,13,Male,No,52.09,90.25,18,Civil Servant,Bachelor,Medium,Yes,8,3,10,Occasionally,25,Digital Platform,JETS Club,5,Yes,JSS3,5.36,1.96,Declined,0,Basic Science
+STU280,18,Female,No,55.22,78.63,3,Teacher,Bachelor,Low,Yes,5,6,6,Occasionally,30,Digital Platform,ARTS Club,0,Yes,SS1,8.96,30.51,No Change,0,Mathematics
+STU281,14,Male,Yes,89.63,99.03,3,Doctor,Doctoral,Medium,No,5,0,8,Occasionally,23,Books,JETS Club,5,No,SS2,35.49,29.5,Declined,0,Physics
+STU282,14,Male,No,50.34,72.07,11,Accountant,Bachelor,Low,Yes,11,0,5,Occasionally,40,Digital Platform,None,4,No,SS3,4.07,8.05,Declined,264,English
+STU283,16,Male,Yes,75.47,63.94,4,Trader,Bachelor,Medium,No,2,2,7,Occasionally,27,Books,ARTS Club,5,No,JSS1,30.35,4.35,No Change,0,English
+STU284,10,Male,Yes,69.65,95.3,17,Trader,Masters,Medium,Yes,8,5,5,Occasionally,26,Digital Platform,Sports,3,Yes,JSS2,16.19,23.16,Improved,0,Mathematics
+STU285,13,Male,No,73.52,55.52,13,Civil Servant,Masters,Low,No,12,2,5,Occasionally,33,Both,JETS Club,6,Yes,JSS3,36.65,38.32,No Change,0,Basic Science
+STU286,17,Male,Yes,80.23,70.03,13,Trader,Bachelor,High,Yes,3,4,1,Often,29,Both,None,4,Yes,SS1,28.51,50.48,Improved,0,Chemistry
+STU287,13,Female,No,95.08,54.47,11,Banker,Doctoral,High,Yes,9,6,9,Often,24,Digital Platform,Maths Club,6,Yes,SS2,5.34,34.5,Improved,0,English
+STU288,12,Male,Yes,72.51,50.11,12,Engineers,Masters,Medium,No,6,0,0,Never,20,Both,ARTS Club,3,No,SS3,31.76,22.84,Improved,157,Mathematics
+STU289,14,Female,No,81.96,72.67,12,Pharmacist,Doctoral,Medium,No,9,3,2,Never,26,Books,ARTS Club,2,Yes,JSS1,15.89,14.47,Improved,0,Mathematics
+STU290,10,Female,No,84.09,80.64,11,Accountant,Bachelor,High,Yes,12,4,10,Occasionally,36,Books,JETS Club,6,No,JSS2,39.03,14.17,Improved,0,Mathematics
+STU291,18,Male,Yes,91.06,98.32,8,Pharmacist,Bachelor,High,No,0,3,5,Occasionally,26,Digital Platform,JETS Club,0,No,JSS3,38.04,49.58,Improved,0,Civic Education
+STU292,15,Female,Yes,61.87,98.19,20,Lawyer,Masters,Medium,Yes,1,1,3,Often,27,Books,None,5,Yes,SS1,21.03,32.51,Declined,0,Mathematics
+STU293,10,Female,Yes,87.7,95.89,0,Teacher,Doctoral,Low,No,10,6,10,Never,32,Books,Maths Club,0,No,SS2,15.02,32.53,No Change,0,Mathematics
+STU294,11,Male,No,79.96,92.35,15,Trader,Bachelor,Medium,No,7,0,6,Never,20,Both,Sports,1,Yes,SS3,30.82,7.96,No Change,140,Chemistry
+STU295,12,Female,Yes,51.02,94.44,0,Civil Servant,Masters,Low,Yes,0,1,1,Never,32,Books,None,2,No,JSS1,12.72,38.03,Improved,0,Civic Education
+STU296,10,Male,No,88.91,88.71,16,Civil Servant,Bachelor,Medium,Yes,12,6,1,Never,20,Digital Platform,None,6,No,JSS2,31.51,22.17,No Change,0,Basic Science
+STU297,15,Male,Yes,91.36,67.94,3,Accountant,Doctoral,High,Yes,0,5,9,Occasionally,24,Both,Sports,4,No,JSS3,10.64,47.84,Improved,0,Basic Tech
+STU298,13,Female,No,67.32,62.96,3,Farmer,Doctoral,Medium,No,6,2,4,Never,26,Both,ARTS Club,3,Yes,SS1,7.86,15.91,No Change,0,Chemistry
+STU299,18,Female,Yes,91.28,56.61,20,Engineers,Masters,High,No,0,2,6,Often,34,Digital Platform,ARTS Club,6,No,SS2,0.88,10.85,No Change,0,Chemistry
+STU300,14,Female,No,65.05,75.04,17,Banker,Masters,High,Yes,10,5,4,Never,25,Both,ARTS Club,5,No,SS3,34.33,49.14,Improved,181,Chemistry
+STU301,18,Male,No,85.02,52.98,9,Pharmacist,Bachelor,Low,No,5,5,0,Never,32,Both,Maths Club,6,Yes,JSS1,0.96,24.5,Improved,0,English
+STU302,14,Female,No,52.66,62.23,20,Doctor,Doctoral,Low,No,2,6,0,Often,23,Digital Platform,Sports,6,Yes,JSS2,35.91,40.9,Improved,0,English
+STU303,14,Female,Yes,88.48,74.21,0,Civil Servant,Bachelor,Low,Yes,6,0,4,Never,29,Books,Debate & Press Club,5,Yes,JSS3,25.57,53.13,Improved,0,Civic Education
+STU304,12,Female,No,88.32,96.2,4,Trader,Masters,Medium,No,12,1,7,Often,31,Digital Platform,None,2,Yes,SS1,2.6,4.26,Improved,0,Physics
+STU305,14,Male,No,57.98,78.84,4,Pharmacist,Masters,High,Yes,12,3,2,Occasionally,38,Both,Debate & Press Club,5,No,SS2,10.51,46.87,Improved,0,Chemistry
+STU306,17,Female,Yes,91.91,88.48,5,Civil Servant,Bachelor,Medium,No,9,2,0,Never,35,Both,None,3,Yes,SS3,15.55,8.47,Improved,228,Biology
+STU307,18,Male,No,92.14,52.76,15,Lawyer,Doctoral,Medium,Yes,8,0,10,Often,38,Digital Platform,Debate & Press Club,5,Yes,JSS1,11.31,44.37,Declined,0,English
+STU308,15,Female,No,70.48,83.4,10,Civil Servant,Doctoral,High,No,11,0,2,Never,22,Books,JETS Club,3,No,JSS2,5.2,56.19,Declined,0,Civic Education
+STU309,15,Male,Yes,50.15,67.64,11,Trader,Bachelor,Low,Yes,2,2,5,Often,40,Both,None,2,No,JSS3,9.93,14.08,No Change,0,English
+STU310,13,Female,No,97.82,71.14,9,Trader,Bachelor,High,No,9,1,4,Occasionally,40,Both,Sports,6,Yes,SS1,23.51,43.95,No Change,0,Mathematics
+STU311,10,Male,No,98.68,86.06,15,Teacher,Masters,High,No,9,0,3,Often,23,Both,ARTS Club,6,No,SS2,20.01,32.63,Improved,0,Chemistry
+STU312,14,Male,Yes,85.78,52.3,19,Accountant,Masters,Medium,Yes,1,4,8,Occasionally,40,Digital Platform,None,1,No,SS3,30.65,27.43,Improved,190,Mathematics
+STU313,15,Male,Yes,50.18,63.96,15,Banker,Bachelor,High,No,8,1,7,Never,36,Both,Sports,0,No,JSS1,26.59,31.15,No Change,0,Mathematics
+STU314,11,Male,No,88.48,71.77,5,Lawyer,Bachelor,Medium,Yes,6,1,3,Occasionally,23,Digital Platform,None,1,No,JSS2,33.96,52.88,Improved,0,Mathematics
+STU315,16,Female,No,77.9,84.52,1,Banker,Masters,Low,No,4,2,6,Occasionally,29,Books,Maths Club,1,Yes,JSS3,24.78,19.36,Declined,0,Basic Tech
+STU316,17,Male,Yes,83.19,64.36,3,Lawyer,Doctoral,Low,Yes,4,6,3,Occasionally,28,Digital Platform,Maths Club,6,Yes,SS1,18.35,17.98,Improved,0,Biology
+STU317,11,Male,No,67.66,98.75,8,Accountant,Masters,Medium,Yes,7,2,0,Never,27,Digital Platform,Sports,0,No,SS2,10.84,6.91,No Change,0,English
+STU318,13,Male,Yes,80.24,93.57,14,Engineers,Doctoral,Low,No,7,4,2,Often,26,Digital Platform,ARTS Club,2,No,SS3,26.35,35.78,No Change,167,English
+STU319,16,Female,No,97.66,88.26,1,Pharmacist,Bachelor,Medium,No,8,2,0,Occasionally,38,Digital Platform,Debate & Press Club,4,No,JSS1,12.46,27.27,No Change,0,Civic Education
+STU320,13,Male,Yes,66.08,50.09,4,Teacher,Doctoral,Low,No,10,1,2,Never,22,Both,Maths Club,5,No,JSS2,22.43,7.78,No Change,0,Mathematics
+STU321,14,Female,Yes,72.59,70.84,11,Engineers,Doctoral,Medium,Yes,7,3,7,Occasionally,31,Digital Platform,JETS Club,2,Yes,JSS3,30.14,36.85,No Change,0,English
+STU322,12,Female,No,93.51,65.41,20,Doctor,Doctoral,Low,Yes,8,2,8,Often,21,Both,Maths Club,0,Yes,SS1,14.06,45.59,Improved,0,Mathematics
+STU323,13,Female,Yes,54.38,73.13,5,Teacher,Doctoral,High,No,7,5,7,Never,40,Both,JETS Club,4,Yes,SS2,12.51,3.8,Declined,0,Biology
+STU324,11,Male,Yes,75.13,67.95,5,Banker,Masters,Medium,No,9,0,9,Occasionally,25,Digital Platform,Sports,2,Yes,SS3,21.01,50.91,No Change,112,Physics
+STU325,13,Female,Yes,99.55,75.32,4,Teacher,Bachelor,Low,No,4,4,3,Never,38,Books,Sports,2,No,JSS1,7.57,57.87,No Change,0,Basic Tech
+STU326,15,Male,Yes,59.22,67.74,17,Lawyer,Masters,High,Yes,12,4,1,Often,38,Both,ARTS Club,5,Yes,JSS2,4.41,55.6,Improved,0,English
+STU327,10,Male,No,84.12,71.25,13,Accountant,Doctoral,Low,No,3,1,2,Occasionally,22,Digital Platform,None,3,Yes,JSS3,8.11,30.95,Declined,0,Mathematics
+STU328,15,Female,Yes,94.65,51.71,15,Farmer,Masters,Low,No,11,2,5,Occasionally,34,Both,JETS Club,0,No,SS1,18.43,22.39,Declined,0,English
+STU329,16,Male,Yes,84.11,90.6,16,Accountant,Masters,High,No,0,2,4,Occasionally,39,Books,None,4,Yes,SS2,19.52,50.34,Declined,0,Mathematics
+STU330,15,Male,No,77.49,96.09,13,Engineers,Bachelor,High,Yes,7,5,10,Never,37,Both,Sports,1,Yes,SS3,39.0,40.24,No Change,221,Biology
+STU331,12,Female,Yes,61.94,73.52,2,Civil Servant,Doctoral,Low,Yes,1,2,5,Often,35,Books,None,6,No,JSS1,9.24,14.25,Improved,0,Basic Science
+STU332,17,Female,No,91.75,86.15,3,Lawyer,Doctoral,High,Yes,2,4,4,Often,31,Books,Sports,2,No,JSS2,27.24,7.0,Improved,0,English
+STU333,12,Female,No,85.59,58.83,9,Civil Servant,Bachelor,High,Yes,10,6,4,Occasionally,33,Digital Platform,JETS Club,0,Yes,JSS3,18.89,22.23,No Change,0,Basic Tech
+STU334,10,Female,Yes,94.33,76.65,0,Engineers,Masters,High,Yes,11,0,7,Often,40,Digital Platform,Debate & Press Club,2,No,SS1,27.19,33.2,No Change,0,Chemistry
+STU335,11,Female,Yes,59.92,86.91,6,Pharmacist,Bachelor,High,Yes,0,5,8,Often,29,Books,Maths Club,2,Yes,SS2,0.92,20.61,Improved,0,Biology
+STU336,18,Male,No,70.58,68.79,6,Accountant,Masters,Low,Yes,0,1,7,Often,32,Books,JETS Club,6,No,SS3,37.32,59.01,Declined,297,Biology
+STU337,18,Female,Yes,81.49,60.57,16,Farmer,Masters,Medium,Yes,2,5,5,Never,39,Books,Debate & Press Club,4,No,JSS1,3.86,6.96,Improved,0,Basic Tech
+STU338,11,Male,No,92.73,92.22,15,Trader,Bachelor,Low,No,4,2,0,Occasionally,31,Both,Debate & Press Club,1,No,JSS2,29.14,47.6,No Change,0,Basic Science
+STU339,13,Male,No,83.85,82.13,16,Engineers,Bachelor,High,No,9,4,8,Often,33,Both,Debate & Press Club,0,No,JSS3,25.55,22.51,No Change,0,Basic Science
+STU340,14,Female,Yes,57.51,62.76,20,Farmer,Doctoral,Medium,Yes,4,1,4,Often,36,Digital Platform,Sports,1,No,SS1,31.9,14.55,Improved,0,Mathematics
+STU341,18,Female,No,62.88,69.88,15,Banker,Bachelor,Low,Yes,8,2,10,Never,36,Digital Platform,JETS Club,3,No,SS2,35.98,51.16,Declined,0,English
+STU342,13,Male,No,59.82,57.72,9,Teacher,Masters,Medium,No,9,1,0,Never,25,Digital Platform,JETS Club,5,No,SS3,14.36,9.77,No Change,213,English
+STU343,13,Male,Yes,84.99,67.15,12,Banker,Doctoral,Medium,Yes,2,2,7,Occasionally,24,Both,ARTS Club,5,Yes,JSS1,5.4,0.81,No Change,0,Basic Tech
+STU344,10,Male,Yes,53.95,65.11,2,Banker,Doctoral,Medium,Yes,12,1,5,Occasionally,28,Books,Sports,3,Yes,JSS2,9.0,32.12,Improved,0,Mathematics
+STU345,17,Male,No,86.68,86.49,6,Trader,Doctoral,Low,No,4,0,0,Occasionally,29,Books,Debate & Press Club,6,Yes,JSS3,28.58,26.19,No Change,0,Basic Tech
+STU346,18,Male,Yes,77.53,69.52,1,Pharmacist,Bachelor,Medium,No,2,4,1,Occasionally,28,Digital Platform,JETS Club,4,No,SS1,39.93,43.41,Improved,0,Mathematics
+STU347,17,Female,Yes,61.49,90.89,16,Lawyer,Bachelor,High,Yes,12,5,0,Often,32,Both,Debate & Press Club,5,Yes,SS2,25.5,44.39,Improved,0,Chemistry
+STU348,11,Male,No,81.26,59.56,12,Lawyer,Masters,Medium,No,6,5,10,Often,31,Books,JETS Club,0,No,SS3,35.91,5.9,No Change,217,Mathematics
+STU349,15,Male,No,58.74,90.83,18,Teacher,Masters,High,Yes,1,3,6,Often,37,Both,JETS Club,0,Yes,JSS1,12.29,7.78,Improved,0,Basic Science
+STU350,16,Male,Yes,56.02,66.89,3,Trader,Masters,High,No,4,2,10,Often,40,Books,Sports,6,No,JSS2,33.87,49.94,No Change,0,Basic Science
+STU351,12,Female,No,89.26,55.21,4,Engineers,Bachelor,Medium,Yes,3,2,8,Never,30,Digital Platform,Debate & Press Club,5,No,JSS3,2.47,6.6,No Change,0,English
+STU352,17,Male,No,55.45,64.64,18,Accountant,Doctoral,Low,Yes,0,5,0,Often,35,Books,ARTS Club,5,No,SS1,10.57,47.24,Declined,0,Physics
+STU353,11,Female,Yes,70.77,51.87,15,Teacher,Masters,Low,Yes,7,0,9,Never,26,Digital Platform,None,2,No,SS2,19.11,4.7,Improved,0,English
+STU354,18,Female,Yes,76.59,68.78,12,Farmer,Bachelor,Low,No,0,2,8,Never,38,Both,JETS Club,4,Yes,SS3,25.09,45.04,Improved,121,Chemistry
+STU355,12,Male,No,68.01,77.07,11,Civil Servant,Masters,Low,Yes,0,1,1,Often,25,Digital Platform,Maths Club,5,No,JSS1,34.03,43.78,Declined,0,English
+STU356,17,Male,No,76.12,94.89,5,Lawyer,Bachelor,High,Yes,0,4,9,Occasionally,35,Digital Platform,JETS Club,1,No,JSS2,29.53,27.06,Declined,0,Basic Science
+STU357,11,Female,No,87.15,54.77,16,Doctor,Masters,Low,Yes,5,0,0,Never,21,Both,Debate & Press Club,4,No,JSS3,16.14,13.68,Improved,0,Basic Tech
+STU358,17,Male,No,70.48,50.98,11,Engineers,Doctoral,Medium,Yes,3,6,1,Often,20,Books,ARTS Club,1,Yes,SS1,24.12,40.23,No Change,0,English
+STU359,10,Male,No,70.53,91.95,4,Lawyer,Masters,High,Yes,11,3,6,Often,32,Books,JETS Club,1,Yes,SS2,37.94,55.33,Improved,0,Physics
+STU360,12,Female,Yes,84.3,93.63,14,Engineers,Bachelor,Low,Yes,11,5,2,Occasionally,40,Digital Platform,Debate & Press Club,5,Yes,SS3,3.71,31.42,Declined,100,Chemistry
+STU361,10,Female,No,67.96,99.34,9,Lawyer,Bachelor,Low,Yes,0,3,8,Often,30,Both,Sports,4,No,JSS1,23.21,8.08,No Change,0,Basic Science
+STU362,14,Male,Yes,67.51,92.51,18,Pharmacist,Masters,Low,Yes,2,4,2,Often,40,Books,JETS Club,3,No,JSS2,18.15,13.03,Declined,0,Civic Education
+STU363,14,Female,Yes,59.94,61.73,19,Trader,Masters,High,Yes,7,4,4,Often,20,Books,None,3,No,JSS3,12.27,25.79,Declined,0,Basic Science
+STU364,14,Male,Yes,61.6,96.8,7,Lawyer,Masters,Low,Yes,7,5,10,Occasionally,23,Digital Platform,JETS Club,6,No,SS1,2.78,12.52,Declined,0,Chemistry
+STU365,16,Female,Yes,72.13,61.13,6,Pharmacist,Doctoral,High,No,6,6,0,Never,38,Books,ARTS Club,5,No,SS2,11.73,39.29,Declined,0,English
+STU366,15,Male,Yes,69.39,84.38,14,Engineers,Masters,Low,Yes,5,4,8,Often,27,Books,Sports,1,No,SS3,12.52,50.11,No Change,275,English
+STU367,10,Female,No,92.14,87.7,15,Banker,Masters,Medium,Yes,1,0,8,Often,31,Books,Sports,4,Yes,JSS1,15.38,6.39,No Change,0,Basic Science
+STU368,16,Male,No,74.79,55.51,2,Civil Servant,Bachelor,Medium,No,12,1,0,Never,26,Both,Sports,3,Yes,JSS2,30.14,9.24,Declined,0,Basic Tech
+STU369,14,Male,No,84.43,79.14,17,Teacher,Bachelor,High,Yes,11,4,10,Never,36,Both,Debate & Press Club,0,Yes,JSS3,20.46,26.04,Improved,0,Civic Education
+STU370,13,Male,No,89.0,60.98,8,Pharmacist,Bachelor,Low,No,3,5,8,Often,35,Both,ARTS Club,0,Yes,SS1,25.64,39.15,No Change,0,Physics
+STU371,15,Male,Yes,69.48,70.97,1,Lawyer,Bachelor,Medium,No,4,2,4,Occasionally,38,Digital Platform,None,5,No,SS2,33.88,24.86,Declined,0,Chemistry
+STU372,12,Male,Yes,72.31,86.58,4,Lawyer,Doctoral,Medium,Yes,2,1,3,Occasionally,38,Digital Platform,Debate & Press Club,4,No,SS3,36.91,15.09,No Change,114,Mathematics
+STU373,10,Male,Yes,65.77,82.6,12,Civil Servant,Bachelor,Low,No,4,6,0,Often,33,Books,None,0,Yes,JSS1,22.67,29.63,Declined,0,Civic Education
+STU374,15,Male,No,78.42,68.19,11,Farmer,Masters,Medium,Yes,0,3,1,Occasionally,22,Both,Debate & Press Club,4,No,JSS2,37.42,58.26,No Change,0,Mathematics
+STU375,14,Female,Yes,80.8,87.85,6,Pharmacist,Doctoral,Medium,No,11,6,4,Occasionally,35,Digital Platform,Sports,0,Yes,JSS3,30.84,43.93,Improved,0,English
+STU376,17,Male,Yes,66.53,64.69,4,Teacher,Doctoral,Low,No,12,4,1,Occasionally,39,Books,Debate & Press Club,3,No,SS1,16.86,22.34,Improved,0,Mathematics
+STU377,16,Female,Yes,84.64,53.13,3,Banker,Doctoral,Low,No,0,0,0,Never,24,Books,Debate & Press Club,6,No,SS2,26.84,50.21,No Change,0,Biology
+STU378,17,Male,Yes,88.83,57.72,8,Banker,Bachelor,Medium,No,3,6,9,Never,27,Digital Platform,JETS Club,2,Yes,SS3,10.07,12.12,Improved,181,Mathematics
+STU379,12,Female,No,62.19,73.6,2,Banker,Doctoral,High,Yes,11,5,8,Often,35,Books,JETS Club,6,Yes,JSS1,19.97,22.32,Declined,0,English
+STU380,16,Male,Yes,89.69,66.48,8,Farmer,Doctoral,Medium,Yes,0,4,0,Never,32,Both,None,1,No,JSS2,39.64,44.12,Improved,0,Mathematics
+STU381,17,Female,No,92.4,79.06,10,Farmer,Doctoral,High,No,0,4,6,Never,28,Both,None,2,Yes,JSS3,9.54,22.85,No Change,0,Basic Tech
+STU382,18,Female,No,80.63,57.59,12,Lawyer,Masters,Low,No,0,0,1,Often,26,Digital Platform,None,0,No,SS1,28.29,32.68,Declined,0,English
+STU383,18,Male,No,64.44,64.23,10,Pharmacist,Bachelor,Low,No,3,0,8,Never,36,Both,Debate & Press Club,5,Yes,SS2,12.13,23.22,Improved,0,Physics
+STU384,14,Male,Yes,58.34,67.58,20,Lawyer,Masters,High,No,12,6,10,Often,39,Both,Maths Club,4,No,SS3,29.04,44.84,Improved,294,English
+STU385,11,Male,No,50.54,98.75,16,Engineers,Masters,Medium,Yes,1,5,4,Often,27,Both,JETS Club,4,Yes,JSS1,25.75,53.78,Declined,0,Basic Tech
+STU386,16,Female,No,99.13,57.43,13,Trader,Doctoral,High,Yes,6,0,9,Often,20,Both,Debate & Press Club,4,Yes,JSS2,24.37,53.02,No Change,0,Basic Science
+STU387,11,Female,Yes,61.43,91.19,7,Engineers,Masters,High,Yes,6,6,3,Occasionally,23,Both,ARTS Club,3,Yes,JSS3,14.7,48.1,No Change,0,English
+STU388,18,Male,No,70.37,66.79,16,Doctor,Bachelor,Medium,Yes,5,0,7,Often,30,Books,ARTS Club,2,No,SS1,36.86,58.87,Improved,0,English
+STU389,10,Male,Yes,92.98,55.54,12,Farmer,Bachelor,Low,No,2,2,10,Often,37,Both,Maths Club,6,No,SS2,15.57,9.98,Improved,0,Mathematics
+STU390,13,Female,No,57.11,52.97,3,Lawyer,Masters,High,Yes,4,2,4,Never,24,Books,ARTS Club,0,Yes,SS3,23.86,54.76,No Change,210,Mathematics
+STU391,11,Female,Yes,99.31,61.36,6,Accountant,Doctoral,Low,Yes,4,3,3,Occasionally,38,Digital Platform,ARTS Club,0,Yes,JSS1,19.82,56.11,Declined,0,Civic Education
+STU392,11,Female,Yes,96.04,70.14,1,Engineers,Doctoral,Low,No,11,4,4,Often,31,Books,ARTS Club,2,No,JSS2,28.76,38.38,Declined,0,Mathematics
+STU393,16,Male,Yes,74.84,50.17,3,Engineers,Doctoral,High,Yes,8,2,7,Occasionally,26,Books,JETS Club,2,Yes,JSS3,5.54,34.59,No Change,0,Basic Tech
+STU394,17,Male,Yes,59.96,56.84,7,Banker,Doctoral,High,No,8,1,2,Occasionally,29,Both,JETS Club,3,Yes,SS1,12.44,39.81,No Change,0,English
+STU395,18,Female,Yes,50.79,94.28,5,Lawyer,Masters,High,No,11,3,3,Often,29,Books,ARTS Club,4,No,SS2,0.93,19.77,Improved,0,Physics
+STU396,14,Female,Yes,50.37,52.84,19,Engineers,Bachelor,Low,Yes,11,2,1,Occasionally,30,Digital Platform,None,5,No,SS3,0.58,8.33,Improved,220,Physics
+STU397,12,Female,No,79.75,87.12,9,Engineers,Doctoral,Low,Yes,0,2,2,Occasionally,40,Books,JETS Club,1,Yes,JSS1,25.25,4.25,No Change,0,Mathematics
+STU398,12,Female,No,97.74,65.37,5,Civil Servant,Masters,Medium,No,5,0,8,Often,33,Digital Platform,None,3,No,JSS2,15.38,21.09,Improved,0,Basic Science
+STU399,15,Female,No,79.06,57.27,14,Teacher,Doctoral,High,Yes,4,0,6,Occasionally,31,Both,Debate & Press Club,4,Yes,JSS3,2.83,7.47,No Change,0,Civic Education
+STU400,10,Female,No,60.25,93.7,4,Banker,Bachelor,High,Yes,6,4,9,Occasionally,28,Digital Platform,Debate & Press Club,2,No,SS1,10.32,17.47,Improved,0,Chemistry
+STU401,16,Male,No,59.63,64.26,10,Banker,Doctoral,High,Yes,6,1,4,Never,34,Digital Platform,ARTS Club,3,No,SS2,33.78,40.66,Improved,0,Physics
+STU402,10,Male,Yes,76.17,98.0,5,Lawyer,Masters,Medium,Yes,1,5,7,Often,34,Books,JETS Club,4,Yes,SS3,36.59,55.51,No Change,242,Biology
+STU403,15,Female,No,63.44,53.15,15,Teacher,Bachelor,Low,Yes,10,6,2,Often,32,Both,Sports,3,No,JSS1,33.02,14.19,Improved,0,Basic Science
+STU404,15,Female,Yes,67.41,81.16,17,Pharmacist,Doctoral,Low,Yes,9,4,0,Occasionally,37,Both,None,0,No,JSS2,30.34,22.66,No Change,0,English
+STU405,18,Female,No,97.03,85.41,12,Civil Servant,Bachelor,High,Yes,4,2,8,Never,24,Books,None,3,Yes,JSS3,3.64,42.62,Declined,0,Civic Education
+STU406,13,Male,No,54.2,52.91,9,Engineers,Masters,High,Yes,9,0,0,Occasionally,31,Both,JETS Club,1,Yes,SS1,9.66,46.17,Declined,0,English
+STU407,14,Male,Yes,99.96,56.3,6,Accountant,Masters,High,Yes,4,3,10,Never,30,Digital Platform,Sports,5,Yes,SS2,32.17,40.51,Improved,0,Mathematics
+STU408,13,Female,No,61.61,52.7,11,Banker,Masters,High,Yes,1,1,6,Never,29,Both,Maths Club,4,Yes,SS3,28.5,43.57,Improved,312,Physics
+STU409,17,Male,Yes,85.07,75.34,19,Civil Servant,Masters,High,No,6,1,1,Often,31,Books,Debate & Press Club,2,No,JSS1,6.99,18.27,Declined,0,Basic Tech
+STU410,16,Female,Yes,57.83,66.88,11,Trader,Masters,High,No,8,1,7,Often,21,Digital Platform,Maths Club,6,No,JSS2,27.84,31.85,Improved,0,Basic Science
+STU411,15,Female,Yes,94.86,86.65,20,Accountant,Doctoral,High,No,2,6,5,Occasionally,28,Digital Platform,Debate & Press Club,5,No,JSS3,38.08,51.56,Declined,0,English
+STU412,10,Male,No,78.58,74.8,4,Teacher,Doctoral,High,Yes,5,3,3,Occasionally,22,Digital Platform,None,0,No,SS1,3.45,54.36,Improved,0,Chemistry
+STU413,12,Male,Yes,62.26,57.34,19,Teacher,Bachelor,High,No,7,0,4,Occasionally,36,Both,JETS Club,0,No,SS2,27.34,6.56,Improved,0,Chemistry
+STU414,15,Male,No,96.72,64.31,7,Farmer,Bachelor,Medium,Yes,5,6,5,Often,24,Digital Platform,Maths Club,3,No,SS3,11.94,42.58,Declined,247,Biology
+STU415,14,Female,Yes,58.02,66.74,13,Pharmacist,Bachelor,Low,No,3,6,1,Occasionally,20,Books,Debate & Press Club,1,No,JSS1,34.36,48.5,Declined,0,English
+STU416,11,Male,Yes,74.35,66.88,11,Banker,Doctoral,Low,No,7,6,0,Often,23,Books,Maths Club,0,No,JSS2,25.26,9.5,Declined,0,Basic Science
+STU417,16,Male,Yes,72.33,56.46,9,Farmer,Masters,Medium,No,12,6,2,Occasionally,39,Both,None,0,Yes,JSS3,39.38,31.03,Declined,0,Civic Education
+STU418,13,Male,Yes,73.65,99.16,9,Farmer,Doctoral,Low,No,8,2,4,Never,24,Both,JETS Club,4,Yes,SS1,2.86,25.99,Declined,0,Biology
+STU419,14,Female,No,97.57,91.91,16,Trader,Masters,High,Yes,5,1,2,Occasionally,39,Digital Platform,Maths Club,1,Yes,SS2,4.35,37.87,Declined,0,Physics
+STU420,11,Female,No,62.96,64.59,9,Teacher,Doctoral,Medium,No,7,0,2,Occasionally,28,Digital Platform,Maths Club,3,Yes,SS3,36.94,58.05,Improved,297,Chemistry
+STU421,11,Male,Yes,63.39,89.72,11,Doctor,Bachelor,Medium,No,5,1,1,Never,38,Digital Platform,JETS Club,4,No,JSS1,26.37,33.35,Improved,0,English
+STU422,15,Female,No,84.23,80.23,19,Accountant,Doctoral,Low,No,5,6,8,Often,37,Both,Maths Club,6,Yes,JSS2,33.09,43.35,Declined,0,Civic Education
+STU423,13,Female,No,63.25,58.54,16,Civil Servant,Masters,High,Yes,0,0,5,Often,33,Digital Platform,ARTS Club,3,No,JSS3,34.75,45.55,Declined,0,Mathematics
+STU424,16,Male,No,50.65,65.87,0,Civil Servant,Doctoral,High,No,7,4,6,Never,26,Books,Debate & Press Club,3,Yes,SS1,39.16,48.24,Declined,0,Mathematics
+STU425,15,Female,Yes,62.07,95.64,2,Accountant,Doctoral,Low,Yes,4,3,6,Occasionally,40,Both,Sports,6,No,SS2,6.96,41.45,Declined,0,Biology
+STU426,12,Female,No,94.42,81.03,2,Farmer,Bachelor,Medium,Yes,2,0,9,Often,38,Both,JETS Club,4,Yes,SS3,13.98,5.17,Improved,247,Chemistry
+STU427,16,Male,Yes,90.8,58.01,2,Teacher,Doctoral,Medium,No,2,3,4,Never,40,Digital Platform,Maths Club,6,Yes,JSS1,15.98,39.54,No Change,0,Basic Tech
+STU428,10,Male,Yes,58.39,61.54,13,Engineers,Masters,High,No,7,0,4,Occasionally,38,Digital Platform,None,1,No,JSS2,10.63,59.62,Declined,0,Basic Tech
+STU429,13,Male,Yes,76.49,82.82,7,Banker,Doctoral,High,No,1,2,5,Never,32,Digital Platform,Sports,0,Yes,JSS3,38.72,33.33,No Change,0,English
+STU430,16,Female,Yes,73.9,83.13,20,Farmer,Masters,High,Yes,9,6,0,Often,30,Digital Platform,Maths Club,0,No,SS1,16.7,25.95,Improved,0,English
+STU431,18,Female,Yes,82.17,98.73,18,Civil Servant,Doctoral,High,Yes,12,2,6,Occasionally,26,Digital Platform,ARTS Club,5,No,SS2,16.94,31.89,Improved,0,Physics
+STU432,13,Male,Yes,86.35,98.04,9,Lawyer,Bachelor,Low,No,12,3,2,Never,40,Both,Sports,5,Yes,SS3,19.18,45.12,Improved,121,Chemistry
+STU433,11,Male,No,87.98,54.76,18,Engineers,Bachelor,Low,Yes,3,3,1,Often,30,Digital Platform,None,4,Yes,JSS1,28.59,1.04,Declined,0,Basic Science
+STU434,17,Female,No,81.97,53.15,7,Teacher,Bachelor,Low,Yes,9,4,0,Occasionally,34,Both,Maths Club,1,No,JSS2,14.41,44.91,No Change,0,Mathematics
+STU435,11,Female,Yes,99.55,89.56,18,Lawyer,Masters,High,Yes,11,5,1,Occasionally,40,Both,Sports,2,Yes,JSS3,31.22,26.35,Improved,0,Civic Education
+STU436,12,Male,No,70.57,81.4,17,Civil Servant,Masters,Low,No,9,6,2,Occasionally,23,Books,Debate & Press Club,1,Yes,SS1,15.89,32.45,Improved,0,Biology
+STU437,12,Female,Yes,54.63,88.92,12,Pharmacist,Bachelor,Low,Yes,5,4,8,Never,30,Books,Maths Club,0,No,SS2,23.6,28.92,Declined,0,Physics
+STU438,13,Female,No,57.79,83.15,20,Civil Servant,Masters,Low,No,5,5,3,Occasionally,22,Books,Debate & Press Club,6,No,SS3,7.89,2.6,Declined,143,English
+STU439,18,Male,Yes,63.02,66.81,11,Banker,Bachelor,Medium,Yes,9,3,6,Occasionally,36,Books,Sports,6,Yes,JSS1,10.23,32.89,Improved,0,English
+STU440,16,Female,No,70.43,60.25,19,Engineers,Bachelor,Low,Yes,5,5,6,Never,37,Digital Platform,Sports,4,No,JSS2,5.52,23.79,Declined,0,Basic Tech
+STU441,17,Male,No,63.26,79.32,15,Accountant,Masters,Medium,Yes,8,2,0,Often,33,Digital Platform,Maths Club,1,No,JSS3,19.78,27.03,Improved,0,Civic Education
+STU442,11,Female,Yes,99.49,53.07,8,Trader,Doctoral,Low,Yes,7,3,3,Often,36,Both,None,2,No,SS1,34.83,14.77,No Change,0,Biology
+STU443,13,Female,Yes,82.31,50.3,14,Teacher,Bachelor,Medium,Yes,0,6,5,Often,33,Books,None,0,Yes,SS2,13.29,33.66,Declined,0,Physics
+STU444,13,Female,Yes,96.07,83.88,1,Teacher,Masters,High,No,3,2,10,Often,40,Both,None,0,No,SS3,18.92,47.53,No Change,121,Chemistry
+STU445,17,Male,Yes,67.35,96.04,13,Farmer,Masters,High,Yes,12,3,0,Often,29,Both,Maths Club,2,Yes,JSS1,23.31,0.29,Declined,0,Basic Tech
+STU446,12,Male,No,85.66,89.73,8,Doctor,Masters,Medium,Yes,1,5,2,Occasionally,27,Both,JETS Club,0,No,JSS2,10.4,25.36,No Change,0,Mathematics
+STU447,11,Male,Yes,93.92,70.9,15,Civil Servant,Bachelor,High,No,2,2,8,Never,29,Both,JETS Club,6,Yes,JSS3,28.44,40.3,No Change,0,Basic Science
+STU448,10,Male,Yes,88.48,68.56,19,Banker,Doctoral,Medium,No,7,2,6,Never,25,Books,JETS Club,3,Yes,SS1,26.39,38.16,No Change,0,English
+STU449,13,Female,Yes,64.27,69.96,13,Banker,Masters,High,No,0,4,6,Often,32,Books,Maths Club,3,No,SS2,17.61,7.37,No Change,0,Chemistry
+STU450,11,Male,Yes,56.94,52.47,19,Engineers,Masters,Medium,No,5,2,2,Never,20,Both,Maths Club,3,No,SS3,23.96,30.89,Declined,154,Physics
+STU451,10,Male,Yes,87.32,53.48,0,Pharmacist,Bachelor,High,Yes,9,4,9,Occasionally,38,Both,ARTS Club,4,No,JSS1,25.9,55.51,No Change,0,English
+STU452,15,Female,Yes,63.41,93.74,19,Engineers,Bachelor,Medium,No,5,0,7,Never,34,Both,Sports,5,Yes,JSS2,32.78,9.97,Improved,0,English
+STU453,15,Female,Yes,92.35,84.47,8,Banker,Doctoral,Medium,Yes,11,2,2,Often,26,Digital Platform,None,4,Yes,JSS3,15.02,14.52,Improved,0,English
+STU454,10,Female,Yes,69.32,83.94,2,Farmer,Masters,Medium,No,10,2,6,Occasionally,30,Books,ARTS Club,2,No,SS1,7.94,24.67,Improved,0,Biology
+STU455,13,Male,Yes,80.64,62.62,12,Banker,Bachelor,Low,No,8,5,1,Never,40,Both,None,5,Yes,SS2,34.2,11.75,No Change,0,Mathematics
+STU456,10,Male,No,85.55,86.02,14,Pharmacist,Doctoral,Medium,Yes,1,3,3,Often,39,Books,JETS Club,3,Yes,SS3,7.03,21.17,No Change,199,English
+STU457,13,Male,Yes,73.29,54.59,19,Teacher,Bachelor,High,No,12,3,5,Often,38,Both,ARTS Club,5,Yes,JSS1,2.03,49.3,Declined,0,Basic Science
+STU458,12,Male,No,67.03,59.89,18,Trader,Masters,High,Yes,2,1,3,Never,25,Books,Sports,5,Yes,JSS2,37.27,57.83,Improved,0,English
+STU459,14,Male,Yes,72.81,59.6,2,Teacher,Bachelor,Medium,No,11,2,10,Often,35,Books,None,6,Yes,JSS3,4.28,32.81,No Change,0,English
+STU460,15,Male,Yes,72.73,61.43,5,Civil Servant,Bachelor,Medium,No,5,6,5,Occasionally,37,Digital Platform,JETS Club,1,Yes,SS1,31.26,46.5,No Change,0,Mathematics
+STU461,13,Male,Yes,84.51,69.21,7,Lawyer,Doctoral,High,Yes,4,2,0,Never,25,Digital Platform,Debate & Press Club,2,Yes,SS2,4.81,29.25,Improved,0,Physics
+STU462,14,Male,No,64.07,92.57,1,Lawyer,Bachelor,Low,Yes,1,2,10,Never,21,Digital Platform,ARTS Club,2,No,SS3,5.9,51.63,No Change,127,Biology
+STU463,15,Male,Yes,54.63,50.95,19,Lawyer,Doctoral,Medium,No,10,3,1,Occasionally,24,Digital Platform,Debate & Press Club,1,No,JSS1,24.34,56.85,Declined,0,English
+STU464,13,Male,No,60.67,61.08,15,Teacher,Doctoral,High,Yes,10,4,4,Never,32,Both,JETS Club,1,Yes,JSS2,34.77,40.3,Declined,0,Civic Education
+STU465,18,Female,Yes,68.5,99.87,4,Pharmacist,Bachelor,Low,Yes,10,4,4,Never,20,Digital Platform,ARTS Club,3,Yes,JSS3,28.96,50.88,Improved,0,Basic Tech
+STU466,18,Male,Yes,68.56,89.85,20,Doctor,Masters,Low,Yes,3,4,10,Occasionally,22,Books,Debate & Press Club,4,No,SS1,38.64,33.11,No Change,0,Physics
+STU467,17,Male,Yes,59.59,75.54,6,Civil Servant,Masters,Low,No,6,0,3,Never,35,Both,Debate & Press Club,0,Yes,SS2,12.55,10.4,Improved,0,Physics
+STU468,13,Female,No,53.88,53.35,19,Engineers,Masters,High,No,4,4,0,Occasionally,26,Digital Platform,JETS Club,2,Yes,SS3,28.86,31.17,Improved,263,Physics
+STU469,17,Female,No,52.57,60.1,11,Farmer,Bachelor,High,Yes,12,1,3,Often,27,Digital Platform,Debate & Press Club,0,No,JSS1,5.88,18.49,Declined,0,Basic Science
+STU470,15,Female,No,87.34,72.08,3,Doctor,Bachelor,High,Yes,5,0,0,Never,29,Digital Platform,JETS Club,0,No,JSS2,20.14,52.05,No Change,0,Basic Tech
+STU471,15,Female,No,50.32,55.18,12,Farmer,Bachelor,Medium,Yes,3,4,9,Often,40,Books,None,6,No,JSS3,33.29,3.45,No Change,0,Mathematics
+STU472,10,Female,Yes,57.67,84.64,10,Farmer,Bachelor,Medium,Yes,12,2,7,Occasionally,33,Books,Maths Club,5,No,SS1,34.32,46.32,Declined,0,Physics
+STU473,13,Male,Yes,80.19,92.44,17,Doctor,Doctoral,Medium,No,12,0,3,Occasionally,34,Both,Maths Club,4,Yes,SS2,31.28,3.78,No Change,0,Mathematics
+STU474,15,Female,Yes,93.7,95.4,5,Trader,Doctoral,Medium,No,5,6,8,Never,25,Books,JETS Club,3,No,SS3,22.45,7.84,Declined,333,Mathematics
+STU475,12,Female,No,87.07,62.32,16,Accountant,Masters,Medium,No,11,6,3,Often,27,Digital Platform,Maths Club,5,No,JSS1,19.04,19.16,Declined,0,Basic Tech
+STU476,10,Male,Yes,89.03,78.6,11,Engineers,Masters,Medium,No,10,3,6,Occasionally,34,Books,Sports,3,Yes,JSS2,28.08,33.69,Declined,0,Civic Education
+STU477,16,Male,Yes,59.89,98.07,8,Lawyer,Masters,High,Yes,1,4,6,Often,24,Digital Platform,None,6,No,JSS3,32.88,32.41,Improved,0,English
+STU478,13,Male,No,70.13,57.41,3,Engineers,Bachelor,High,No,9,3,1,Often,20,Both,ARTS Club,4,Yes,SS1,19.38,59.84,Improved,0,English
+STU479,11,Female,No,85.72,92.35,19,Banker,Doctoral,Medium,Yes,10,5,9,Occasionally,38,Digital Platform,Debate & Press Club,1,No,SS2,20.71,34.45,No Change,0,Physics
+STU480,14,Male,Yes,77.77,94.18,18,Banker,Doctoral,Medium,No,3,4,6,Never,36,Books,ARTS Club,1,No,SS3,32.35,17.37,Improved,301,Biology
+STU481,14,Female,Yes,61.65,87.52,17,Engineers,Doctoral,Medium,Yes,1,6,1,Occasionally,40,Digital Platform,JETS Club,5,Yes,JSS1,1.44,45.38,No Change,0,Mathematics
+STU482,17,Female,Yes,81.03,53.58,11,Doctor,Masters,Medium,Yes,2,2,0,Occasionally,20,Digital Platform,Sports,6,No,JSS2,32.82,23.66,Declined,0,English
+STU483,17,Female,No,64.4,81.22,17,Trader,Masters,Medium,Yes,3,3,8,Often,21,Both,None,0,Yes,JSS3,12.52,0.84,Declined,0,Mathematics
+STU484,13,Female,Yes,63.51,56.51,12,Doctor,Masters,Low,Yes,1,1,1,Occasionally,26,Books,None,4,No,SS1,5.66,28.45,Improved,0,Biology
+STU485,10,Female,Yes,73.43,52.72,20,Civil Servant,Doctoral,Low,Yes,12,6,8,Occasionally,34,Books,Sports,3,No,SS2,35.15,14.11,Declined,0,English
+STU486,11,Male,Yes,87.87,72.05,14,Pharmacist,Bachelor,Low,No,12,3,9,Never,35,Digital Platform,ARTS Club,4,No,SS3,16.27,45.1,Improved,333,Biology
+STU487,18,Male,Yes,95.59,93.79,20,Banker,Bachelor,Low,No,5,6,3,Often,38,Books,ARTS Club,4,No,JSS1,28.05,58.97,Improved,0,Civic Education
+STU488,13,Female,No,57.99,58.02,4,Banker,Doctoral,Medium,No,5,1,0,Often,36,Books,Sports,2,No,JSS2,19.2,10.0,Improved,0,Basic Science
+STU489,15,Male,No,99.11,77.18,7,Lawyer,Doctoral,High,No,4,5,0,Often,38,Digital Platform,JETS Club,0,No,JSS3,4.93,5.13,No Change,0,Basic Tech
+STU490,18,Female,No,69.01,74.95,12,Doctor,Bachelor,High,No,3,4,0,Occasionally,38,Books,Maths Club,5,Yes,SS1,22.96,29.08,No Change,0,Mathematics
+STU491,12,Male,No,83.0,88.88,20,Trader,Doctoral,Low,Yes,8,0,10,Often,23,Both,Sports,4,No,SS2,36.83,10.51,No Change,0,Physics
+STU492,16,Male,No,61.28,52.91,18,Farmer,Bachelor,High,No,5,0,4,Occasionally,35,Both,Maths Club,0,Yes,SS3,33.24,5.8,No Change,343,Mathematics
+STU493,18,Female,Yes,56.22,86.7,14,Civil Servant,Doctoral,Medium,No,12,3,1,Never,33,Digital Platform,ARTS Club,1,Yes,JSS1,5.5,9.24,Improved,0,Civic Education
+STU494,15,Female,No,74.54,88.0,1,Accountant,Bachelor,Low,Yes,8,5,2,Never,29,Books,None,4,Yes,JSS2,8.38,51.48,No Change,0,Civic Education
+STU495,18,Female,Yes,59.05,71.2,14,Trader,Masters,High,Yes,12,2,1,Occasionally,20,Books,Maths Club,4,No,JSS3,39.25,32.59,Declined,0,English
+STU496,12,Female,No,54.63,62.3,17,Farmer,Doctoral,High,No,5,1,10,Never,29,Both,Debate & Press Club,1,Yes,SS1,25.16,29.57,Declined,0,English
+STU497,17,Male,No,68.25,59.04,13,Doctor,Bachelor,High,No,7,4,4,Occasionally,22,Both,ARTS Club,4,No,SS2,39.06,50.2,Improved,0,Physics
+STU498,16,Male,No,85.33,73.79,3,Teacher,Bachelor,Medium,No,10,2,10,Occasionally,25,Books,Maths Club,1,No,SS3,30.47,21.63,Declined,154,Mathematics
+STU499,12,Male,Yes,75.33,83.82,10,Teacher,Masters,Low,Yes,6,3,10,Never,25,Books,Sports,1,Yes,JSS1,17.63,58.8,No Change,0,English
+STU500,18,Female,Yes,90.21,55.14,10,Lawyer,Bachelor,Low,Yes,4,5,10,Occasionally,24,Books,JETS Club,5,No,JSS2,39.09,8.2,Improved,0,Mathematics
+STU501,14,Male,No,58.44,79.36,1,Doctor,Doctoral,Low,Yes,8,5,0,Often,21,Both,Sports,2,No,JSS3,33.26,17.08,Declined,0,Mathematics
+STU502,10,Male,Yes,83.13,88.82,18,Engineers,Masters,High,No,9,0,3,Never,23,Digital Platform,ARTS Club,6,No,SS1,30.77,31.63,No Change,0,Biology
+STU503,16,Male,No,93.53,93.22,4,Teacher,Doctoral,Medium,No,8,2,7,Never,29,Books,Debate & Press Club,3,Yes,SS2,21.21,8.53,Improved,0,Mathematics
+STU504,12,Male,Yes,61.78,53.15,15,Accountant,Doctoral,High,Yes,4,0,8,Often,26,Books,Debate & Press Club,2,No,SS3,28.58,33.64,Improved,159,English
+STU505,16,Female,Yes,64.44,94.36,5,Farmer,Bachelor,High,No,9,2,2,Never,29,Both,JETS Club,3,No,JSS1,36.28,54.04,Improved,0,Civic Education
+STU506,11,Male,Yes,72.67,68.85,16,Farmer,Doctoral,Low,No,5,1,6,Often,21,Digital Platform,Debate & Press Club,0,No,JSS2,10.58,33.63,No Change,0,Civic Education
+STU507,14,Male,Yes,87.53,97.75,2,Trader,Doctoral,Low,Yes,8,3,9,Often,29,Both,Debate & Press Club,2,Yes,JSS3,14.84,32.17,Improved,0,English
+STU508,12,Male,Yes,96.86,73.96,12,Banker,Doctoral,Low,No,12,3,10,Often,40,Digital Platform,Maths Club,6,Yes,SS1,33.78,26.15,No Change,0,Physics
+STU509,15,Female,No,99.02,82.67,9,Banker,Bachelor,Medium,No,2,2,1,Often,25,Digital Platform,Debate & Press Club,3,Yes,SS2,3.02,55.43,Improved,0,Chemistry
+STU510,17,Male,Yes,76.9,77.87,7,Pharmacist,Doctoral,High,Yes,9,5,6,Occasionally,33,Both,Debate & Press Club,1,Yes,SS3,16.12,36.08,No Change,261,Mathematics
+STU511,16,Male,No,93.98,65.97,18,Engineers,Bachelor,High,Yes,10,5,3,Never,29,Both,Debate & Press Club,3,Yes,JSS1,17.25,6.98,Declined,0,Basic Tech
+STU512,11,Male,No,60.99,69.67,19,Trader,Doctoral,Medium,No,4,5,10,Occasionally,21,Both,None,2,Yes,JSS2,39.32,38.94,No Change,0,Basic Tech
+STU513,12,Female,Yes,96.54,97.23,20,Pharmacist,Doctoral,Low,No,12,4,4,Occasionally,33,Both,Sports,4,No,JSS3,24.0,24.34,Improved,0,Civic Education
+STU514,17,Male,Yes,98.75,77.39,20,Teacher,Bachelor,Medium,Yes,10,1,8,Often,38,Both,Sports,4,Yes,SS1,36.01,5.32,No Change,0,Mathematics
+STU515,12,Male,No,86.37,61.54,3,Civil Servant,Doctoral,Medium,Yes,5,0,10,Occasionally,33,Both,JETS Club,1,Yes,SS2,29.05,35.17,No Change,0,English
+STU516,18,Female,No,83.49,76.41,5,Accountant,Bachelor,Medium,Yes,1,6,8,Often,35,Digital Platform,Maths Club,0,No,SS3,14.36,51.45,Declined,184,Mathematics
+STU517,18,Male,Yes,71.09,78.13,13,Banker,Doctoral,Medium,No,2,5,6,Often,27,Both,None,0,Yes,JSS1,5.54,32.98,Declined,0,Civic Education
+STU518,14,Male,No,99.26,82.94,16,Civil Servant,Bachelor,Low,Yes,0,6,4,Often,28,Digital Platform,Maths Club,1,No,JSS2,25.65,41.4,No Change,0,Basic Science
+STU519,12,Male,Yes,71.22,65.18,8,Doctor,Bachelor,Low,No,3,5,4,Never,40,Digital Platform,Debate & Press Club,2,No,JSS3,34.01,56.02,Declined,0,English
+STU520,16,Female,Yes,99.93,78.7,14,Teacher,Doctoral,Medium,Yes,2,6,4,Occasionally,33,Digital Platform,Maths Club,2,Yes,SS1,21.32,53.3,Improved,0,Biology
+STU521,16,Female,Yes,82.01,57.96,3,Farmer,Masters,High,No,7,5,1,Often,24,Both,Debate & Press Club,1,Yes,SS2,7.9,26.57,Improved,0,Mathematics
+STU522,13,Male,Yes,94.06,73.48,9,Civil Servant,Doctoral,Low,No,2,3,8,Occasionally,33,Digital Platform,JETS Club,1,No,SS3,25.72,39.13,Declined,303,Mathematics
+STU523,16,Male,No,67.96,86.24,1,Farmer,Doctoral,High,Yes,10,0,9,Occasionally,22,Both,Maths Club,1,No,JSS1,34.95,18.47,No Change,0,Mathematics
+STU524,13,Female,No,77.48,97.18,10,Farmer,Bachelor,Low,No,5,1,3,Occasionally,36,Both,JETS Club,5,Yes,JSS2,9.86,27.46,Improved,0,Basic Science
+STU525,15,Female,No,78.7,96.72,17,Doctor,Doctoral,High,Yes,2,3,0,Never,21,Both,Debate & Press Club,0,Yes,JSS3,22.59,11.99,Declined,0,Basic Science
+STU526,13,Male,No,68.24,58.17,11,Doctor,Masters,Low,No,10,5,3,Often,40,Books,JETS Club,0,Yes,SS1,18.69,55.03,No Change,0,English
+STU527,11,Male,Yes,92.23,87.65,9,Lawyer,Bachelor,High,No,9,6,10,Often,20,Digital Platform,Sports,1,Yes,SS2,8.09,17.98,No Change,0,Physics
+STU528,13,Male,Yes,57.58,52.42,14,Civil Servant,Doctoral,Medium,No,11,5,9,Often,37,Both,ARTS Club,4,Yes,SS3,31.31,28.72,Improved,229,Mathematics
+STU529,12,Male,Yes,77.16,72.43,20,Civil Servant,Bachelor,High,No,1,5,7,Often,31,Books,Debate & Press Club,0,Yes,JSS1,12.39,17.89,No Change,0,Civic Education
+STU530,16,Male,No,53.09,95.67,12,Teacher,Masters,Low,Yes,4,0,0,Never,38,Both,ARTS Club,5,Yes,JSS2,0.86,1.5,No Change,0,Basic Science
+STU531,16,Male,No,84.15,68.2,2,Trader,Bachelor,Medium,Yes,5,5,8,Occasionally,26,Digital Platform,ARTS Club,5,Yes,JSS3,17.01,54.42,Declined,0,Basic Tech
+STU532,13,Male,Yes,80.09,67.51,14,Pharmacist,Doctoral,Medium,Yes,11,0,1,Never,40,Books,Sports,1,Yes,SS1,14.63,17.37,Improved,0,Physics
+STU533,17,Female,Yes,77.05,99.03,16,Engineers,Doctoral,High,Yes,8,2,10,Often,34,Books,Sports,1,Yes,SS2,25.39,56.44,Improved,0,Chemistry
+STU534,11,Male,No,92.59,58.58,17,Lawyer,Bachelor,Low,Yes,4,1,8,Occasionally,39,Books,Maths Club,5,Yes,SS3,17.67,29.43,Declined,198,Biology
+STU535,15,Female,No,81.4,57.66,4,Engineers,Doctoral,Medium,Yes,5,2,4,Never,32,Digital Platform,Maths Club,4,Yes,JSS1,29.48,47.44,Declined,0,Basic Science
+STU536,17,Female,Yes,75.64,90.13,17,Doctor,Bachelor,Low,No,0,2,6,Often,21,Both,Maths Club,2,Yes,JSS2,1.78,10.8,No Change,0,Civic Education
+STU537,18,Male,No,69.74,58.73,3,Doctor,Doctoral,Medium,No,5,3,4,Never,39,Both,None,1,No,JSS3,33.67,38.38,Improved,0,Basic Tech
+STU538,18,Male,Yes,80.03,72.67,12,Trader,Bachelor,Medium,No,11,4,2,Occasionally,38,Digital Platform,Maths Club,3,Yes,SS1,33.57,58.74,No Change,0,Chemistry
+STU539,15,Male,No,95.99,73.64,5,Pharmacist,Masters,High,No,8,6,10,Often,29,Digital Platform,Sports,3,No,SS2,33.12,29.94,Declined,0,English
+STU540,15,Male,No,57.16,91.3,4,Civil Servant,Masters,Medium,No,7,4,5,Never,31,Digital Platform,JETS Club,2,Yes,SS3,16.04,6.64,Improved,196,Mathematics
+STU541,14,Male,Yes,62.77,57.43,19,Accountant,Doctoral,High,Yes,1,2,6,Occasionally,21,Both,None,6,Yes,JSS1,36.32,1.22,No Change,0,Basic Science
+STU542,17,Male,No,91.54,68.31,1,Pharmacist,Doctoral,Low,Yes,10,5,7,Never,40,Digital Platform,Debate & Press Club,4,Yes,JSS2,8.86,32.9,Declined,0,Basic Tech
+STU543,14,Male,Yes,86.14,88.36,15,Doctor,Bachelor,Medium,No,5,3,0,Occasionally,32,Digital Platform,None,6,No,JSS3,22.5,45.54,No Change,0,Mathematics
+STU544,13,Female,Yes,54.2,56.86,0,Doctor,Bachelor,Low,Yes,10,6,10,Occasionally,23,Books,JETS Club,2,No,SS1,26.27,16.81,Declined,0,Mathematics
+STU545,16,Male,No,85.98,66.09,15,Doctor,Doctoral,High,No,10,2,3,Occasionally,29,Books,None,5,No,SS2,35.15,42.08,No Change,0,Biology
+STU546,10,Female,Yes,87.61,77.73,2,Teacher,Masters,High,Yes,6,5,3,Often,28,Digital Platform,Debate & Press Club,5,No,SS3,5.06,1.92,Improved,228,Biology
+STU547,12,Male,No,91.67,83.12,3,Civil Servant,Doctoral,Low,No,10,6,0,Occasionally,37,Both,JETS Club,6,No,JSS1,34.55,50.67,Declined,0,Mathematics
+STU548,17,Female,No,65.05,83.42,8,Doctor,Doctoral,Low,Yes,11,4,0,Never,20,Both,JETS Club,4,Yes,JSS2,7.84,47.46,Improved,0,Civic Education
+STU549,16,Male,No,95.35,55.8,3,Doctor,Doctoral,Medium,No,5,5,0,Never,22,Digital Platform,JETS Club,2,No,JSS3,28.48,0.19,Declined,0,Civic Education
+STU550,10,Male,Yes,72.3,68.81,17,Engineers,Masters,Medium,Yes,11,3,2,Never,23,Books,Debate & Press Club,0,No,SS1,7.78,54.52,Declined,0,Biology
+STU551,17,Female,No,82.07,76.93,20,Engineers,Doctoral,Low,No,9,3,2,Never,22,Digital Platform,None,0,No,SS2,6.19,37.16,Declined,0,Chemistry
+STU552,18,Female,No,50.26,75.38,7,Teacher,Masters,High,Yes,1,0,8,Never,23,Books,ARTS Club,0,No,SS3,14.25,29.08,Improved,110,Mathematics
+STU553,13,Male,No,55.42,70.9,0,Trader,Bachelor,High,Yes,8,0,7,Never,40,Digital Platform,JETS Club,4,Yes,JSS1,26.7,20.94,Declined,0,Basic Science
+STU554,14,Female,No,88.89,68.17,6,Engineers,Doctoral,Low,Yes,11,5,0,Never,27,Both,None,4,Yes,JSS2,35.65,40.56,Declined,0,Civic Education
+STU555,17,Female,Yes,92.95,61.54,10,Doctor,Bachelor,Low,Yes,5,4,2,Often,28,Digital Platform,Maths Club,1,No,JSS3,31.06,20.86,Declined,0,Basic Science
+STU556,15,Male,No,87.15,77.79,19,Banker,Masters,Low,No,6,6,8,Often,31,Digital Platform,Sports,3,No,SS1,20.62,43.36,No Change,0,English
+STU557,13,Female,Yes,96.54,72.27,16,Farmer,Masters,High,No,10,4,8,Occasionally,24,Digital Platform,Sports,2,Yes,SS2,23.51,19.49,Improved,0,Physics
+STU558,12,Female,Yes,55.07,97.08,15,Civil Servant,Doctoral,Medium,No,12,0,5,Often,34,Books,Sports,4,Yes,SS3,13.29,29.47,Improved,336,Mathematics
+STU559,12,Female,Yes,54.13,78.36,2,Teacher,Bachelor,Low,No,1,5,8,Never,33,Both,ARTS Club,4,Yes,JSS1,2.14,14.16,Declined,0,Basic Science
+STU560,18,Male,Yes,81.04,77.14,10,Engineers,Doctoral,Low,No,9,3,6,Often,28,Books,Maths Club,6,Yes,JSS2,39.22,45.4,Improved,0,Basic Science
+STU561,13,Male,Yes,58.45,52.02,8,Engineers,Bachelor,Low,No,11,3,2,Never,20,Both,Maths Club,0,Yes,JSS3,22.51,46.69,Improved,0,Basic Science
+STU562,10,Female,No,79.03,69.48,15,Civil Servant,Masters,High,No,11,6,7,Occasionally,36,Both,Debate & Press Club,3,Yes,SS1,15.23,19.39,Declined,0,English
+STU563,10,Male,Yes,86.06,73.07,7,Banker,Doctoral,Low,Yes,10,3,6,Occasionally,25,Both,Debate & Press Club,1,Yes,SS2,15.81,44.43,Improved,0,Biology
+STU564,12,Male,Yes,89.13,75.2,0,Teacher,Doctoral,Low,Yes,8,5,10,Never,32,Digital Platform,Maths Club,3,Yes,SS3,4.11,51.49,Improved,281,Chemistry
+STU565,16,Male,Yes,55.22,52.99,18,Lawyer,Masters,Low,No,11,5,6,Often,24,Digital Platform,Sports,6,No,JSS1,34.87,51.31,No Change,0,Civic Education
+STU566,17,Female,No,67.27,58.91,3,Farmer,Bachelor,High,Yes,4,5,6,Often,37,Both,Sports,0,Yes,JSS2,5.6,6.28,Improved,0,Mathematics
+STU567,15,Female,Yes,60.61,80.18,11,Pharmacist,Doctoral,Medium,Yes,6,0,5,Never,33,Both,JETS Club,5,No,JSS3,2.71,26.15,Improved,0,Basic Tech
+STU568,12,Male,No,82.91,63.01,7,Accountant,Bachelor,Medium,No,4,4,7,Never,24,Books,Maths Club,0,Yes,SS1,39.93,34.38,No Change,0,English
+STU569,12,Male,No,65.79,96.59,12,Farmer,Doctoral,High,No,4,4,2,Never,34,Both,Sports,4,No,SS2,7.18,50.87,Declined,0,English
+STU570,10,Male,Yes,82.86,54.63,4,Doctor,Bachelor,Medium,No,2,2,8,Occasionally,29,Digital Platform,Maths Club,6,Yes,SS3,32.66,13.64,Improved,270,Biology
+STU571,11,Female,No,74.12,80.55,14,Engineers,Doctoral,Medium,No,2,2,1,Often,22,Both,Sports,6,Yes,JSS1,34.64,55.38,Declined,0,Civic Education
+STU572,10,Female,Yes,58.33,73.54,7,Trader,Masters,Low,Yes,3,5,5,Often,39,Digital Platform,ARTS Club,0,Yes,JSS2,19.97,15.19,Improved,0,Civic Education
+STU573,15,Male,Yes,51.86,79.56,20,Accountant,Bachelor,High,Yes,5,1,4,Often,39,Books,ARTS Club,6,Yes,JSS3,26.53,26.9,No Change,0,Civic Education
+STU574,18,Male,No,78.74,93.61,10,Doctor,Masters,High,Yes,6,1,6,Occasionally,25,Books,ARTS Club,6,No,SS1,37.51,31.26,Declined,0,Biology
+STU575,14,Male,No,84.56,96.32,11,Engineers,Doctoral,Low,No,2,2,4,Never,31,Digital Platform,ARTS Club,3,Yes,SS2,6.47,17.26,Declined,0,Mathematics
+STU576,18,Male,No,66.11,72.43,1,Teacher,Bachelor,High,Yes,0,3,1,Occasionally,26,Digital Platform,Maths Club,1,Yes,SS3,10.72,11.04,No Change,316,English
+STU577,16,Female,Yes,98.01,91.66,5,Banker,Doctoral,High,Yes,6,2,8,Often,30,Digital Platform,Maths Club,2,Yes,JSS1,7.88,46.6,Improved,0,Basic Tech
+STU578,16,Male,No,71.12,91.55,4,Doctor,Masters,Medium,No,7,1,10,Often,26,Both,Sports,0,No,JSS2,18.88,53.35,Declined,0,English
+STU579,17,Male,Yes,99.68,57.68,2,Pharmacist,Bachelor,Low,No,11,0,1,Occasionally,30,Both,Debate & Press Club,4,No,JSS3,26.7,35.13,Declined,0,Basic Tech
+STU580,13,Male,No,95.42,73.07,10,Lawyer,Masters,Medium,No,2,4,10,Occasionally,30,Books,JETS Club,1,Yes,SS1,23.51,4.55,Declined,0,Physics
+STU581,11,Male,No,99.74,83.14,12,Teacher,Doctoral,High,No,6,0,0,Never,24,Both,ARTS Club,4,Yes,SS2,10.87,55.2,No Change,0,Biology
+STU582,15,Male,Yes,68.69,83.47,4,Teacher,Masters,Medium,Yes,8,1,4,Occasionally,26,Digital Platform,None,0,No,SS3,21.22,24.51,No Change,253,Biology
+STU583,11,Male,Yes,58.8,69.36,17,Trader,Doctoral,Medium,Yes,0,4,6,Occasionally,36,Both,Maths Club,6,No,JSS1,29.37,55.6,No Change,0,Mathematics
+STU584,14,Female,Yes,54.9,63.64,9,Pharmacist,Doctoral,High,Yes,8,0,9,Occasionally,27,Both,None,2,No,JSS2,3.57,5.24,Declined,0,Basic Science
+STU585,11,Male,Yes,62.01,68.97,0,Trader,Bachelor,Low,No,5,0,2,Often,38,Digital Platform,Maths Club,0,Yes,JSS3,20.79,54.1,Improved,0,Mathematics
+STU586,13,Male,No,96.41,71.01,14,Civil Servant,Doctoral,Medium,No,6,3,8,Occasionally,24,Both,JETS Club,2,No,SS1,2.5,12.5,No Change,0,Mathematics
+STU587,11,Female,Yes,94.86,72.98,18,Farmer,Bachelor,High,Yes,11,6,7,Occasionally,20,Both,ARTS Club,0,No,SS2,2.48,6.33,No Change,0,Mathematics
+STU588,16,Male,No,97.09,55.59,0,Civil Servant,Bachelor,Low,No,1,3,8,Never,24,Both,None,0,Yes,SS3,24.94,9.7,Improved,257,Chemistry
+STU589,11,Female,No,99.23,54.03,20,Farmer,Masters,Medium,No,1,6,10,Never,22,Both,None,5,Yes,JSS1,14.95,39.71,No Change,0,Civic Education
+STU590,17,Female,No,77.2,95.0,8,Engineers,Masters,High,No,6,3,10,Never,37,Digital Platform,Sports,0,No,JSS2,5.95,54.05,Improved,0,Basic Science
+STU591,16,Female,No,88.61,78.64,5,Civil Servant,Doctoral,High,No,10,3,10,Often,29,Both,JETS Club,2,No,JSS3,28.17,42.01,Improved,0,Basic Tech
+STU592,17,Female,No,67.81,69.32,11,Farmer,Doctoral,High,Yes,5,1,2,Occasionally,39,Books,JETS Club,0,No,SS1,7.06,50.33,Declined,0,Biology
+STU593,11,Female,No,75.47,89.8,1,Pharmacist,Masters,Medium,No,9,3,3,Never,22,Both,None,2,Yes,SS2,23.34,45.86,Improved,0,Chemistry
+STU594,14,Male,No,86.48,88.25,4,Teacher,Bachelor,Low,No,10,3,3,Never,36,Books,ARTS Club,5,Yes,SS3,26.57,4.39,No Change,199,Chemistry
+STU595,12,Female,No,76.98,97.29,0,Trader,Masters,Low,Yes,3,6,0,Often,23,Both,Debate & Press Club,4,No,JSS1,3.48,33.8,Declined,0,Civic Education
+STU596,10,Female,Yes,54.99,69.75,13,Doctor,Masters,Low,No,5,1,8,Never,25,Both,ARTS Club,6,No,JSS2,27.04,1.38,Improved,0,Civic Education
+STU597,18,Male,No,77.32,81.95,10,Pharmacist,Bachelor,Low,Yes,5,4,8,Occasionally,27,Both,Maths Club,3,Yes,JSS3,35.21,9.32,No Change,0,Mathematics
+STU598,12,Male,No,67.95,64.29,6,Accountant,Doctoral,Medium,Yes,4,4,5,Often,37,Digital Platform,None,3,Yes,SS1,20.97,38.53,Improved,0,Biology
+STU599,17,Male,Yes,84.61,67.98,4,Lawyer,Bachelor,Low,Yes,11,2,8,Often,40,Books,Debate & Press Club,5,Yes,SS2,22.55,15.87,No Change,0,Biology
+STU600,16,Male,No,91.95,99.53,8,Farmer,Masters,Medium,Yes,12,5,5,Never,24,Digital Platform,None,3,Yes,SS3,11.89,47.68,No Change,172,English

@@ -1,0 +1,601 @@
+Activity,Hours/Week,Leadership Role,Student ID
+JETS Club,3,Yes,STU001
+Maths Club,3,Yes,STU002
+None,5,Yes,STU003
+Debate & Press Club,2,Yes,STU004
+Maths Club,5,No,STU005
+Maths Club,4,No,STU006
+Debate & Press Club,1,No,STU007
+Maths Club,2,No,STU008
+JETS Club,6,No,STU009
+ARTS Club,3,No,STU010
+JETS Club,4,Yes,STU011
+Sports,0,No,STU012
+Debate & Press Club,0,Yes,STU013
+Maths Club,6,Yes,STU014
+None,4,No,STU015
+Debate & Press Club,4,No,STU016
+ARTS Club,1,No,STU017
+ARTS Club,2,No,STU018
+ARTS Club,2,Yes,STU019
+Debate & Press Club,3,Yes,STU020
+Debate & Press Club,4,No,STU021
+None,2,Yes,STU022
+Debate & Press Club,1,Yes,STU023
+None,0,No,STU024
+Maths Club,2,Yes,STU025
+None,4,No,STU026
+Sports,6,No,STU027
+None,3,Yes,STU028
+None,5,Yes,STU029
+None,3,Yes,STU030
+JETS Club,5,Yes,STU031
+Sports,5,Yes,STU032
+None,0,Yes,STU033
+JETS Club,6,No,STU034
+ARTS Club,6,Yes,STU035
+Debate & Press Club,1,No,STU036
+JETS Club,3,No,STU037
+Maths Club,5,No,STU038
+Maths Club,3,No,STU039
+None,2,Yes,STU040
+None,6,No,STU041
+Sports,3,Yes,STU042
+JETS Club,3,No,STU043
+None,5,No,STU044
+Debate & Press Club,3,Yes,STU045
+ARTS Club,6,No,STU046
+Sports,4,Yes,STU047
+None,2,No,STU048
+None,6,Yes,STU049
+Sports,1,Yes,STU050
+JETS Club,5,No,STU051
+Sports,6,No,STU052
+Maths Club,5,No,STU053
+ARTS Club,3,Yes,STU054
+Maths Club,6,Yes,STU055
+Sports,3,Yes,STU056
+None,2,No,STU057
+JETS Club,6,Yes,STU058
+JETS Club,4,No,STU059
+None,4,No,STU060
+Debate & Press Club,4,No,STU061
+Debate & Press Club,0,No,STU062
+Sports,6,Yes,STU063
+Maths Club,3,Yes,STU064
+ARTS Club,1,Yes,STU065
+ARTS Club,4,Yes,STU066
+Debate & Press Club,5,No,STU067
+None,0,No,STU068
+None,5,No,STU069
+JETS Club,1,No,STU070
+Sports,6,No,STU071
+Debate & Press Club,2,No,STU072
+ARTS Club,2,No,STU073
+None,3,Yes,STU074
+Debate & Press Club,4,No,STU075
+JETS Club,6,No,STU076
+Debate & Press Club,0,No,STU077
+ARTS Club,4,No,STU078
+ARTS Club,5,No,STU079
+Debate & Press Club,2,No,STU080
+ARTS Club,1,Yes,STU081
+Sports,6,Yes,STU082
+Sports,2,Yes,STU083
+Debate & Press Club,4,Yes,STU084
+None,6,No,STU085
+Maths Club,3,Yes,STU086
+ARTS Club,6,Yes,STU087
+ARTS Club,4,Yes,STU088
+None,6,No,STU089
+Sports,6,Yes,STU090
+Maths Club,3,Yes,STU091
+None,2,No,STU092
+Maths Club,2,No,STU093
+None,3,Yes,STU094
+Sports,4,Yes,STU095
+Maths Club,3,Yes,STU096
+JETS Club,4,No,STU097
+Debate & Press Club,1,No,STU098
+Sports,4,Yes,STU099
+Maths Club,2,Yes,STU100
+None,4,Yes,STU101
+Maths Club,4,No,STU102
+Debate & Press Club,0,No,STU103
+Debate & Press Club,1,No,STU104
+JETS Club,4,No,STU105
+Maths Club,2,No,STU106
+JETS Club,0,No,STU107
+JETS Club,0,Yes,STU108
+ARTS Club,3,No,STU109
+Sports,6,Yes,STU110
+ARTS Club,0,Yes,STU111
+ARTS Club,4,No,STU112
+Sports,4,No,STU113
+ARTS Club,4,No,STU114
+ARTS Club,6,Yes,STU115
+Sports,4,No,STU116
+ARTS Club,1,No,STU117
+Sports,6,No,STU118
+None,3,No,STU119
+ARTS Club,6,No,STU120
+JETS Club,0,No,STU121
+Debate & Press Club,1,No,STU122
+None,5,No,STU123
+ARTS Club,0,Yes,STU124
+Sports,1,Yes,STU125
+JETS Club,2,Yes,STU126
+Sports,6,No,STU127
+ARTS Club,6,No,STU128
+ARTS Club,1,Yes,STU129
+ARTS Club,5,Yes,STU130
+Debate & Press Club,1,No,STU131
+Sports,4,Yes,STU132
+ARTS Club,4,Yes,STU133
+JETS Club,6,Yes,STU134
+Sports,3,No,STU135
+None,4,Yes,STU136
+Sports,5,Yes,STU137
+None,0,Yes,STU138
+Debate & Press Club,3,No,STU139
+Debate & Press Club,4,Yes,STU140
+JETS Club,3,No,STU141
+ARTS Club,1,Yes,STU142
+None,1,Yes,STU143
+Maths Club,3,Yes,STU144
+JETS Club,5,No,STU145
+Sports,3,Yes,STU146
+Maths Club,6,Yes,STU147
+Sports,1,No,STU148
+JETS Club,6,No,STU149
+ARTS Club,6,Yes,STU150
+Maths Club,4,Yes,STU151
+None,1,Yes,STU152
+ARTS Club,5,No,STU153
+Maths Club,0,No,STU154
+Debate & Press Club,2,No,STU155
+None,0,No,STU156
+Maths Club,6,Yes,STU157
+Sports,1,No,STU158
+Sports,1,No,STU159
+Debate & Press Club,6,No,STU160
+Sports,3,No,STU161
+JETS Club,3,No,STU162
+Debate & Press Club,6,Yes,STU163
+Sports,2,Yes,STU164
+ARTS Club,4,Yes,STU165
+JETS Club,0,Yes,STU166
+JETS Club,4,No,STU167
+Maths Club,5,Yes,STU168
+None,6,No,STU169
+ARTS Club,5,Yes,STU170
+Debate & Press Club,0,Yes,STU171
+Debate & Press Club,0,No,STU172
+Debate & Press Club,5,No,STU173
+JETS Club,3,No,STU174
+ARTS Club,4,No,STU175
+Debate & Press Club,0,Yes,STU176
+Debate & Press Club,3,No,STU177
+ARTS Club,1,No,STU178
+JETS Club,0,Yes,STU179
+ARTS Club,0,Yes,STU180
+None,5,Yes,STU181
+None,3,No,STU182
+Debate & Press Club,0,Yes,STU183
+Sports,1,Yes,STU184
+JETS Club,6,No,STU185
+Maths Club,2,Yes,STU186
+Maths Club,5,Yes,STU187
+ARTS Club,2,Yes,STU188
+ARTS Club,4,Yes,STU189
+Maths Club,3,No,STU190
+JETS Club,6,Yes,STU191
+None,2,Yes,STU192
+Maths Club,5,Yes,STU193
+Maths Club,0,Yes,STU194
+ARTS Club,2,No,STU195
+Debate & Press Club,6,No,STU196
+Sports,4,No,STU197
+Maths Club,0,No,STU198
+ARTS Club,2,Yes,STU199
+Debate & Press Club,4,Yes,STU200
+ARTS Club,4,No,STU201
+Debate & Press Club,3,No,STU202
+Maths Club,0,Yes,STU203
+JETS Club,3,No,STU204
+Maths Club,5,Yes,STU205
+ARTS Club,1,Yes,STU206
+ARTS Club,4,Yes,STU207
+None,0,No,STU208
+JETS Club,6,No,STU209
+None,0,Yes,STU210
+Maths Club,5,No,STU211
+None,2,No,STU212
+Debate & Press Club,5,No,STU213
+ARTS Club,1,No,STU214
+ARTS Club,0,Yes,STU215
+Maths Club,5,Yes,STU216
+Debate & Press Club,3,Yes,STU217
+Debate & Press Club,2,No,STU218
+JETS Club,2,No,STU219
+Maths Club,4,Yes,STU220
+JETS Club,6,No,STU221
+JETS Club,1,Yes,STU222
+Maths Club,0,No,STU223
+JETS Club,6,Yes,STU224
+None,3,Yes,STU225
+Sports,2,Yes,STU226
+ARTS Club,3,Yes,STU227
+None,4,No,STU228
+ARTS Club,3,Yes,STU229
+JETS Club,3,Yes,STU230
+None,6,No,STU231
+Debate & Press Club,5,Yes,STU232
+ARTS Club,0,No,STU233
+None,5,Yes,STU234
+Sports,1,Yes,STU235
+JETS Club,2,No,STU236
+Debate & Press Club,0,No,STU237
+ARTS Club,1,No,STU238
+JETS Club,6,Yes,STU239
+Maths Club,6,No,STU240
+Sports,5,No,STU241
+Debate & Press Club,3,No,STU242
+Maths Club,5,No,STU243
+Debate & Press Club,5,Yes,STU244
+Debate & Press Club,3,No,STU245
+ARTS Club,4,No,STU246
+ARTS Club,3,No,STU247
+JETS Club,6,Yes,STU248
+None,4,Yes,STU249
+Maths Club,6,No,STU250
+Debate & Press Club,4,Yes,STU251
+None,3,No,STU252
+Debate & Press Club,6,Yes,STU253
+Debate & Press Club,1,No,STU254
+None,6,Yes,STU255
+Sports,2,No,STU256
+Sports,4,Yes,STU257
+Sports,1,Yes,STU258
+Maths Club,5,Yes,STU259
+None,0,Yes,STU260
+Maths Club,6,No,STU261
+Debate & Press Club,6,Yes,STU262
+None,4,Yes,STU263
+JETS Club,5,Yes,STU264
+Maths Club,1,Yes,STU265
+JETS Club,2,Yes,STU266
+None,0,Yes,STU267
+Sports,3,Yes,STU268
+Debate & Press Club,6,No,STU269
+Maths Club,5,Yes,STU270
+Maths Club,2,Yes,STU271
+Debate & Press Club,4,No,STU272
+JETS Club,2,No,STU273
+None,2,No,STU274
+Sports,4,No,STU275
+Maths Club,2,Yes,STU276
+ARTS Club,1,No,STU277
+ARTS Club,2,Yes,STU278
+JETS Club,5,Yes,STU279
+ARTS Club,0,Yes,STU280
+JETS Club,5,No,STU281
+None,4,No,STU282
+ARTS Club,5,No,STU283
+Sports,3,Yes,STU284
+JETS Club,6,Yes,STU285
+None,4,Yes,STU286
+Maths Club,6,Yes,STU287
+ARTS Club,3,No,STU288
+ARTS Club,2,Yes,STU289
+JETS Club,6,No,STU290
+JETS Club,0,No,STU291
+None,5,Yes,STU292
+Maths Club,0,No,STU293
+Sports,1,Yes,STU294
+None,2,No,STU295
+None,6,No,STU296
+Sports,4,No,STU297
+ARTS Club,3,Yes,STU298
+ARTS Club,6,No,STU299
+ARTS Club,5,No,STU300
+Maths Club,6,Yes,STU301
+Sports,6,Yes,STU302
+Debate & Press Club,5,Yes,STU303
+None,2,Yes,STU304
+Debate & Press Club,5,No,STU305
+None,3,Yes,STU306
+Debate & Press Club,5,Yes,STU307
+JETS Club,3,No,STU308
+None,2,No,STU309
+Sports,6,Yes,STU310
+ARTS Club,6,No,STU311
+None,1,No,STU312
+Sports,0,No,STU313
+None,1,No,STU314
+Maths Club,1,Yes,STU315
+Maths Club,6,Yes,STU316
+Sports,0,No,STU317
+ARTS Club,2,No,STU318
+Debate & Press Club,4,No,STU319
+Maths Club,5,No,STU320
+JETS Club,2,Yes,STU321
+Maths Club,0,Yes,STU322
+JETS Club,4,Yes,STU323
+Sports,2,Yes,STU324
+Sports,2,No,STU325
+ARTS Club,5,Yes,STU326
+None,3,Yes,STU327
+JETS Club,0,No,STU328
+None,4,Yes,STU329
+Sports,1,Yes,STU330
+None,6,No,STU331
+Sports,2,No,STU332
+JETS Club,0,Yes,STU333
+Debate & Press Club,2,No,STU334
+Maths Club,2,Yes,STU335
+JETS Club,6,No,STU336
+Debate & Press Club,4,No,STU337
+Debate & Press Club,1,No,STU338
+Debate & Press Club,0,No,STU339
+Sports,1,No,STU340
+JETS Club,3,No,STU341
+JETS Club,5,No,STU342
+ARTS Club,5,Yes,STU343
+Sports,3,Yes,STU344
+Debate & Press Club,6,Yes,STU345
+JETS Club,4,No,STU346
+Debate & Press Club,5,Yes,STU347
+JETS Club,0,No,STU348
+JETS Club,0,Yes,STU349
+Sports,6,No,STU350
+Debate & Press Club,5,No,STU351
+ARTS Club,5,No,STU352
+None,2,No,STU353
+JETS Club,4,Yes,STU354
+Maths Club,5,No,STU355
+JETS Club,1,No,STU356
+Debate & Press Club,4,No,STU357
+ARTS Club,1,Yes,STU358
+JETS Club,1,Yes,STU359
+Debate & Press Club,5,Yes,STU360
+Sports,4,No,STU361
+JETS Club,3,No,STU362
+None,3,No,STU363
+JETS Club,6,No,STU364
+ARTS Club,5,No,STU365
+Sports,1,No,STU366
+Sports,4,Yes,STU367
+Sports,3,Yes,STU368
+Debate & Press Club,0,Yes,STU369
+ARTS Club,0,Yes,STU370
+None,5,No,STU371
+Debate & Press Club,4,No,STU372
+None,0,Yes,STU373
+Debate & Press Club,4,No,STU374
+Sports,0,Yes,STU375
+Debate & Press Club,3,No,STU376
+Debate & Press Club,6,No,STU377
+JETS Club,2,Yes,STU378
+JETS Club,6,Yes,STU379
+None,1,No,STU380
+None,2,Yes,STU381
+None,0,No,STU382
+Debate & Press Club,5,Yes,STU383
+Maths Club,4,No,STU384
+JETS Club,4,Yes,STU385
+Debate & Press Club,4,Yes,STU386
+ARTS Club,3,Yes,STU387
+ARTS Club,2,No,STU388
+Maths Club,6,No,STU389
+ARTS Club,0,Yes,STU390
+ARTS Club,0,Yes,STU391
+ARTS Club,2,No,STU392
+JETS Club,2,Yes,STU393
+JETS Club,3,Yes,STU394
+ARTS Club,4,No,STU395
+None,5,No,STU396
+JETS Club,1,Yes,STU397
+None,3,No,STU398
+Debate & Press Club,4,Yes,STU399
+Debate & Press Club,2,No,STU400
+ARTS Club,3,No,STU401
+JETS Club,4,Yes,STU402
+Sports,3,No,STU403
+None,0,No,STU404
+None,3,Yes,STU405
+JETS Club,1,Yes,STU406
+Sports,5,Yes,STU407
+Maths Club,4,Yes,STU408
+Debate & Press Club,2,No,STU409
+Maths Club,6,No,STU410
+Debate & Press Club,5,No,STU411
+None,0,No,STU412
+JETS Club,0,No,STU413
+Maths Club,3,No,STU414
+Debate & Press Club,1,No,STU415
+Maths Club,0,No,STU416
+None,0,Yes,STU417
+JETS Club,4,Yes,STU418
+Maths Club,1,Yes,STU419
+Maths Club,3,Yes,STU420
+JETS Club,4,No,STU421
+Maths Club,6,Yes,STU422
+ARTS Club,3,No,STU423
+Debate & Press Club,3,Yes,STU424
+Sports,6,No,STU425
+JETS Club,4,Yes,STU426
+Maths Club,6,Yes,STU427
+None,1,No,STU428
+Sports,0,Yes,STU429
+Maths Club,0,No,STU430
+ARTS Club,5,No,STU431
+Sports,5,Yes,STU432
+None,4,Yes,STU433
+Maths Club,1,No,STU434
+Sports,2,Yes,STU435
+Debate & Press Club,1,Yes,STU436
+Maths Club,0,No,STU437
+Debate & Press Club,6,No,STU438
+Sports,6,Yes,STU439
+Sports,4,No,STU440
+Maths Club,1,No,STU441
+None,2,No,STU442
+None,0,Yes,STU443
+None,0,No,STU444
+Maths Club,2,Yes,STU445
+JETS Club,0,No,STU446
+JETS Club,6,Yes,STU447
+JETS Club,3,Yes,STU448
+Maths Club,3,No,STU449
+Maths Club,3,No,STU450
+ARTS Club,4,No,STU451
+Sports,5,Yes,STU452
+None,4,Yes,STU453
+ARTS Club,2,No,STU454
+None,5,Yes,STU455
+JETS Club,3,Yes,STU456
+ARTS Club,5,Yes,STU457
+Sports,5,Yes,STU458
+None,6,Yes,STU459
+JETS Club,1,Yes,STU460
+Debate & Press Club,2,Yes,STU461
+ARTS Club,2,No,STU462
+Debate & Press Club,1,No,STU463
+JETS Club,1,Yes,STU464
+ARTS Club,3,Yes,STU465
+Debate & Press Club,4,No,STU466
+Debate & Press Club,0,Yes,STU467
+JETS Club,2,Yes,STU468
+Debate & Press Club,0,No,STU469
+JETS Club,0,No,STU470
+None,6,No,STU471
+Maths Club,5,No,STU472
+Maths Club,4,Yes,STU473
+JETS Club,3,No,STU474
+Maths Club,5,No,STU475
+Sports,3,Yes,STU476
+None,6,No,STU477
+ARTS Club,4,Yes,STU478
+Debate & Press Club,1,No,STU479
+ARTS Club,1,No,STU480
+JETS Club,5,Yes,STU481
+Sports,6,No,STU482
+None,0,Yes,STU483
+None,4,No,STU484
+Sports,3,No,STU485
+ARTS Club,4,No,STU486
+ARTS Club,4,No,STU487
+Sports,2,No,STU488
+JETS Club,0,No,STU489
+Maths Club,5,Yes,STU490
+Sports,4,No,STU491
+Maths Club,0,Yes,STU492
+ARTS Club,1,Yes,STU493
+None,4,Yes,STU494
+Maths Club,4,No,STU495
+Debate & Press Club,1,Yes,STU496
+ARTS Club,4,No,STU497
+Maths Club,1,No,STU498
+Sports,1,Yes,STU499
+JETS Club,5,No,STU500
+Sports,2,No,STU501
+ARTS Club,6,No,STU502
+Debate & Press Club,3,Yes,STU503
+Debate & Press Club,2,No,STU504
+JETS Club,3,No,STU505
+Debate & Press Club,0,No,STU506
+Debate & Press Club,2,Yes,STU507
+Maths Club,6,Yes,STU508
+Debate & Press Club,3,Yes,STU509
+Debate & Press Club,1,Yes,STU510
+Debate & Press Club,3,Yes,STU511
+None,2,Yes,STU512
+Sports,4,No,STU513
+Sports,4,Yes,STU514
+JETS Club,1,Yes,STU515
+Maths Club,0,No,STU516
+None,0,Yes,STU517
+Maths Club,1,No,STU518
+Debate & Press Club,2,No,STU519
+Maths Club,2,Yes,STU520
+Debate & Press Club,1,Yes,STU521
+JETS Club,1,No,STU522
+Maths Club,1,No,STU523
+JETS Club,5,Yes,STU524
+Debate & Press Club,0,Yes,STU525
+JETS Club,0,Yes,STU526
+Sports,1,Yes,STU527
+ARTS Club,4,Yes,STU528
+Debate & Press Club,0,Yes,STU529
+ARTS Club,5,Yes,STU530
+ARTS Club,5,Yes,STU531
+Sports,1,Yes,STU532
+Sports,1,Yes,STU533
+Maths Club,5,Yes,STU534
+Maths Club,4,Yes,STU535
+Maths Club,2,Yes,STU536
+None,1,No,STU537
+Maths Club,3,Yes,STU538
+Sports,3,No,STU539
+JETS Club,2,Yes,STU540
+None,6,Yes,STU541
+Debate & Press Club,4,Yes,STU542
+None,6,No,STU543
+JETS Club,2,No,STU544
+None,5,No,STU545
+Debate & Press Club,5,No,STU546
+JETS Club,6,No,STU547
+JETS Club,4,Yes,STU548
+JETS Club,2,No,STU549
+Debate & Press Club,0,No,STU550
+None,0,No,STU551
+ARTS Club,0,No,STU552
+JETS Club,4,Yes,STU553
+None,4,Yes,STU554
+Maths Club,1,No,STU555
+Sports,3,No,STU556
+Sports,2,Yes,STU557
+Sports,4,Yes,STU558
+ARTS Club,4,Yes,STU559
+Maths Club,6,Yes,STU560
+Maths Club,0,Yes,STU561
+Debate & Press Club,3,Yes,STU562
+Debate & Press Club,1,Yes,STU563
+Maths Club,3,Yes,STU564
+Sports,6,No,STU565
+Sports,0,Yes,STU566
+JETS Club,5,No,STU567
+Maths Club,0,Yes,STU568
+Sports,4,No,STU569
+Maths Club,6,Yes,STU570
+Sports,6,Yes,STU571
+ARTS Club,0,Yes,STU572
+ARTS Club,6,Yes,STU573
+ARTS Club,6,No,STU574
+ARTS Club,3,Yes,STU575
+Maths Club,1,Yes,STU576
+Maths Club,2,Yes,STU577
+Sports,0,No,STU578
+Debate & Press Club,4,No,STU579
+JETS Club,1,Yes,STU580
+ARTS Club,4,Yes,STU581
+None,0,No,STU582
+Maths Club,6,No,STU583
+None,2,No,STU584
+Maths Club,0,Yes,STU585
+JETS Club,2,No,STU586
+ARTS Club,0,No,STU587
+None,0,Yes,STU588
+None,5,Yes,STU589
+Sports,0,No,STU590
+JETS Club,2,No,STU591
+JETS Club,0,No,STU592
+None,2,Yes,STU593
+ARTS Club,5,Yes,STU594
+Debate & Press Club,4,No,STU595
+ARTS Club,6,No,STU596
+Maths Club,3,Yes,STU597
+None,3,Yes,STU598
+Debate & Press Club,5,Yes,STU599
+None,3,Yes,STU600
