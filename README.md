@@ -1,8 +1,6 @@
 # Hackathon Education Solutions
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)  
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)  
-![Contributors](https://img.shields.io/github/contributors/your-repo.svg)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -12,7 +10,6 @@
 5. [Usage](#usage)
 6. [Technologies Used](#technologies-used)
 7. [Contribution Guidelines](#contribution-guidelines)
-8. [License](#license)
 9. [Contact Information](#contact-information)
 
 ---
@@ -110,7 +107,7 @@ You will need Python 3.x installed on your machine. For the **AI Examiner** proj
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/Onyeocha-Keside/DataFest-Africa-Hackathon-2024.git
     ```
 
 2. Navigate to the `AI_Examiner` directory:
@@ -197,15 +194,8 @@ We welcome contributions from the open-source community! To contribute to the pr
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
 ## Contact Information
 
 For any inquiries or feedback, feel free to reach out:
 
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [your-email@example.com](mailto:onyeocha.keside@gmail.com)
