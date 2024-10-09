@@ -1,3 +1,5 @@
+### Note: The Code for the AI Examiner is in this repo: https://github.com/Onyeocha-Keside/AI-Examiner.
+
 # Hackathon Education Solutions
 
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)  
